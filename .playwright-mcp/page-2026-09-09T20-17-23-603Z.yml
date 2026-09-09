@@ -1,0 +1,132 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - text: Двуглавый
+        - generic [ref=f1e5]: Барбершоп
+      - navigation [ref=f1e6]:
+        - link "Услуги" [ref=f1e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "Локация" [ref=f1e8] [cursor=pointer]:
+          - /url: "#location"
+      - link "Записаться ↗" [ref=f1e9] [cursor=pointer]:
+        - /url: https://wa.me/79189720009
+        - text: Записаться
+        - generic [ref=f1e10]: ↗
+  - generic [ref=f1e11]:
+    - link "★ 5 105 оценок, подтверждён" [ref=f1e12] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+      - text: ★
+      - generic [ref=f1e13]: "5"
+      - text: 105 оценок, подтверждён
+    - generic [ref=f1e14]:
+      - generic [ref=f1e15]: Центральный м-н, Центральный округ
+      - heading "Двуглавый БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=f1e16]: ДвуглавыйБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=f1e17]: Скидка 10% по промокоду «Я у вас первый раз!» на первый визит
+      - generic [ref=f1e18]:
+        - link "Записаться ↗" [ref=f1e19] [cursor=pointer]:
+          - /url: https://wa.me/79189720009
+          - text: Записаться
+          - generic [ref=f1e20]: ↗
+        - link "+7 918 972-00-09" [ref=f1e21] [cursor=pointer]:
+          - /url: tel:+79189720009
+  - generic [ref=f1e23]:
+    - img "Двуглавый" [ref=f1e25]
+    - generic [ref=f1e26]:
+      - generic [ref=f1e27]: О БАРБЕРШОПЕ
+      - heading "Двуглавый — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=f1e28]
+      - paragraph [ref=f1e29]: Центральный м-н, Центральный округ, Краснодар. Рейтинг 5 (105 оценок, подтверждён) по данным 2ГИС. Скидка 10% по промокоду «Я у вас первый раз!» на первый визит
+      - link "Записаться ↗" [ref=f1e30] [cursor=pointer]:
+        - /url: https://wa.me/79189720009
+        - text: Записаться
+        - generic [ref=f1e31]: ↗
+  - generic [ref=f1e33]:
+    - generic [ref=f1e34]:
+      - generic [ref=f1e35]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f1e36]
+      - generic [ref=f1e37]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f1e38]:
+      - generic [ref=f1e39]: Стрижка
+      - generic [ref=f1e40]:
+        - generic [ref=f1e41]: Стрижка + борода
+        - generic [ref=f1e43]: 2 300 ₽
+      - generic [ref=f1e44]:
+        - generic [ref=f1e45]: Мужская стрижка
+        - generic [ref=f1e47]: 1 400 ₽
+      - generic [ref=f1e48]:
+        - generic [ref=f1e49]: Детская стрижка (5–10 лет)
+        - generic [ref=f1e51]: 1 200 ₽
+      - generic [ref=f1e52]:
+        - generic [ref=f1e53]: Стрижка машинкой (1 насадка)
+        - generic [ref=f1e55]: 400 ₽
+      - generic [ref=f1e56]:
+        - generic [ref=f1e57]: Стрижка ножницами
+        - generic [ref=f1e59]: 1 600 ₽
+    - generic [ref=f1e60]:
+      - generic [ref=f1e61]: Борода
+      - generic [ref=f1e62]:
+        - generic [ref=f1e63]: Стрижка бороды с окантовкой
+        - generic [ref=f1e65]: 900 ₽
+      - generic [ref=f1e66]:
+        - generic [ref=f1e67]: Камуфляж бороды
+        - generic [ref=f1e69]: 700 ₽
+      - generic [ref=f1e70]:
+        - generic [ref=f1e71]: Окантовка
+        - generic [ref=f1e73]: 400 ₽
+      - generic [ref=f1e74]:
+        - generic [ref=f1e75]: Бритьё шейвером
+        - generic [ref=f1e77]: 700 ₽
+    - generic [ref=f1e78]:
+      - generic [ref=f1e79]: Дополнительные услуги
+      - generic [ref=f1e80]:
+        - generic [ref=f1e81]: Эпиляция воском
+        - generic [ref=f1e83]: 300 ₽
+      - generic [ref=f1e84]:
+        - generic [ref=f1e85]: Тонировка головы
+        - generic [ref=f1e87]: 1 000 ₽
+  - generic [ref=f1e89]:
+    - img "Двуглавый" [ref=f1e90]
+    - generic [ref=f1e91]:
+      - generic [ref=f1e92]: ЦЕНТРАЛЬНЫЙ М-Н, ЦЕНТРАЛЬНЫЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=f1e93]
+      - list [ref=f1e94]:
+        - listitem [ref=f1e95]: "Адрес: Железнодорожная улица, 23/1, 1 этаж, Краснодар"
+        - listitem [ref=f1e96]:
+          - text: "Телефон:"
+          - link "+7 918 972-00-09" [ref=f1e97] [cursor=pointer]:
+            - /url: tel:+79189720009
+        - listitem [ref=f1e98]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f1e99]:
+        - link "Записаться ↗" [ref=f1e100] [cursor=pointer]:
+          - /url: https://wa.me/79189720009
+          - text: Записаться
+          - generic [ref=f1e101]: ↗
+        - link "Профиль на 2ГИС" [ref=f1e102] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+  - contentinfo [ref=f1e103]:
+    - generic [ref=f1e104]:
+      - generic [ref=f1e105]:
+        - generic [ref=f1e106]:
+          - heading "Двуглавый" [level=4] [ref=f1e107]
+          - paragraph [ref=f1e108]: Центральный м-н, Центральный округ, КраснодарЖелезнодорожная улица, 23/1, 1 этаж
+        - generic [ref=f1e109]:
+          - heading "Контакты" [level=4] [ref=f1e110]
+          - link "+7 918 972-00-09" [ref=f1e111] [cursor=pointer]:
+            - /url: tel:+79189720009
+          - link "WhatsApp" [ref=f1e112] [cursor=pointer]:
+            - /url: https://wa.me/79189720009
+          - link "Telegram" [ref=f1e113] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f1e114]:
+          - heading "Быстрые ссылки" [level=4] [ref=f1e115]
+          - link "Услуги и цены" [ref=f1e116] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f1e117] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f1e118] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+      - generic [ref=f1e119]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Двуглавый» на
+        - link "2ГИС" [ref=f1e120] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

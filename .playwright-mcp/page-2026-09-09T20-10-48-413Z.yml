@@ -1,0 +1,149 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - text: Bronx
+        - generic [ref=f4e5]: Барбершоп
+      - navigation [ref=f4e6]:
+        - link "Услуги" [ref=f4e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "Локация" [ref=f4e8] [cursor=pointer]:
+          - /url: "#location"
+      - link "Записаться ↗" [ref=f4e9] [cursor=pointer]:
+        - /url: https://wa.me/79898178190
+        - text: Записаться
+        - generic [ref=f4e10]: ↗
+  - generic [ref=f4e11]:
+    - link "★ 5 492 оценки, подтверждён" [ref=f4e12] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001066539335
+      - text: ★
+      - generic [ref=f4e13]: "5"
+      - text: 492 оценки, подтверждён
+    - generic [ref=f4e14]:
+      - generic [ref=f4e15]: Музыкальный м-н, Прикубанский округ
+      - heading "Bronx БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=f4e16]: BronxБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=f4e17]: Попади в таймер — стрижка бесплатно! Приведи друга — скидка 30%
+      - generic [ref=f4e18]:
+        - link "Записаться ↗" [ref=f4e19] [cursor=pointer]:
+          - /url: https://wa.me/79898178190
+          - text: Записаться
+          - generic [ref=f4e20]: ↗
+        - link "8 800 505-53-66" [ref=f4e21] [cursor=pointer]:
+          - /url: tel:88005055366
+  - generic [ref=f4e23]:
+    - img "Bronx" [ref=f4e25]
+    - generic [ref=f4e26]:
+      - generic [ref=f4e27]: О БАРБЕРШОПЕ
+      - heading "Bronx — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=f4e28]
+      - paragraph [ref=f4e29]: Музыкальный м-н, Прикубанский округ, Краснодар. Рейтинг 5 (492 оценки, подтверждён) по данным 2ГИС. Попади в таймер — стрижка бесплатно! Приведи друга — скидка 30%
+      - link "Записаться ↗" [ref=f4e30] [cursor=pointer]:
+        - /url: https://wa.me/79898178190
+        - text: Записаться
+        - generic [ref=f4e31]: ↗
+  - generic [ref=f4e33]:
+    - generic [ref=f4e34]:
+      - generic [ref=f4e35]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f4e36]
+      - generic [ref=f4e37]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f4e38]:
+      - generic [ref=f4e39]: Мужская стрижка
+      - generic [ref=f4e40]:
+        - generic [ref=f4e41]: Стрижка под насадку
+        - generic [ref=f4e43]: 500 ₽
+      - generic [ref=f4e44]:
+        - generic [ref=f4e45]: Окантовка головы
+        - generic [ref=f4e47]: 500 ₽
+      - generic [ref=f4e48]:
+        - generic [ref=f4e49]: Мужская стрижка
+        - generic [ref=f4e51]: 1 200 ₽
+      - generic [ref=f4e52]:
+        - generic [ref=f4e53]: Удлинённая мужская стрижка
+        - generic [ref=f4e55]: 1 500 ₽
+    - generic [ref=f4e56]:
+      - generic [ref=f4e57]: Моделирование бороды и усов
+      - generic [ref=f4e58]:
+        - generic [ref=f4e59]: Моделирование бороды
+        - generic [ref=f4e61]: 1 000 ₽
+      - generic [ref=f4e62]:
+        - generic [ref=f4e63]: Окантовка бороды
+        - generic [ref=f4e65]: 600 ₽
+      - generic [ref=f4e66]:
+        - generic [ref=f4e67]: Королевское бритьё
+        - generic [ref=f4e69]: 800 ₽
+    - generic [ref=f4e70]:
+      - generic [ref=f4e71]: Комплекс
+      - generic [ref=f4e72]:
+        - generic [ref=f4e73]: Комплекс (стрижка и борода)
+        - generic [ref=f4e75]: 2 200 ₽
+    - generic [ref=f4e76]:
+      - generic [ref=f4e77]: Тонировка
+      - generic [ref=f4e78]:
+        - generic [ref=f4e79]: Тонирование головы
+        - generic [ref=f4e81]: 1 000 ₽
+      - generic [ref=f4e82]:
+        - generic [ref=f4e83]: Тонирование бороды
+        - generic [ref=f4e85]: 1 000 ₽
+    - generic [ref=f4e86]:
+      - generic [ref=f4e87]: Уходовые процедуры
+      - generic [ref=f4e88]:
+        - generic [ref=f4e89]: Депиляция воском (зона)
+        - generic [ref=f4e91]: 200 ₽
+      - generic [ref=f4e92]:
+        - generic [ref=f4e93]: Коррекция бровей
+        - generic [ref=f4e95]: 100 ₽
+      - generic [ref=f4e96]:
+        - generic [ref=f4e97]: Укладка волос
+        - generic [ref=f4e99]: 200 ₽
+      - generic [ref=f4e100]:
+        - generic [ref=f4e101]: Black mask
+        - generic [ref=f4e103]: 700 ₽
+  - generic [ref=f4e105]:
+    - img "Bronx" [ref=f4e106]
+    - generic [ref=f4e107]:
+      - generic [ref=f4e108]: МУЗЫКАЛЬНЫЙ М-Н, ПРИКУБАНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=f4e109]
+      - list [ref=f4e110]:
+        - listitem [ref=f4e111]: "Адрес: Улица Сергея Есенина, 108/2, 1 этаж (4 филиала), Краснодар"
+        - listitem [ref=f4e112]:
+          - text: "Телефон:"
+          - link "8 800 505-53-66" [ref=f4e113] [cursor=pointer]:
+            - /url: tel:88005055366
+        - listitem [ref=f4e114]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f4e115]:
+        - link "Записаться ↗" [ref=f4e116] [cursor=pointer]:
+          - /url: https://wa.me/79898178190
+          - text: Записаться
+          - generic [ref=f4e117]: ↗
+        - link "Профиль на 2ГИС" [ref=f4e118] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001066539335
+  - contentinfo [ref=f4e119]:
+    - generic [ref=f4e120]:
+      - generic [ref=f4e121]:
+        - generic [ref=f4e122]:
+          - heading "Bronx" [level=4] [ref=f4e123]
+          - paragraph [ref=f4e124]: Музыкальный м-н, Прикубанский округ, КраснодарУлица Сергея Есенина, 108/2, 1 этаж (4 филиала)
+        - generic [ref=f4e125]:
+          - heading "Контакты" [level=4] [ref=f4e126]
+          - link "8 800 505-53-66" [ref=f4e127] [cursor=pointer]:
+            - /url: tel:88005055366
+          - link "VKontakte" [ref=f4e128] [cursor=pointer]:
+            - /url: "#"
+          - link "WhatsApp" [ref=f4e129] [cursor=pointer]:
+            - /url: https://wa.me/79898178190
+          - link "Telegram" [ref=f4e130] [cursor=pointer]:
+            - /url: "#"
+          - link "Max" [ref=f4e131] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f4e132]:
+          - heading "Быстрые ссылки" [level=4] [ref=f4e133]
+          - link "Услуги и цены" [ref=f4e134] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f4e135] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f4e136] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001066539335
+      - generic [ref=f4e137]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Bronx» на
+        - link "2ГИС" [ref=f4e138] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001066539335
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

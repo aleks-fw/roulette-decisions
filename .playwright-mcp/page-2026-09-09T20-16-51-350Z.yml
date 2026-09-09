@@ -1,0 +1,126 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - text: Барберхан
+        - generic [ref=f1e5]: Барбершоп
+      - link "Записаться ↗" [ref=f1e6] [cursor=pointer]:
+        - /url: https://wa.me/79809560808
+        - text: Записаться
+        - generic [ref=f1e7]: ↗
+  - generic [ref=f1e8]:
+    - link "★ 5 номинант «Премии 2ГИС 2026»" [ref=f1e9] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001093608119
+      - text: ★
+      - generic [ref=f1e10]: "5"
+      - text: номинант «Премии 2ГИС 2026»
+    - generic [ref=f1e11]:
+      - generic [ref=f1e12]: Прикубанский округ
+      - heading "Барберхан БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=f1e13]: БарберханБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=f1e14]: Опытные барберы. Массаж + скидка 10% + окантовка навсегда
+      - generic [ref=f1e15]:
+        - link "Записаться ↗" [ref=f1e16] [cursor=pointer]:
+          - /url: https://wa.me/79809560808
+          - text: Записаться
+          - generic [ref=f1e17]: ↗
+        - link "+7 980 956-08-08" [ref=f1e18] [cursor=pointer]:
+          - /url: tel:+79809560808
+  - generic [ref=f1e20]:
+    - img "Барберхан" [ref=f1e22]
+    - generic [ref=f1e23]:
+      - generic [ref=f1e24]: О БАРБЕРШОПЕ
+      - heading "Барберхан — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=f1e25]
+      - paragraph [ref=f1e26]: Прикубанский округ, Краснодар. Рейтинг 5 (номинант «Премии 2ГИС 2026») по данным 2ГИС. Опытные барберы. Массаж + скидка 10% + окантовка навсегда
+      - link "Записаться ↗" [ref=f1e27] [cursor=pointer]:
+        - /url: https://wa.me/79809560808
+        - text: Записаться
+        - generic [ref=f1e28]: ↗
+  - generic [ref=f1e30]:
+    - generic [ref=f1e31]:
+      - generic [ref=f1e32]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f1e33]
+      - generic [ref=f1e34]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f1e35]:
+      - generic [ref=f1e36]: Стрижка
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]:
+          - generic [ref=f1e39]: Мужская стрижка
+          - generic [ref=f1e40]: Современные техники, мойка головы входит в стоимость.
+        - generic [ref=f1e41]: 1 500–1 700 ₽
+      - generic [ref=f1e42]:
+        - generic [ref=f1e43]: Детская стрижка (1–10 лет)
+        - generic [ref=f1e45]: 1 200–1 400 ₽
+      - generic [ref=f1e46]:
+        - generic [ref=f1e47]: Стрижка ножницами
+        - generic [ref=f1e49]: 1 700–1 900 ₽
+      - generic [ref=f1e50]:
+        - generic [ref=f1e51]: Стрижка под машинку (фейд)
+        - generic [ref=f1e53]: 1 200–1 400 ₽
+      - generic [ref=f1e54]:
+        - generic [ref=f1e55]: Стрижка под машинку
+        - generic [ref=f1e57]: 900–1 100 ₽
+      - generic [ref=f1e58]:
+        - generic [ref=f1e59]: Рисунки (креативные)
+        - generic [ref=f1e61]: 300 ₽
+    - generic [ref=f1e62]:
+      - generic [ref=f1e63]: Борода и уход
+      - generic [ref=f1e64]:
+        - generic [ref=f1e65]: Моделирование бороды опасной бритвой
+        - generic [ref=f1e67]: 1 200–1 400 ₽
+      - generic [ref=f1e68]:
+        - generic [ref=f1e69]: Ханское бритьё
+        - generic [ref=f1e71]: 1 200–1 400 ₽
+      - generic [ref=f1e72]:
+        - generic [ref=f1e73]: Тонировка бороды
+        - generic [ref=f1e75]: 800–1 000 ₽
+    - paragraph [ref=f1e76]: Полный прайс (24 позиции — уход, тонировка, депиляция) — в карточке 2ГИС.
+  - generic [ref=f1e78]:
+    - img "Барберхан" [ref=f1e79]
+    - generic [ref=f1e80]:
+      - generic [ref=f1e81]: ПРИКУБАНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=f1e82]
+      - list [ref=f1e83]:
+        - listitem [ref=f1e84]: "Адрес: Западный обход, 39/1 к6, 1 этаж, Краснодар"
+        - listitem [ref=f1e85]:
+          - text: "Телефон:"
+          - link "+7 980 956-08-08" [ref=f1e86] [cursor=pointer]:
+            - /url: tel:+79809560808
+        - listitem [ref=f1e87]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f1e88]:
+        - link "Записаться ↗" [ref=f1e89] [cursor=pointer]:
+          - /url: https://wa.me/79809560808
+          - text: Записаться
+          - generic [ref=f1e90]: ↗
+        - link "Профиль на 2ГИС" [ref=f1e91] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001093608119
+  - contentinfo [ref=f1e92]:
+    - generic [ref=f1e93]:
+      - generic [ref=f1e94]:
+        - generic [ref=f1e95]:
+          - heading "Барберхан" [level=4] [ref=f1e96]
+          - paragraph [ref=f1e97]: Прикубанский округ, КраснодарЗападный обход, 39/1 к6, 1 этаж
+        - generic [ref=f1e98]:
+          - heading "Контакты" [level=4] [ref=f1e99]
+          - link "+7 980 956-08-08" [ref=f1e100] [cursor=pointer]:
+            - /url: tel:+79809560808
+          - link "YouTube" [ref=f1e101] [cursor=pointer]:
+            - /url: "#"
+          - link "Telegram" [ref=f1e102] [cursor=pointer]:
+            - /url: "#"
+          - link "WhatsApp" [ref=f1e103] [cursor=pointer]:
+            - /url: https://wa.me/79809560808
+          - link "Max" [ref=f1e104] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f1e105]:
+          - heading "Быстрые ссылки" [level=4] [ref=f1e106]
+          - link "Услуги и цены" [ref=f1e107] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f1e108] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f1e109] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001093608119
+      - generic [ref=f1e110]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Барберхан» на
+        - link "2ГИС" [ref=f1e111] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001093608119
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

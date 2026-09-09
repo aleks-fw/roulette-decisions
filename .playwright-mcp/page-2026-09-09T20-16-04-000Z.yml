@@ -1,0 +1,132 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - text: Hairbar
+        - generic [ref=f1e5]: Мужская парикмахерская
+      - navigation [ref=f1e6]:
+        - link "Услуги" [ref=f1e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "Локация" [ref=f1e8] [cursor=pointer]:
+          - /url: "#location"
+      - link "Записаться ↗" [ref=f1e9] [cursor=pointer]:
+        - /url: tel:+79880838187
+        - text: Записаться
+        - generic [ref=f1e10]: ↗
+  - generic [ref=f1e11]:
+    - link "★ 4.9 138 оценок" [ref=f1e12] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001036342109
+      - text: ★
+      - generic [ref=f1e13]: "4.9"
+      - text: 138 оценок
+    - generic [ref=f1e14]:
+      - generic [ref=f1e15]: Молодёжный м-н, Прикубанский округ, пос. Березовый
+      - heading "Hairbar МУЖСКАЯ ПАРИКМАХЕРСКАЯ В КРАСНОДАРЕ" [level=1] [ref=f1e16]: HairbarМУЖСКАЯ ПАРИКМАХЕРСКАЯ В КРАСНОДАРЕ
+      - paragraph [ref=f1e17]: "Знакомься с младшим барбером: плати честно сколько хочешь"
+      - generic [ref=f1e18]:
+        - link "Записаться ↗" [ref=f1e19] [cursor=pointer]:
+          - /url: tel:+79880838187
+          - text: Записаться
+          - generic [ref=f1e20]: ↗
+        - link "+7 988 083-81-87" [ref=f1e21] [cursor=pointer]:
+          - /url: tel:+79880838187
+  - generic [ref=f1e23]:
+    - img "Hairbar" [ref=f1e25]
+    - generic [ref=f1e26]:
+      - generic [ref=f1e27]: О БАРБЕРШОПЕ
+      - heading "Hairbar — мужская парикмахерская в Краснодаре с реальными отзывами" [level=2] [ref=f1e28]
+      - paragraph [ref=f1e29]: "Молодёжный м-н, Прикубанский округ, пос. Березовый, Краснодар. Рейтинг 4.9 (138 оценок) по данным 2ГИС. Знакомься с младшим барбером: плати честно сколько хочешь"
+      - link "Записаться ↗" [ref=f1e30] [cursor=pointer]:
+        - /url: tel:+79880838187
+        - text: Записаться
+        - generic [ref=f1e31]: ↗
+  - generic [ref=f1e33]:
+    - generic [ref=f1e34]:
+      - generic [ref=f1e35]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f1e36]
+      - generic [ref=f1e37]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f1e38]:
+      - generic [ref=f1e39]: Комплексы (выгода до 15%)
+      - generic [ref=f1e40]:
+        - generic [ref=f1e41]: Стрижка ножницами + моделирование бороды
+        - generic [ref=f1e43]: 2 900 ₽
+      - generic [ref=f1e44]:
+        - generic [ref=f1e45]: Стрижка классическая + моделирование бороды
+        - generic [ref=f1e47]: 2 000–2 600 ₽
+    - generic [ref=f1e48]:
+      - generic [ref=f1e49]: Для детей
+      - generic [ref=f1e50]:
+        - generic [ref=f1e51]: Узор на голове (hair-tattoo)
+        - generic [ref=f1e53]: 400–800 ₽
+      - generic [ref=f1e54]:
+        - generic [ref=f1e55]: Детская стрижка (до 7 лет)
+        - generic [ref=f1e57]: 1 600–2 000 ₽
+    - generic [ref=f1e58]:
+      - generic [ref=f1e59]: Верхняя зона (голова)
+      - generic [ref=f1e60]:
+        - generic [ref=f1e61]: Стрижка «ножницами»
+        - generic [ref=f1e63]: 2 000 ₽
+      - generic [ref=f1e64]:
+        - generic [ref=f1e65]: Стрижка «классическая»
+        - generic [ref=f1e67]: 1 200–1 600 ₽
+      - generic [ref=f1e68]:
+        - generic [ref=f1e69]: Стрижка «машинкой»
+        - generic [ref=f1e71]: 800 ₽
+      - generic [ref=f1e72]:
+        - generic [ref=f1e73]: Окантовка стрижки
+        - generic [ref=f1e75]: 400–600 ₽
+    - generic [ref=f1e76]:
+      - generic [ref=f1e77]: Нижняя зона (борода)
+      - generic [ref=f1e78]:
+        - generic [ref=f1e79]: Моделирование бороды
+        - generic [ref=f1e81]: 800–1 200 ₽
+      - generic [ref=f1e82]:
+        - generic [ref=f1e83]: Стрижка бороды / усов
+        - generic [ref=f1e85]: 600–800 ₽
+      - generic [ref=f1e86]:
+        - generic [ref=f1e87]: Окантовка бороды
+        - generic [ref=f1e89]: 400–600 ₽
+  - generic [ref=f1e91]:
+    - img "Hairbar" [ref=f1e92]
+    - generic [ref=f1e93]:
+      - generic [ref=f1e94]: МОЛОДЁЖНЫЙ М-Н, ПРИКУБАНСКИЙ ОКРУГ, ПОС. БЕРЕЗОВЫЙ
+      - heading "Как нас найти" [level=2] [ref=f1e95]
+      - list [ref=f1e96]:
+        - listitem [ref=f1e97]: "Адрес: Целиноградская улица, 4/2 к1, цокольный этаж, Краснодар"
+        - listitem [ref=f1e98]:
+          - text: "Телефон:"
+          - link "+7 988 083-81-87" [ref=f1e99] [cursor=pointer]:
+            - /url: tel:+79880838187
+        - listitem [ref=f1e100]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f1e101]:
+        - link "Записаться ↗" [ref=f1e102] [cursor=pointer]:
+          - /url: tel:+79880838187
+          - text: Записаться
+          - generic [ref=f1e103]: ↗
+        - link "Профиль на 2ГИС" [ref=f1e104] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001036342109
+  - contentinfo [ref=f1e105]:
+    - generic [ref=f1e106]:
+      - generic [ref=f1e107]:
+        - generic [ref=f1e108]:
+          - heading "Hairbar" [level=4] [ref=f1e109]
+          - paragraph [ref=f1e110]: Молодёжный м-н, Прикубанский округ, пос. Березовый, КраснодарЦелиноградская улица, 4/2 к1, цокольный этаж
+        - generic [ref=f1e111]:
+          - heading "Контакты" [level=4] [ref=f1e112]
+          - link "+7 988 083-81-87" [ref=f1e113] [cursor=pointer]:
+            - /url: tel:+79880838187
+          - link "VKontakte" [ref=f1e114] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f1e115]:
+          - heading "Быстрые ссылки" [level=4] [ref=f1e116]
+          - link "Услуги и цены" [ref=f1e117] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f1e118] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f1e119] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001036342109
+      - generic [ref=f1e120]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Hairbar» на
+        - link "2ГИС" [ref=f1e121] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001036342109
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

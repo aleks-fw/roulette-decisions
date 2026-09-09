@@ -1,0 +1,537 @@
+[    1024ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[    6080ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    6082ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    6085ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    8215ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    9142ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    9716ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   12720ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[   18840ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[   23054ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[   37471ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[   87142ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[   95473ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[  127418ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/2:0
+[  144574ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/2:0
+[  153668ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/2:0
+[  168354ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/3:0
+[  178353ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/4:0
+[  187451ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/4:0
+[  197086ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  213851ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  247421ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  262894ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  275549ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  307614ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  335474ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  394477ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  454637ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  512459ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  562881ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  574556ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  634481ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  663461ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  702550ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  760481ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  815069ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  872948ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  905776ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  934553ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[  994464ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1053206ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1112560ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1173692ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1235542ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1296574ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1354095ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1415573ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1462935ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1478677ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1534469ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1599571ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1655581ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1716571ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1773487ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1806359ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1833922ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1898597ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1945500ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 1947388ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 1948702ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1954531ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 1987692ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 2016572ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 2047412ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 2074459ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 2138922ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 2197460ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5:0
+[ 2233269ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2236299ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2238890ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2238894ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2238898ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2240243ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2242895ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2242982ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2243234ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2245268ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2248918ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2248920ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2248923ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2250725ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2252973ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2252974ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2252975ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2254641ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2257737ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2257741ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2257748ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2260155ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2262266ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2262267ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2262268ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2264090ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2266790ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2266794ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2266797ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2268493ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2270706ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2270709ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2270712ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2272387ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2275705ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2275713ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2275719ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2281544ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2282802ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2284158ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2284565ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2293024ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://2gis.ru/krasnodar/firm/70000001032500521/photos:0
+[ 2293490ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2299042ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2299045ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2299048ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2307740ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2308120ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2312560ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001032500521:0
+[ 2315235ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2319790ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2319793ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2319796ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2323907ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2326519ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001032500521/tab/photos:0
+[ 2334311ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001032500521/tab/photos:0
+[ 2346411ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001032500521/tab/photos:0
+[ 2379216ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001032500521/tab/photos:0
+[ 2380483ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://jam.api.2gis.com/scores?view=39.00771172495428,45.030867850616666,39.031744275045725,45.02052414938334&z=16:0
+[ 2383918ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2385848ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2385849ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2385852ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2386627ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2388272ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2389346ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2390686ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2392678ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2392687ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2392693ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2394272ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2394815ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://jam.api.2gis.com/scores?view=38.99548072495428,45.0946570839967,39.019513275045725,45.08432491600332&z=16:0
+[ 2396386ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2396386ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2396387ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2401400ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2401486ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2403793ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2403795ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2403796ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2405921ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2408219ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2408221ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2408225ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2412821ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2415628ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2417862ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2417865ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2417867ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2419449ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2421657ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2421659ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2421663ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2426959ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2427291ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2427962ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2428010ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2430353ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2430356ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2430357ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2432192ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2434244ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2434246ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2434247ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2440997ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2442142ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2442229ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2444519ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2444521ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2444522ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2446154ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2448143ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2448144ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2448145ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2450447ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2452255ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2453260ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2455485ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2455486ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2455487ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2456874ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2458933ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2458933ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2458934ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2461692ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2462010ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2463220ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2465468ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2465469ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2465469ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2467226ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2469154ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2469157ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2469157ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2471562ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2473770ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2476161ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2476169ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2476172ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2477750ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2479488ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2479489ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2479490ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2483496ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2485526ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2485527ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2485529ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2486769ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2489017ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2489017ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2489018ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2492202ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2493408ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2495634ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2495636ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2495637ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2501465ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2502213ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2503663ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/prices:0
+[ 2513922ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/prices:0
+[ 2519456ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/prices:0
+[ 2522897ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2522936ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2527706ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2527709ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2527713ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2529460ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2534022ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2534678ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2536934ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609:0
+[ 2543976ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609:0
+[ 2557464ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609:0
+[ 2568687ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2568796ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2579378ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2579741ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609/tab/prices:0
+[ 2579768ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2579771ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2579774ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2585355ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2586410ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2587740ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609/tab/prices:0
+[ 2594852ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609/tab/prices:0
+[ 2602493ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2604988ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2604993ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2604999ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2606792ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2609219ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2609220ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2609220ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2611034ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2612725ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2612726ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2612728ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2614082ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2616071ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2616073ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2616075ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2617223ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2619379ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2619380ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2619381ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2620676ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2623578ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2623580ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2623583ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2624919ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2626891ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2626893ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2626894ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2628686ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2630447ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2630448ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2630449ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2631689ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2631730ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2634231ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2634232ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2634233ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2638599ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2638910ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2640954ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/prices:0
+[ 2652295ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/prices:0
+[ 2655487ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2660467ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2660468ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2660469ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2662182ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2664896ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2665698ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2668544ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2668631ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2670305ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2670306ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2670306ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2678886ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2679432ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2681905ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2684114ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2684116ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2684117ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2690118ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2691321ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2692667ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2693803ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2694134ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2695018ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2697761ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2697764ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2697767ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2702178ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2703777ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2704106ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2706332ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2708897ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2708919ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2708923ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2712611ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2714523ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2716735ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2718830ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2718831ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2718831ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2721232ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2723686ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2724303ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2726871ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2728820ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2729734ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2731805ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2731805ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2731809ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2737621ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2737928ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2740278ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001036342109/tab/photos:0
+[ 2741506ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2743671ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2743672ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2743673ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2746523ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2747599ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2747896ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2751026ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2751149ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2753658ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2753659ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2753660ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2758201ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2758548ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2760558ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001079806198/tab/photos:0
+[ 2762314ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2764929ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2764937ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2764943ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2772671ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2773038ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2775389ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 2783813ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 2793831ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2796362ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2796365ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2796368ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2798565ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2800845ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2801707ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2803829ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2806184ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2806186ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2806187ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2809424ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001066539335/tab/photos:0
+[ 2812813ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2814680ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2814780ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2817044ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2817047ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2817048ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2822228ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2823808ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2824577ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2826838ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2826841ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2826844ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2830739ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2831323ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2831821ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2833729ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2836643ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2836671ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2836672ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2836673ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2837933ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2839907ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001049959823/tab/photos:0
+[ 2841441ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2842654ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2843099ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2845006ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2847372ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2847373ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2847374ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2851371ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2852216ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2853270ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2854145ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2855468ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2858381ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2858385ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2858385ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2861485ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001036342109/tab/photos:0
+[ 2863275ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2864783ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2866932ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2866933ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2866934ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2872015ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2872081ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001027686609/tab/photos:0
+[ 2872497ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2874484ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2876530ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2876534ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2876540ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2879271ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2882998ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[ 2883096ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[ 2885198ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2885199ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2885199ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2889269ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 2891092ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2893137ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2893680ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[ 2903337ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 2915551ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 2962332ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 2974929ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 3033576ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 3096604ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 3142477ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 3153476ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0
+[ 3214670ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001093608119/tab/photos:0

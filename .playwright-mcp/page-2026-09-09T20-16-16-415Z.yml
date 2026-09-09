@@ -1,0 +1,102 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - text: Molotov
+        - generic [ref=e5]: Мужская парикмахерская
+      - link "Записаться ↗" [ref=e6] [cursor=pointer]:
+        - /url: https://wa.me/79996336522
+        - text: Записаться
+        - generic [ref=e7]: ↗
+  - generic [ref=e8]:
+    - link "★ 5 243 оценки, подтверждён" [ref=e9] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001049959823
+      - text: ★
+      - generic [ref=e10]: "5"
+      - text: 243 оценки, подтверждён
+    - generic [ref=e11]:
+      - generic [ref=e12]: Губернский м-н, Прикубанский округ
+      - heading "Molotov МУЖСКАЯ ПАРИКМАХЕРСКАЯ В КРАСНОДАРЕ" [level=1] [ref=e13]: MolotovМУЖСКАЯ ПАРИКМАХЕРСКАЯ В КРАСНОДАРЕ
+      - paragraph [ref=e14]: Знакомство с мастером от 1199 ₽ при онлайн-записи!
+      - generic [ref=e15]:
+        - link "Записаться ↗" [ref=e16] [cursor=pointer]:
+          - /url: https://wa.me/79996336522
+          - text: Записаться
+          - generic [ref=e17]: ↗
+        - link "+7 999 633-65-22" [ref=e18] [cursor=pointer]:
+          - /url: tel:+79996336522
+  - generic [ref=e20]:
+    - img "Molotov" [ref=e22]
+    - generic [ref=e23]:
+      - generic [ref=e24]: О БАРБЕРШОПЕ
+      - heading "Molotov — мужская парикмахерская в Краснодаре с реальными отзывами" [level=2] [ref=e25]
+      - paragraph [ref=e26]: Губернский м-н, Прикубанский округ, Краснодар. Рейтинг 5 (243 оценки, подтверждён) по данным 2ГИС. Знакомство с мастером от 1199 ₽ при онлайн-записи!
+      - link "Записаться ↗" [ref=e27] [cursor=pointer]:
+        - /url: https://wa.me/79996336522
+        - text: Записаться
+        - generic [ref=e28]: ↗
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=e33]
+      - generic [ref=e34]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=e35]:
+      - generic [ref=e36]: Акция
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: Знакомство с мастером
+          - generic [ref=e40]: Стрижка ножницами и машинкой, мойка головы и укладка
+        - generic [ref=e41]: 2 000 ₽
+      - generic [ref=e42]:
+        - generic [ref=e43]: Знакомство с мастером PRO BARBER
+        - generic [ref=e45]: 1 600 ₽
+      - generic [ref=e46]:
+        - generic [ref=e47]: Знакомство с мастером BARBER
+        - generic [ref=e49]: 1 200 ₽
+    - paragraph [ref=e50]: Полный прайс (18 позиций стрижек, комплексов и услуг по бороде) — уточняйте по телефону или в карточке 2ГИС.
+  - generic [ref=e52]:
+    - img "Molotov" [ref=e53]
+    - generic [ref=e54]:
+      - generic [ref=e55]: ГУБЕРНСКИЙ М-Н, ПРИКУБАНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=e56]
+      - list [ref=e57]:
+        - listitem [ref=e58]: "Адрес: Улица им. Героя Яцкова, 17 к1, 1 этаж (2 филиала), Краснодар"
+        - listitem [ref=e59]:
+          - text: "Телефон:"
+          - link "+7 999 633-65-22" [ref=e60] [cursor=pointer]:
+            - /url: tel:+79996336522
+        - listitem [ref=e61]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=e62]:
+        - link "Записаться ↗" [ref=e63] [cursor=pointer]:
+          - /url: https://wa.me/79996336522
+          - text: Записаться
+          - generic [ref=e64]: ↗
+        - link "Профиль на 2ГИС" [ref=e65] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001049959823
+  - contentinfo [ref=e66]:
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - heading "Molotov" [level=4] [ref=e70]
+          - paragraph [ref=e71]: Губернский м-н, Прикубанский округ, КраснодарУлица им. Героя Яцкова, 17 к1, 1 этаж (2 филиала)
+        - generic [ref=e72]:
+          - heading "Контакты" [level=4] [ref=e73]
+          - link "+7 999 633-65-22" [ref=e74] [cursor=pointer]:
+            - /url: tel:+79996336522
+          - link "WhatsApp" [ref=e75] [cursor=pointer]:
+            - /url: https://wa.me/79996336522
+          - link "Telegram" [ref=e76] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e77]:
+          - heading "Быстрые ссылки" [level=4] [ref=e78]
+          - link "Услуги и цены" [ref=e79] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=e80] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=e81] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001049959823
+      - generic [ref=e82]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Molotov» на
+        - link "2ГИС" [ref=e83] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001049959823
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

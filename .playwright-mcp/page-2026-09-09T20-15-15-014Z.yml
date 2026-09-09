@@ -1,0 +1,127 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - text: Двуглавый
+        - generic [ref=e5]: Барбершоп
+      - link "Записаться ↗" [ref=e6] [cursor=pointer]:
+        - /url: https://wa.me/79189720009
+        - text: Записаться
+        - generic [ref=e7]: ↗
+  - generic [ref=e8]:
+    - link "★ 5 105 оценок, подтверждён" [ref=e9] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+      - text: ★
+      - generic [ref=e10]: "5"
+      - text: 105 оценок, подтверждён
+    - generic [ref=e11]:
+      - generic [ref=e12]: Центральный м-н, Центральный округ
+      - heading "Двуглавый БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=e13]: ДвуглавыйБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=e14]: Скидка 10% по промокоду «Я у вас первый раз!» на первый визит
+      - generic [ref=e15]:
+        - link "Записаться ↗" [ref=e16] [cursor=pointer]:
+          - /url: https://wa.me/79189720009
+          - text: Записаться
+          - generic [ref=e17]: ↗
+        - link "+7 918 972-00-09" [ref=e18] [cursor=pointer]:
+          - /url: tel:+79189720009
+  - generic [ref=e20]:
+    - img "Двуглавый" [ref=e22]
+    - generic [ref=e23]:
+      - generic [ref=e24]: О БАРБЕРШОПЕ
+      - heading "Двуглавый — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=e25]
+      - paragraph [ref=e26]: Центральный м-н, Центральный округ, Краснодар. Рейтинг 5 (105 оценок, подтверждён) по данным 2ГИС. Скидка 10% по промокоду «Я у вас первый раз!» на первый визит
+      - link "Записаться ↗" [ref=e27] [cursor=pointer]:
+        - /url: https://wa.me/79189720009
+        - text: Записаться
+        - generic [ref=e28]: ↗
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=e33]
+      - generic [ref=e34]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=e35]:
+      - generic [ref=e36]: Стрижка
+      - generic [ref=e37]:
+        - generic [ref=e38]: Стрижка + борода
+        - generic [ref=e40]: 2 300 ₽
+      - generic [ref=e41]:
+        - generic [ref=e42]: Мужская стрижка
+        - generic [ref=e44]: 1 400 ₽
+      - generic [ref=e45]:
+        - generic [ref=e46]: Детская стрижка (5–10 лет)
+        - generic [ref=e48]: 1 200 ₽
+      - generic [ref=e49]:
+        - generic [ref=e50]: Стрижка машинкой (1 насадка)
+        - generic [ref=e52]: 400 ₽
+      - generic [ref=e53]:
+        - generic [ref=e54]: Стрижка ножницами
+        - generic [ref=e56]: 1 600 ₽
+    - generic [ref=e57]:
+      - generic [ref=e58]: Борода
+      - generic [ref=e59]:
+        - generic [ref=e60]: Стрижка бороды с окантовкой
+        - generic [ref=e62]: 900 ₽
+      - generic [ref=e63]:
+        - generic [ref=e64]: Камуфляж бороды
+        - generic [ref=e66]: 700 ₽
+      - generic [ref=e67]:
+        - generic [ref=e68]: Окантовка
+        - generic [ref=e70]: 400 ₽
+      - generic [ref=e71]:
+        - generic [ref=e72]: Бритьё шейвером
+        - generic [ref=e74]: 700 ₽
+    - generic [ref=e75]:
+      - generic [ref=e76]: Дополнительные услуги
+      - generic [ref=e77]:
+        - generic [ref=e78]: Эпиляция воском
+        - generic [ref=e80]: 300 ₽
+      - generic [ref=e81]:
+        - generic [ref=e82]: Тонировка головы
+        - generic [ref=e84]: 1 000 ₽
+  - generic [ref=e86]:
+    - img "Двуглавый" [ref=e87]
+    - generic [ref=e88]:
+      - generic [ref=e89]: ЦЕНТРАЛЬНЫЙ М-Н, ЦЕНТРАЛЬНЫЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=e90]
+      - list [ref=e91]:
+        - listitem [ref=e92]: "Адрес: Железнодорожная улица, 23/1, 1 этаж, Краснодар"
+        - listitem [ref=e93]:
+          - text: "Телефон:"
+          - link "+7 918 972-00-09" [ref=e94] [cursor=pointer]:
+            - /url: tel:+79189720009
+        - listitem [ref=e95]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=e96]:
+        - link "Записаться ↗" [ref=e97] [cursor=pointer]:
+          - /url: https://wa.me/79189720009
+          - text: Записаться
+          - generic [ref=e98]: ↗
+        - link "Профиль на 2ГИС" [ref=e99] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+  - contentinfo [ref=e100]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - heading "Двуглавый" [level=4] [ref=e104]
+          - paragraph [ref=e105]: Центральный м-н, Центральный округ, КраснодарЖелезнодорожная улица, 23/1, 1 этаж
+        - generic [ref=e106]:
+          - heading "Контакты" [level=4] [ref=e107]
+          - link "+7 918 972-00-09" [ref=e108] [cursor=pointer]:
+            - /url: tel:+79189720009
+          - link "WhatsApp" [ref=e109] [cursor=pointer]:
+            - /url: https://wa.me/79189720009
+          - link "Telegram" [ref=e110] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e111]:
+          - heading "Быстрые ссылки" [level=4] [ref=e112]
+          - link "Услуги и цены" [ref=e113] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=e114] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=e115] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+      - generic [ref=e116]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Двуглавый» на
+        - link "2ГИС" [ref=e117] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001078906380
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

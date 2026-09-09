@@ -1,0 +1,129 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - generic [ref=f2e4]:
+        - text: Мужские традиции
+        - generic [ref=f2e5]: Барбершоп
+      - link "Записаться ↗" [ref=f2e6] [cursor=pointer]:
+        - /url: https://wa.me/79239997771
+        - text: Записаться
+        - generic [ref=f2e7]: ↗
+  - generic [ref=f2e8]:
+    - link "★ 4.9 105 оценок" [ref=f2e9] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001064300044
+      - text: ★
+      - generic [ref=f2e10]: "4.9"
+      - text: 105 оценок
+    - generic [ref=f2e11]:
+      - generic [ref=f2e12]: ХБК м-н, Карасунский округ
+      - heading "Мужские традиции БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=f2e13]: Мужские традицииБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=f2e14]: Стиль, качество и комфорт. Онлайн-запись 24/7
+      - generic [ref=f2e15]:
+        - link "Записаться ↗" [ref=f2e16] [cursor=pointer]:
+          - /url: https://wa.me/79239997771
+          - text: Записаться
+          - generic [ref=f2e17]: ↗
+        - link "+7 923 999-77-71" [ref=f2e18] [cursor=pointer]:
+          - /url: tel:+79239997771
+  - generic [ref=f2e20]:
+    - img "Мужские традиции" [ref=f2e22]
+    - generic [ref=f2e23]:
+      - generic [ref=f2e24]: О БАРБЕРШОПЕ
+      - heading "Мужские традиции — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=f2e25]
+      - paragraph [ref=f2e26]: ХБК м-н, Карасунский округ, Краснодар. Рейтинг 4.9 (105 оценок) по данным 2ГИС. Стиль, качество и комфорт. Онлайн-запись 24/7
+      - link "Записаться ↗" [ref=f2e27] [cursor=pointer]:
+        - /url: https://wa.me/79239997771
+        - text: Записаться
+        - generic [ref=f2e28]: ↗
+  - generic [ref=f2e30]:
+    - generic [ref=f2e31]:
+      - generic [ref=f2e32]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f2e33]
+      - generic [ref=f2e34]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f2e35]:
+      - generic [ref=f2e36]: Стрижки
+      - generic [ref=f2e37]:
+        - generic [ref=f2e38]: Стрижка мужская
+        - generic [ref=f2e40]: 1 800 ₽
+      - generic [ref=f2e41]:
+        - generic [ref=f2e42]: Стрижка бороды
+        - generic [ref=f2e44]: 1 000 ₽
+      - generic [ref=f2e45]:
+        - generic [ref=f2e46]: Стрижка машинкой (одна насадка)
+        - generic [ref=f2e48]: 600 ₽
+      - generic [ref=f2e49]:
+        - generic [ref=f2e50]: Стрижка детская (5–12 лет)
+        - generic [ref=f2e52]: 1 500 ₽
+      - generic [ref=f2e53]:
+        - generic [ref=f2e54]: Бритьё головы
+        - generic [ref=f2e56]: 1 000 ₽
+    - generic [ref=f2e57]:
+      - generic [ref=f2e58]: Дополнительные услуги
+      - generic [ref=f2e59]:
+        - generic [ref=f2e60]: Тонирование головы
+        - generic [ref=f2e62]: 1 000 ₽
+      - generic [ref=f2e63]:
+        - generic [ref=f2e64]: Тонирование бороды
+        - generic [ref=f2e66]: 800 ₽
+      - generic [ref=f2e67]:
+        - generic [ref=f2e68]: Восковая депиляция
+        - generic [ref=f2e70]: 300 ₽
+    - generic [ref=f2e71]:
+      - generic [ref=f2e72]: Комбо
+      - generic [ref=f2e73]:
+        - generic [ref=f2e74]: Стрижка + борода
+        - generic [ref=f2e76]: 2 500 ₽
+      - generic [ref=f2e77]:
+        - generic [ref=f2e78]: Папа + сын
+        - generic [ref=f2e80]: 3 000 ₽
+      - generic [ref=f2e81]:
+        - generic [ref=f2e82]: Друг + друг
+        - generic [ref=f2e84]: 3 200 ₽
+  - generic [ref=f2e86]:
+    - img "Мужские традиции" [ref=f2e87]
+    - generic [ref=f2e88]:
+      - generic [ref=f2e89]: ХБК М-Н, КАРАСУНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=f2e90]
+      - list [ref=f2e91]:
+        - listitem [ref=f2e92]: "Адрес: Уральская улица, 71 лит1, 1 этаж, Краснодар"
+        - listitem [ref=f2e93]:
+          - text: "Телефон:"
+          - link "+7 923 999-77-71" [ref=f2e94] [cursor=pointer]:
+            - /url: tel:+79239997771
+        - listitem [ref=f2e95]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f2e96]:
+        - link "Записаться ↗" [ref=f2e97] [cursor=pointer]:
+          - /url: https://wa.me/79239997771
+          - text: Записаться
+          - generic [ref=f2e98]: ↗
+        - link "Профиль на 2ГИС" [ref=f2e99] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001064300044
+  - contentinfo [ref=f2e100]:
+    - generic [ref=f2e101]:
+      - generic [ref=f2e102]:
+        - generic [ref=f2e103]:
+          - heading "Мужские традиции" [level=4] [ref=f2e104]
+          - paragraph [ref=f2e105]: ХБК м-н, Карасунский округ, КраснодарУральская улица, 71 лит1, 1 этаж
+        - generic [ref=f2e106]:
+          - heading "Контакты" [level=4] [ref=f2e107]
+          - link "+7 923 999-77-71" [ref=f2e108] [cursor=pointer]:
+            - /url: tel:+79239997771
+          - link "VKontakte" [ref=f2e109] [cursor=pointer]:
+            - /url: "#"
+          - link "WhatsApp" [ref=f2e110] [cursor=pointer]:
+            - /url: https://wa.me/79239997771
+          - link "Telegram" [ref=f2e111] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f2e112]:
+          - heading "Быстрые ссылки" [level=4] [ref=f2e113]
+          - link "Услуги и цены" [ref=f2e114] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f2e115] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f2e116] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001064300044
+      - generic [ref=f2e117]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Мужские традиции» на
+        - link "2ГИС" [ref=f2e118] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001064300044
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

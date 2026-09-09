@@ -1,0 +1,156 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - text: Barbossa
+        - generic [ref=e5]: Барбершоп
+      - link "Записаться ↗" [ref=e6] [cursor=pointer]:
+        - /url: https://wa.me/79186854592
+        - text: Записаться
+        - generic [ref=e7]: ↗
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - text: ★
+      - generic [ref=e10]: "4.9"
+      - text: 105 оценок, подтверждён
+    - generic [ref=e11]:
+      - generic [ref=e12]: Карасунский округ
+      - heading "Barbossa БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=e13]: BarbossaБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=e14]: Территория настоящих мужчин!
+      - generic [ref=e15]:
+        - link "Записаться ↗" [ref=e16] [cursor=pointer]:
+          - /url: https://wa.me/79186854592
+          - text: Записаться
+          - generic [ref=e17]: ↗
+        - link "+7 918 685-45-92" [ref=e18] [cursor=pointer]:
+          - /url: tel:+79186854592
+  - generic [ref=e20]:
+    - img "Barbossa" [ref=e22]
+    - generic [ref=e23]:
+      - generic [ref=e24]: О БАРБЕРШОПЕ
+      - heading "Barbossa — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=e25]
+      - paragraph [ref=e26]: Карасунский округ, Краснодар. Рейтинг 4.9 (105 оценок, подтверждён) по данным 2ГИС. Территория настоящих мужчин!
+      - link "Записаться ↗" [ref=e27] [cursor=pointer]:
+        - /url: https://wa.me/79186854592
+        - text: Записаться
+        - generic [ref=e28]: ↗
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=e33]
+      - generic [ref=e34]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=e35]:
+      - generic [ref=e36]: Услуги
+      - generic [ref=e37]:
+        - generic [ref=e38]: Мужская стрижка
+        - generic [ref=e40]: 1 600 ₽
+      - generic [ref=e41]:
+        - generic [ref=e42]: Отец + сын
+        - generic [ref=e44]: 2 600 ₽
+      - generic [ref=e45]:
+        - generic [ref=e46]: Стрижка сыну (до 12 лет)
+        - generic [ref=e48]: 1 300 ₽
+      - generic [ref=e49]:
+        - generic [ref=e50]: Камуфляж седины
+        - generic [ref=e52]: 1 400 ₽
+      - generic [ref=e53]:
+        - generic [ref=e54]: Стрижка Fade
+        - generic [ref=e56]: 1 400 ₽
+      - generic [ref=e57]:
+        - generic [ref=e58]: Камуфляж бороды (короткая длина)
+        - generic [ref=e60]: 1 100 ₽
+      - generic [ref=e61]:
+        - generic [ref=e62]: Моделирование бороды опасной бритвой
+        - generic [ref=e64]: 1 300 ₽
+  - generic [ref=e66]:
+    - generic [ref=e67]:
+      - generic [ref=e68]: МАСТЕРА
+      - heading "Наша команда" [level=2] [ref=e69]
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - heading "Игорь" [level=3] [ref=e72]
+        - paragraph [ref=e73]: Талантливый мастер с большим опытом работы. Также мастер по необычному окрашиванию, умело работает как с длинными, так и с короткими волосами.
+      - generic [ref=e74]:
+        - heading "Антон" [level=3] [ref=e75]
+        - paragraph [ref=e76]: В работе ценит бессмертную классику, которую удаётся совмещать с современными стилями стрижки.
+      - generic [ref=e77]:
+        - heading "Владислав" [level=3] [ref=e78]
+        - paragraph [ref=e79]: Реализует стильные стрижки, поможет создать модный образ и подобрать правильный уход.
+      - generic [ref=e80]:
+        - heading "Ульяна" [level=3] [ref=e81]
+        - paragraph [ref=e82]: Девушка-барбер в мире суровых бородатых мужчин. Укротительница непослушных волос.
+      - generic [ref=e83]:
+        - heading "Арам" [level=3] [ref=e84]
+        - paragraph [ref=e85]: С лица не сходит улыбка. Считает, что в любом образе должен быть идеальный баланс.
+      - generic [ref=e86]:
+        - heading "Анна" [level=3] [ref=e87]
+        - paragraph [ref=e88]: Яркая и уверенная, поможет образу засиять по-новому. Работает как с длинными, так и с короткими волосами.
+  - generic [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]: В ПРОДАЖЕ
+      - heading "Купить продукцию" [level=2] [ref=e93]
+      - generic [ref=e94]: Профессиональная косметика для волос и бороды. Точные цены и наличие — по запросу.
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - heading "Текстурирующая глина для укладки Morgan's" [level=3] [ref=e97]
+        - generic [ref=e98]: цена по запросу
+        - link "Узнать наличие" [ref=e99] [cursor=pointer]:
+          - /url: https://wa.me/79186854592
+      - generic [ref=e100]:
+        - heading "Спрей для волос с морской солью Morgan's" [level=3] [ref=e101]
+        - generic [ref=e102]: цена по запросу
+        - link "Узнать наличие" [ref=e103] [cursor=pointer]:
+          - /url: https://wa.me/79186854592
+      - generic [ref=e104]:
+        - heading "Крем для усов и бороды Morgan's" [level=3] [ref=e105]
+        - generic [ref=e106]: цена по запросу
+        - link "Узнать наличие" [ref=e107] [cursor=pointer]:
+          - /url: https://wa.me/79186854592
+  - generic [ref=e109]:
+    - img "Barbossa" [ref=e110]
+    - generic [ref=e111]:
+      - generic [ref=e112]: КАРАСУНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=e113]
+      - list [ref=e114]:
+        - listitem [ref=e115]: "Адрес: OZ MALL, Крылатая улица, 2, 2 этаж (напротив «Мои документы»), Краснодар"
+        - listitem [ref=e116]:
+          - text: "Телефон:"
+          - link "+7 918 685-45-92" [ref=e117] [cursor=pointer]:
+            - /url: tel:+79186854592
+        - listitem [ref=e118]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=e119]:
+        - link "Записаться ↗" [ref=e120] [cursor=pointer]:
+          - /url: https://wa.me/79186854592
+          - text: Записаться
+          - generic [ref=e121]: ↗
+        - link "Профиль на 2ГИС" [ref=e122] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001027686609
+  - contentinfo [ref=e123]:
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - heading "Barbossa" [level=4] [ref=e127]
+          - paragraph [ref=e128]: Карасунский округ, КраснодарOZ MALL, Крылатая улица, 2, 2 этаж (напротив «Мои документы»)
+        - generic [ref=e129]:
+          - heading "Контакты" [level=4] [ref=e130]
+          - link "+7 918 685-45-92" [ref=e131] [cursor=pointer]:
+            - /url: tel:+79186854592
+          - link "VKontakte" [ref=e132] [cursor=pointer]:
+            - /url: "#"
+          - link "WhatsApp" [ref=e133] [cursor=pointer]:
+            - /url: https://wa.me/79186854592
+        - generic [ref=e134]:
+          - heading "Быстрые ссылки" [level=4] [ref=e135]
+          - link "Услуги и цены" [ref=e136] [cursor=pointer]:
+            - /url: "#services"
+          - link "Мастера" [ref=e137] [cursor=pointer]:
+            - /url: "#team"
+          - link "Локация" [ref=e138] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=e139] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001027686609
+      - generic [ref=e140]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Barbossa» на
+        - link "2ГИС" [ref=e141] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001027686609
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

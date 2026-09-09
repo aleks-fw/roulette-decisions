@@ -1,0 +1,123 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - text: Чёрная Борода
+        - generic [ref=f4e5]: Барбершоп
+      - link "Записаться ↗" [ref=f4e6] [cursor=pointer]:
+        - /url: tel:+79182949099
+        - text: Записаться
+        - generic [ref=f4e7]: ↗
+  - generic [ref=f4e8]:
+    - link "★ 4.1 14 оценок" [ref=f4e9] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001111543007
+      - text: ★
+      - generic [ref=f4e10]: "4.1"
+      - text: 14 оценок
+    - generic [ref=f4e11]:
+      - generic [ref=f4e12]: Образцово м-н, Прикубанский округ
+      - heading "Чёрная Борода БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=f4e13]: Чёрная БородаБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=f4e14]: Гарантия стиля. Или ваши деньги обратно
+      - generic [ref=f4e15]:
+        - link "Записаться ↗" [ref=f4e16] [cursor=pointer]:
+          - /url: tel:+79182949099
+          - text: Записаться
+          - generic [ref=f4e17]: ↗
+        - link "+7 918 294-90-99" [ref=f4e18] [cursor=pointer]:
+          - /url: tel:+79182949099
+  - generic [ref=f4e20]:
+    - img "Чёрная Борода" [ref=f4e22]
+    - generic [ref=f4e23]:
+      - generic [ref=f4e24]: О БАРБЕРШОПЕ
+      - heading "Чёрная Борода — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=f4e25]
+      - paragraph [ref=f4e26]: Образцово м-н, Прикубанский округ, Краснодар. Рейтинг 4.1 (14 оценок) по данным 2ГИС. Гарантия стиля. Или ваши деньги обратно
+      - link "Записаться ↗" [ref=f4e27] [cursor=pointer]:
+        - /url: tel:+79182949099
+        - text: Записаться
+        - generic [ref=f4e28]: ↗
+  - generic [ref=f4e30]:
+    - generic [ref=f4e31]:
+      - generic [ref=f4e32]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f4e33]
+      - generic [ref=f4e34]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f4e35]:
+      - generic [ref=f4e36]: Стрижка
+      - generic [ref=f4e37]:
+        - generic [ref=f4e38]: Мужская стрижка
+        - generic [ref=f4e40]: 1 490 ₽
+      - generic [ref=f4e41]:
+        - generic [ref=f4e42]: Стрижка под машинку
+        - generic [ref=f4e44]: 790 ₽
+      - generic [ref=f4e45]:
+        - generic [ref=f4e46]: Окантовка и укладка
+        - generic [ref=f4e48]: 790 ₽
+      - generic [ref=f4e49]:
+        - generic [ref=f4e50]: Детская стрижка
+        - generic [ref=f4e52]: 1 290 ₽
+      - generic [ref=f4e53]:
+        - generic [ref=f4e54]: Моделирование бороды и усов
+        - generic [ref=f4e56]: 990 ₽
+    - generic [ref=f4e57]:
+      - generic [ref=f4e58]: Доп. услуги
+      - generic [ref=f4e59]:
+        - generic [ref=f4e60]: Сухое бритьё
+        - generic [ref=f4e62]: 790 ₽
+      - generic [ref=f4e63]:
+        - generic [ref=f4e64]: Камуфляж мужской седины
+        - generic [ref=f4e66]: от 990 ₽
+      - generic [ref=f4e67]:
+        - generic [ref=f4e68]: Восковая депиляция
+        - generic [ref=f4e70]: от 250 ₽
+    - generic [ref=f4e71]:
+      - generic [ref=f4e72]: Комплекс
+      - generic [ref=f4e73]:
+        - generic [ref=f4e74]: Мужская стрижка + оформление бороды
+        - generic [ref=f4e76]: 2 290 ₽
+      - generic [ref=f4e77]:
+        - generic [ref=f4e78]: Отец + сын
+        - generic [ref=f4e80]: 2 490 ₽
+      - generic [ref=f4e81]:
+        - generic [ref=f4e82]: Друг + друг
+        - generic [ref=f4e84]: 2 690 ₽
+  - generic [ref=f4e86]:
+    - img "Чёрная Борода" [ref=f4e87]
+    - generic [ref=f4e88]:
+      - generic [ref=f4e89]: ОБРАЗЦОВО М-Н, ПРИКУБАНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=f4e90]
+      - list [ref=f4e91]:
+        - listitem [ref=f4e92]: "Адрес: Улица им. Адмирала Макарова, 5 к4, 1 этаж, Краснодар"
+        - listitem [ref=f4e93]:
+          - text: "Телефон:"
+          - link "+7 918 294-90-99" [ref=f4e94] [cursor=pointer]:
+            - /url: tel:+79182949099
+        - listitem [ref=f4e95]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f4e96]:
+        - link "Записаться ↗" [ref=f4e97] [cursor=pointer]:
+          - /url: tel:+79182949099
+          - text: Записаться
+          - generic [ref=f4e98]: ↗
+        - link "Профиль на 2ГИС" [ref=f4e99] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001111543007
+  - contentinfo [ref=f4e100]:
+    - generic [ref=f4e101]:
+      - generic [ref=f4e102]:
+        - generic [ref=f4e103]:
+          - heading "Чёрная Борода" [level=4] [ref=f4e104]
+          - paragraph [ref=f4e105]: Образцово м-н, Прикубанский округ, КраснодарУлица им. Адмирала Макарова, 5 к4, 1 этаж
+        - generic [ref=f4e106]:
+          - heading "Контакты" [level=4] [ref=f4e107]
+          - link "+7 918 294-90-99" [ref=f4e108] [cursor=pointer]:
+            - /url: tel:+79182949099
+        - generic [ref=f4e109]:
+          - heading "Быстрые ссылки" [level=4] [ref=f4e110]
+          - link "Услуги и цены" [ref=f4e111] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f4e112] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f4e113] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001111543007
+      - generic [ref=f4e114]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Чёрная Борода» на
+        - link "2ГИС" [ref=f4e115] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001111543007
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.

@@ -1,0 +1,23 @@
+[     127ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998:0
+[    1391ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[    1421ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[    4860ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    4863ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    4866ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    5875ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    6657ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    7139ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://hdrc.yandex.net/:0
+[    7140ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://mdd.yandex.net/:0
+[    8599ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    9132ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   13955ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/2:0
+[   19426ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/2:0

@@ -1,0 +1,522 @@
+- generic [active]:
+  - generic: ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. .............................................................................
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e1]:
+          - generic [ref=e2]:
+            - link "Поиск" [ref=e7]:
+              - /url: /krasnodar
+            - link "Маршруты" [ref=e12]:
+              - /url: /krasnodar/directions
+            - link "Афиша" [ref=e17]:
+              - /url: /krasnodar/afisha
+            - link "Друзья" [ref=e25]:
+              - /url: /krasnodar/friendsList
+            - link "Гид" [ref=e31]:
+              - /url: /krasnodar/guide
+            - link "Жильё" [ref=e36]:
+              - /url: /krasnodar/realty
+          - generic [ref=e40]:
+            - generic [ref=e42] [cursor=pointer]
+            - generic [ref=e46] [cursor=pointer]
+          - generic [ref=e52]:
+            - generic [ref=e58]:
+              - link [ref=e60] [cursor=pointer]:
+                - /url: /
+              - generic [ref=e65]:
+                - textbox "Поиск в 2ГИС" [ref=e66]: Барбершопы
+                - heading "Барбершопы" [level=1]
+                - button "Очистить локальное поле поиска" [ref=e68] [cursor=pointer]
+            - generic [ref=e74]:
+              - banner [ref=e76]:
+                - generic [ref=e80]:
+                  - button "Фильтры" [ref=e82] [cursor=pointer]
+                  - heading [level=2] [ref=e90]:
+                    - link "Места 484" [ref=e91]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998
+                      - text: Места
+                      - generic [ref=e92]: "484"
+              - generic [ref=e94]:
+                - list [ref=e108]:
+                  - listitem [ref=e109]:
+                    - generic [ref=e112]:
+                      - textbox "Сортировка" [ref=e113]
+                      - generic [ref=e114] [cursor=pointer]
+                  - listitem [ref=e115]:
+                    - list [ref=e116]:
+                      - listitem [ref=e117]:
+                        - generic "Скидки" [ref=e118] [cursor=pointer]
+                      - listitem [ref=e120]:
+                        - generic "С ценами" [ref=e121] [cursor=pointer]
+                      - listitem [ref=e126]:
+                        - generic "Были друзья" [ref=e127] [cursor=pointer]
+                      - listitem [ref=e129]:
+                        - generic "На карте" [ref=e130] [cursor=pointer]
+                      - listitem [ref=e132]:
+                        - generic "С сайтом" [ref=e133] [cursor=pointer]
+                      - listitem [ref=e135]:
+                        - generic "С фото" [ref=e136] [cursor=pointer]
+                      - listitem [ref=e138]:
+                        - generic "Расчёт по картам" [ref=e139] [cursor=pointer]
+                  - listitem [ref=e141]:
+                    - generic [ref=e142]:
+                      - heading "Премия" [level=3] [ref=e145]
+                      - list [ref=e146]:
+                        - listitem [ref=e147]:
+                          - generic "Премия 2ГИС" [ref=e148] [cursor=pointer]
+                  - listitem [ref=e154]:
+                    - generic [ref=e155]:
+                      - heading "Время работы" [level=3] [ref=e157]
+                      - list [ref=e159]:
+                        - listitem [ref=e160]:
+                          - generic "Открыто сейчас" [ref=e161] [cursor=pointer]
+                        - listitem [ref=e163]:
+                          - generic "Круглосуточно" [ref=e164] [cursor=pointer]
+                        - listitem [ref=e166]:
+                          - generic "В указанное время" [ref=e167] [cursor=pointer]
+                      - generic [ref=e169] [cursor=pointer]:
+                        - generic [ref=e170]: 21:00
+                        - generic [ref=e172]: Ср
+                  - listitem [ref=e174]:
+                    - generic [ref=e175]:
+                      - heading "Рейтинг" [level=3] [ref=e177]
+                      - list [ref=e179]:
+                        - listitem [ref=e180]:
+                          - generic "от 4,9" [ref=e181] [cursor=pointer]
+                        - listitem [ref=e186]:
+                          - generic "от 4,5" [ref=e187] [cursor=pointer]
+                        - listitem [ref=e192]:
+                          - generic "от 4" [ref=e193] [cursor=pointer]
+                        - listitem [ref=e198]:
+                          - generic "от 3,5" [ref=e199] [cursor=pointer]
+                        - listitem [ref=e204]:
+                          - generic "от 3" [ref=e205] [cursor=pointer]
+                  - listitem [ref=e210]:
+                    - generic [ref=e213]:
+                      - textbox "Район" [ref=e214]
+                      - generic [ref=e215] [cursor=pointer]
+                  - listitem [ref=e216]:
+                    - generic [ref=e217]:
+                      - heading "Стоимость стрижки от" [level=3] [ref=e219]
+                      - generic [ref=e220]:
+                        - textbox [ref=e221]: "200"
+                        - textbox [ref=e222]: "2500"
+                      - generic [ref=e223] [cursor=pointer]
+                  - listitem [ref=e229]:
+                    - generic [ref=e230]:
+                      - heading "Услуги" [level=3] [ref=e233]
+                      - list [ref=e234]:
+                        - listitem [ref=e235]:
+                          - generic "Детская стрижка" [ref=e236] [cursor=pointer]
+                        - listitem [ref=e238]:
+                          - generic "Мужской маникюр" [ref=e239] [cursor=pointer]
+                  - listitem [ref=e241]:
+                    - generic [ref=e242]:
+                      - heading "Доступная среда" [level=3] [ref=e245]
+                      - list [ref=e246]:
+                        - listitem [ref=e247]:
+                          - generic "Для людей с инвалидностью" [ref=e248] [cursor=pointer]
+                - generic [ref=e254]:
+                  - generic [ref=e256]:
+                    - generic [ref=e258] [cursor=pointer]:
+                      - link "HARDY Barbershop" [ref=e308]:
+                        - /url: /krasnodar/firm/70000001031102175?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMzExMDIxNzUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzguOTc0MTk0LCJsYXQiOjQ1LjAyOTA0fSwicmVsZXZhbmNlIjo5NS42NzgzMDY1Nzk1ODk4NCwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMTEwOTk4IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwMjA5Nzk3MDAiLCJjb250ZXh0UnVicmljIjoiMTEwOTk4IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjF9fQ%3D%3D
+                      - generic [ref=e313]:
+                        - link "Барбершопы":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B
+                      - generic [ref=e314]:
+                        - generic [ref=e315]: "4.9"
+                        - generic [ref=e325]: Номинант 2026
+                      - generic [ref=e329]:
+                        - generic [ref=e330]: Красноармейская улица, 64, Краснодар
+                        - generic [ref=e331]:
+                          - text: •
+                          - link "4 филиала" [ref=e332]:
+                            - /url: /krasnodar/branches/70000001020979700
+                      - generic [ref=e333]: Барбершопы · Муж.стрижка от 1200 ₽
+                      - generic [ref=e335]: Закроется через 33 минуты
+                      - generic [ref=e337]:
+                        - generic [ref=e338]: Стрижка от 1200₽ —20% новым клиентам.Отметь первый визит у специалиста
+                        - generic [ref=e341]:
+                          - generic [ref=e342]: Реклама
+                          - generic [ref=e343]:
+                            - text: •
+                            - generic "*1.11.25–31.10.26." [ref=e345]
+                        - link "Записаться онлайн" [ref=e349]:
+                          - /url: https://link.2gis.ru/4.2/79141246/aHR0cHM6Ly9uNzkzNzA3LnljbGllbnRzLmNvbS9jb21wYW55LzEwNDc4My9wZXJzb25hbC9tZW51P289Cmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMWZiYWRhOTUtM2JjYy00YjdmLTlmNDQtZjcwNGU3YWFlMmYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6IjlmMzhlOTE0LTI2ZGYtNDY0MC04NTBiLTFlOGIwMDhhODJjMyIsInRpbWVzdGFtcCI6MTc4ODk3ODQyODExNSwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiMDQ5MWUwNGMtMDg2OS00YWYwLTg2ZjMtMThlNjIwMGJmZDEyIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGJiY2U0YmItOGZjNy00M2UzLTk3YzUtMTk0MGE0NGJiODg1In0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi82Nzk4NzU5MS9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDIzLzcwMDAwMDAxMDMxMTAyMTc1L251bGwvdW1EaHh2bWg0ZGY1ZUE4ZDNKN0gxSjNKSDI1SUdIR0p2amdqeDFqdGVkLTk4NjMwOEE4ODU0NUkxNDE0MTIzOS03MEIwMDRkMzM3OEoyOEIzOTBBMjk0MzFBQkFKM0pJaWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxNkgzSjNIMzJHNEczMTM5QThpYj9odHRwczovL243OTM3MDcueWNsaWVudHMuY29tL2NvbXBhbnkvMTA0NzgzL3BlcnNvbmFsL21lbnU%2Fbz0ifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDMxMTAyMTc1IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM4Ljk3NDE5NCwibGF0Ijo0NS4wMjkwNH0sInJlbGV2YW5jZSI6OTUuNjc4MzA2NTc5NTg5ODQsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDIwOTc5NzAwIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoxfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNWIwYWU2Y2UtNzI4Mi00NjRhLTlmNDUtMGNmZmEwOWZiYmYwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjczOH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=e352] [cursor=pointer]:
+                      - link "BarberPoint" [ref=e402]:
+                        - /url: /krasnodar/firm/70000001042911124?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDI5MTExMjQiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDEyNzY0LCJsYXQiOjQ1LjA2MzE2OX0sInJlbGV2YW5jZSI6ODUuNzU4NTA2Nzc0OTAyMzQsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDMzNTAyMTIxIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoyfX0%3D
+                      - generic [ref=e407]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e408]:
+                        - generic [ref=e409]: "5"
+                        - generic [ref=e428]: Подтверждён
+                        - generic [ref=e434]: (177)
+                      - generic [ref=e436]:
+                        - generic [ref=e437]: Улица им. В.Д. Артюшкова, 1, Краснодар
+                        - generic [ref=e438]:
+                          - text: •
+                          - link "11 филиалов" [ref=e439]:
+                            - /url: /krasnodar/branches/70000001033502121
+                      - generic [ref=e440]: Барбершопы · Муж.стрижка от 800 ₽
+                      - generic [ref=e442]: Закроется через 33 минуты
+                      - generic [ref=e444]:
+                        - generic [ref=e445]: Не понравится стрижка — вернём деньги!
+                        - generic [ref=e446]: Реклама
+                        - link "Записаться онлайн" [ref=e452]:
+                          - /url: https://link.2gis.ru/4.2/46EAC192/aHR0cDovL241OTAyOTUueWNsaWVudHMuY29tLwpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjFmYmFkYTk1LTNiY2MtNGI3Zi05ZjQ0LWY3MDRlN2FhZTJmMCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJjMzkzZWRiYS00NjY4LTRmMTAtOTVkYS03YmNiYjRhZTNmNzAiLCJ0aW1lc3RhbXAiOjE3ODg5Nzg0MjgxMTcsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6Ijc2MjNjNTY0LTU2N2UtNDJhNS1hMTBjLTk2NmE3NDI5YTAzNyIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjBiYmNlNGJiLThmYzctNDNlMy05N2M1LTE5NDBhNDRiYjg4NSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvN0FBOUNENzYvb25saW5lLzIwMjYwOTAxL3Byb2plY3QyMy83MDAwMDAwMTA0MjkxMTEyNC9udWxsL3VtRGh4dm1oNGRmNWVBOGQzSjdIMUozSkgyNUlHSEdKdmpnangxanRlZC05ODYzMDhBODg1NDVJMTUyQzIxMzQtNzBCMDA0ZDMzNzhKMjhCMzkwQTI5NDMxQUJBSjNKSWlmQjZmY2hkNjU4NUc0RzI3MzIwMDAwMTVINEozSDMyRzRHMzEzOUE4Zjc%2FaHR0cDovL241OTAyOTUueWNsaWVudHMuY29tLyJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDI5MTExMjQiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDEyNzY0LCJsYXQiOjQ1LjA2MzE2OX0sInJlbGV2YW5jZSI6ODUuNzU4NTA2Nzc0OTAyMzQsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDMzNTAyMTIxIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoyfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNWIwYWU2Y2UtNzI4Mi00NjRhLTlmNDUtMGNmZmEwOWZiYmYwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjczOH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=e455] [cursor=pointer]:
+                      - link "Bronx" [ref=e470]:
+                        - /url: /krasnodar/firm/70000001066539335?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjN9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY1MzkzMzUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDA3NDk3LCJsYXQiOjQ1LjA4OTQ5MX0sInJlbGV2YW5jZSI6ODkuNzYwNTEzMzA1NjY0MDYsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDc1Mjk4MjcyIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjozfX0%3D
+                      - generic [ref=e475]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e476]:
+                        - generic [ref=e477]: "5"
+                        - generic [ref=e496]: Подтверждён
+                        - generic [ref=e502]: (492)
+                      - generic [ref=e504]:
+                        - generic [ref=e505]: Улица Сергея Есенина, 108/2, Краснодар
+                        - generic [ref=e506]:
+                          - text: •
+                          - link "4 филиала" [ref=e507]:
+                            - /url: /krasnodar/branches/70000001075298272
+                      - generic [ref=e508]:
+                        - generic [ref=e509]: Скидка
+                        - generic [ref=e513]: ·
+                        - generic [ref=e514]: Барбершопы · Муж.стрижка от 500 ₽
+                      - generic [ref=e515]: Закрыто до завтра
+                      - generic [ref=e517]:
+                        - generic [ref=e518]: Попади в таймер — стрижка бесплатно! Приведи друга — скидка 30%
+                        - generic [ref=e519]: Реклама
+                        - link "Записаться онлайн" [ref=e525]:
+                          - /url: https://link.2gis.ru/4.2/2A827951/aHR0cHM6Ly9uMTAzODQ2NC55Y2xpZW50cy5jb20vc2VsZWN0LWNpdHkvMzcvc2VsZWN0LWJyYW5jaD9vPQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjFmYmFkYTk1LTNiY2MtNGI3Zi05ZjQ0LWY3MDRlN2FhZTJmMCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI3YzcxN2Y0MS1kYTM3LTQ3ZmYtYmVmZi0wYzY0NTMyYzY0ZDciLCJ0aW1lc3RhbXAiOjE3ODg5Nzg0MjgxMTksInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImUwNWY3MzA2LTk1OTMtNDdhZS1hNGYzLTkxNTFiZjhmNmU3MCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjBiYmNlNGJiLThmYzctNDNlMy05N2M1LTE5NDBhNDRiYjg4NSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvNDlEQzlFNEUvb25saW5lLzIwMjYwOTAxL3Byb2plY3QyMy83MDAwMDAwMTA2NjUzOTMzNS9udWxsL3VtRGh4dm1oNGRmNWVBOGQzSjdIMUozSkgyNUlHSEdKdmpnangxanRlZC05ODYzMDhBODg1NDVJMTc2ODQ5NTUtNzBCMDA0ZDMzNzhKMjhCMzkwQTI5NDMxQUJBSjNKSWlmQjZmY2hkNjU4NUc0RzI3MzIwMDAwMTZINUozSDMyRzRHMzEzOUE4ZDY%2FaHR0cHM6Ly9uMTAzODQ2NC55Y2xpZW50cy5jb20vc2VsZWN0LWNpdHkvMzcvc2VsZWN0LWJyYW5jaD9vPSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY1MzkzMzUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDA3NDk3LCJsYXQiOjQ1LjA4OTQ5MX0sInJlbGV2YW5jZSI6ODkuNzYwNTEzMzA1NjY0MDYsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDc1Mjk4MjcyIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjozfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNWIwYWU2Y2UtNzI4Mi00NjRhLTlmNDUtMGNmZmEwOWZiYmYwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjczOH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=e528]:
+                      - generic [ref=e529]:
+                        - banner [ref=e530]: Рекомендуем
+                        - generic [ref=e531]:
+                          - button [ref=e532]
+                          - button [ref=e535]
+                      - generic [ref=e538]:
+                        - link "Реклама Скидка 20% на первый визит* Muchacho, сеть барбершопов Muchacho" [ref=e541] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/63D37C2E/online/20260901/project23/70000001041020514/null/t3lp4lhifA8d6585G420001052074B1449941upn7jkj686304df5e390A29433I231AAAI3B004ded-9B8A88545IJ7HG4IA031J15498A0B6fchd-70G23378J2851536H1J3H4IH4IIGH757I2Jf5?http://n687499.yclients.com/
+                          - generic [ref=e542]:
+                            - generic [ref=e543]:
+                              - generic [ref=e544]: Реклама
+                              - generic [ref=e549]: Скидка 20% на первый визит*
+                            - generic [ref=e550]:
+                              - img "Muchacho, сеть барбершопов" [ref=e553]
+                              - generic [ref=e554]: Muchacho
+                        - button "Реклама Не понравилась стрижка BarberPoint, барбершоп BarberPoint" [ref=e556] [cursor=pointer]:
+                          - generic [ref=e557]:
+                            - generic [ref=e558]:
+                              - generic [ref=e559]: Реклама
+                              - generic [ref=e564]: Не понравилась стрижка
+                            - generic [ref=e565]:
+                              - img "BarberPoint, барбершоп" [ref=e568]
+                              - generic [ref=e569]: BarberPoint
+                    - generic [ref=e571] [cursor=pointer]:
+                      - link "Мужские традиции" [ref=e586]:
+                        - /url: /krasnodar/firm/70000001064300044?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjR9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjQzMDAwNDQiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDQyMzMyLCJsYXQiOjQ1LjAzMzA4MX0sInJlbGV2YW5jZSI6NTguMjkzMTU5NDg0ODYzMjgsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDY0MzAwMDQzIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo0fX0%3D
+                      - generic [ref=e591]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e593]:
+                        - generic [ref=e611]: "4.9"
+                        - generic [ref=e612]: 105 оценок
+                      - generic [ref=e613]: Уральская улица, 71 лит1, Краснодар
+                      - generic [ref=e614]: Барбершопы · Муж.стрижка от 1800 ₽
+                      - generic [ref=e616]: Закрыто до завтра
+                      - generic [ref=e618]:
+                        - generic [ref=e619]: Стиль, качество и комфорт. Онлайн-запись 24/7
+                        - generic [ref=e620]: Реклама
+                        - link "Записаться" [ref=e626]:
+                          - /url: https://link.2gis.ru/4.2/D92D0C6B/aHR0cHM6Ly9kaWtpZGkubmV0LzgzNDA3ND9wPTAucGkKaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIxZmJhZGE5NS0zYmNjLTRiN2YtOWY0NC1mNzA0ZTdhYWUyZjAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiMzJhYmU4YzktMjQ1MC00MWVjLWE4ZjgtMTk3NzE1NWUxNDU3IiwidGltZXN0YW1wIjoxNzg4OTc4NDI4MTI2LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI5N2YwNzhhYi1kZDJmLTQ4N2EtODc4MC1hZDFlYTE4MmE1NmUiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6InBsYWNlQ2FyZE1pbmkiLCJmcmFtZVV1aWQiOiIwYmJjZTRiYi04ZmM3LTQzZTMtOTdjNS0xOTQwYTQ0YmI4ODUifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzA4NjU4Q0ZEL29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MjMvNzAwMDAwMDEwNjQzMDAwNDQvbnVsbC91bURoeHZtaDRkZjVlQThkM0o3SDFKM0pIMjVJR0hHSnZqZ2p4MWp0ZWQtOTg2MzA4QTg4NTQ1STE3NDYxMDI2LTcwQjAwNGQzMzc4SjI4QjM5MEEyOTQzMUFCQUozSklpZkI2ZmNoZDY1ODVHNEcyNzMyMDAwMDE1SDZKM0gzMkc0RzMxMzlBODZiP2h0dHBzOi8vZGlraWRpLm5ldC84MzQwNzQ%2FcD0wLnBpIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA2NDMwMDA0NCIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wNDIzMzIsImxhdCI6NDUuMDMzMDgxfSwicmVsZXZhbmNlIjo1OC4yOTMxNTk0ODQ4NjMyOCwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMTEwOTk4IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwNjQzMDAwNDMiLCJjb250ZXh0UnVicmljIjoiMTEwOTk4IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjR9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1YjBhZTZjZS03MjgyLTQ2NGEtOWY0NS0wY2ZmYTA5ZmJiZjAifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6NzM4fX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=e629] [cursor=pointer]:
+                      - link "Чёрная Борода" [ref=e644]:
+                        - /url: /krasnodar/firm/70000001111543007?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjV9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMTE1NDMwMDciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDMxMTkzLCJsYXQiOjQ1LjA5MzIyNX0sInJlbGV2YW5jZSI6MzkuMjk2MDA5MDYzNzIwNywiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMTEwOTk4IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMTE1NDMwMDYiLCJjb250ZXh0UnVicmljIjoiMTEwOTk4IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjV9fQ%3D%3D
+                      - generic [ref=e649]:
+                        - link "Барбершопы":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B
+                      - generic [ref=e651]:
+                        - generic [ref=e670]: "4.1"
+                        - generic [ref=e671]: 14 оценок
+                      - generic [ref=e672]: Улица им. Адмирала Макарова, 5 к4, Краснодар
+                      - generic [ref=e673]: Барбершопы
+                      - generic [ref=e675]: Закрыто до завтра
+                      - generic [ref=e677]:
+                        - generic [ref=e678]: Гарантия стиля. Или ваши деньги обратно
+                        - generic [ref=e679]: Реклама
+                        - link "Записаться онлайн" [ref=e685]:
+                          - /url: https://link.2gis.ru/4.2/44134CDA/aHR0cHM6Ly9uMjAzMjM1My55Y2xpZW50cy5jb20vCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMWZiYWRhOTUtM2JjYy00YjdmLTlmNDQtZjcwNGU3YWFlMmYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6IjU4OWZhOWJlLTlkZTgtNGEwMi1iZDYwLWMyZjhlNWY3Zjg4MiIsInRpbWVzdGFtcCI6MTc4ODk3ODQyODEyNywidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiNWEzNDk2NTQtYzg0Yi00ZDI4LTk3ZTktZGI5YzhmYmU1NDE5IiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGJiY2U0YmItOGZjNy00M2UzLTk3YzUtMTk0MGE0NGJiODg1In0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi9DRjg4MUNENy9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDIzLzcwMDAwMDAxMTExNTQzMDA3L251bGwvdW1EaHh2bWg0ZGY1ZUE4ZDNKN0gxSjNKSDI1SUdIR0p2amdqeDFqdGVkLTk4NjMwOEE4ODU0NUkyMjE4NTMyMi03MEIwMDRkMzM3OEoyOEIzOTBBMjk0MzFBQkFKM0pJaWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxOEg3SjNIMzJHNEczMTM5QThnYz9odHRwczovL24yMDMyMzUzLnljbGllbnRzLmNvbS8ifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTExNTQzMDA3IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjAzMTE5MywibGF0Ijo0NS4wOTMyMjV9LCJyZWxldmFuY2UiOjM5LjI5NjAwOTA2MzcyMDcsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTExNTQzMDA2IiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo1fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNWIwYWU2Y2UtNzI4Mi00NjRhLTlmNDUtMGNmZmEwOWZiYmYwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjczOH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=e688] [cursor=pointer]:
+                      - link "Sench-borodach" [ref=e703]:
+                        - /url: /krasnodar/firm/70000001033772297?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjZ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMzM3NzIyOTciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDQzMjU4LCJsYXQiOjQ1LjAxNjQ2N30sInJlbGV2YW5jZSI6NTguMjM2MzQ3MTk4NDg2MzMsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDMzNzcyMjk2IiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo2fX0%3D
+                      - generic [ref=e708]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e710]:
+                        - generic [ref=e728]: "4.9"
+                        - generic [ref=e729]: 137 оценок
+                      - generic [ref=e730]: Ставропольская улица, 195, Краснодар
+                      - generic [ref=e731]: Барбершопы · Муж.стрижка от 800 ₽
+                      - generic [ref=e733]: Закрыто до завтра
+                      - generic [ref=e735]:
+                        - generic [ref=e736]: Королевское бритье со скидкой 50% на первое посещение!
+                        - generic [ref=e739]:
+                          - generic [ref=e740]: Реклама
+                          - generic [ref=e741]:
+                            - text: •
+                            - generic "1.03-2026-31.08.2026" [ref=e743]
+                        - link "Записаться со скидкой" [ref=e747]:
+                          - /url: https://link.2gis.ru/4.2/768EFFAF/aHR0cHM6Ly9uMTQzNDk2LnljbGllbnRzLmNvbS9jb21wYW55LzE1MTE4OC9wZXJzb25hbC9zZWxlY3Qtc2VydmljZXM%2Fbz0KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIxZmJhZGE5NS0zYmNjLTRiN2YtOWY0NC1mNzA0ZTdhYWUyZjAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiNTg4ZGU0MjMtNDQxNy00YjYyLTg3MWItNmVlMGVlYjMzZmRkIiwidGltZXN0YW1wIjoxNzg4OTc4NDI4MTI4LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI2MjA2ZmEyNS1jOGU5LTQzYmYtODdiNC1lYWZiMzVmYTJlMTMiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6InBsYWNlQ2FyZE1pbmkiLCJmcmFtZVV1aWQiOiIwYmJjZTRiYi04ZmM3LTQzZTMtOTdjNS0xOTQwYTQ0YmI4ODUifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yL0Q5QTRBMjVCL29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MjMvNzAwMDAwMDEwMzM3NzIyOTcvbnVsbC91bURoeHZtaDRkZjVlQThkM0o3SDFKM0pIMjVJR0hHSnZqZ2p4MWp0ZWQtOTg2MzA4QTg4NTQ1STE0M0E4MjRCLTcwQjAwNGQzMzc4SjI4QjM5MEEyOTQzMUFCQUozSklpZkI2ZmNoZDY1ODVHNEcyNzMyMDAwMDE4SDhKM0gzMkc0RzMxMzlBOGU5P2h0dHBzOi8vbjE0MzQ5Ni55Y2xpZW50cy5jb20vY29tcGFueS8xNTExODgvcGVyc29uYWwvc2VsZWN0LXNlcnZpY2VzP289In0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTAzMzc3MjI5NyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wNDMyNTgsImxhdCI6NDUuMDE2NDY3fSwicmVsZXZhbmNlIjo1OC4yMzYzNDcxOTg0ODYzMywiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMTEwOTk4IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwMzM3NzIyOTYiLCJjb250ZXh0UnVicmljIjoiMTEwOTk4IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjZ9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1YjBhZTZjZS03MjgyLTQ2NGEtOWY0NS0wY2ZmYTA5ZmJiZjAifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6NzM4fX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=e750] [cursor=pointer]:
+                      - link "Мастер БрейУс" [ref=e765]:
+                        - /url: /krasnodar/firm/70000001077295032?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjd9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNzcyOTUwMzIiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDM3NjE1LCJsYXQiOjQ1LjA3NDc5NX0sInJlbGV2YW5jZSI6NjYuMjM5MDk3NTk1MjE0ODQsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDc3Mjk1MDMxIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo3fX0%3D
+                      - generic [ref=e770]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e772]:
+                        - generic [ref=e790]: "5"
+                        - generic [ref=e791]: 216 оценок
+                      - generic [ref=e793]:
+                        - generic [ref=e794]: Улица им. Героя Николая Шевелёва, 3/1, Краснодар
+                        - generic [ref=e795]:
+                          - text: •
+                          - link "6 филиалов" [ref=e796]:
+                            - /url: /krasnodar/branches/70000001077295031
+                      - generic [ref=e797]: Барбершопы · Муж.стрижка от 1100 ₽
+                      - generic [ref=e799]: Закрыто до завтра
+                      - generic [ref=e801]:
+                        - generic [ref=e802]: Стрижка — 1100 р., комбо «Отец + сын» — 1800 р.*
+                        - generic [ref=e805]:
+                          - generic [ref=e806]: Реклама
+                          - generic [ref=e807]:
+                            - text: •
+                            - generic "*1.07.26–1.02.27." [ref=e809]
+                        - link "Записаться" [ref=e813]:
+                          - /url: https://link.2gis.ru/4.2/C07D65BA/aHR0cDovL21hc3Rlci1icmV5dXMucnUvCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMWZiYWRhOTUtM2JjYy00YjdmLTlmNDQtZjcwNGU3YWFlMmYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6Ijc0OTdlOWFkLTE3MWYtNDZhZi05ODk1LTAwOTZkZmJmN2Y0NCIsInRpbWVzdGFtcCI6MTc4ODk3ODQyODEyOCwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiYTk0YWJmOGEtYTMxMC00NTNlLWE1NjctOWJkYTE2Y2I4NmI5IiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGJiY2U0YmItOGZjNy00M2UzLTk3YzUtMTk0MGE0NGJiODg1In0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi84MTFCQTYxRC9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDIzLzcwMDAwMDAxMDc3Mjk1MDMyL251bGwvdW1EaHh2bWg0ZGY1ZUE4ZDNKN0gxSjNKSDI1SUdIR0p2amdqeDFqdGVkLTk4NjMwOEE4ODU0NUkxODc1QTUyNS03MEIwMDRkMzM3OEoyOEIzOTBBMjk0MzFBQkFKM0pJaWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxM0g5SjNIMzJHNEczMTM5QTg4ND9odHRwOi8vbWFzdGVyLWJyZXl1cy5ydS8ifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDc3Mjk1MDMyIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjAzNzYxNSwibGF0Ijo0NS4wNzQ3OTV9LCJyZWxldmFuY2UiOjY2LjIzOTA5NzU5NTIxNDg0LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIxMTA5OTgiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA3NzI5NTAzMSIsImNvbnRleHRSdWJyaWMiOiIxMTA5OTgiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6N30sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoyLCJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo3Mzh9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=e816] [cursor=pointer]:
+                      - link "Molotov" [ref=e831]:
+                        - /url: /krasnodar/firm/70000001049959823?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjh9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDk5NTk4MjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDQwNTc0LCJsYXQiOjQ1LjA3MDk3N30sInJlbGV2YW5jZSI6OTkuNjA4MzM3NDAyMzQzNzUsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDYxNDE0ODMxIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo4fX0%3D
+                      - generic [ref=e836]:
+                        - link "Мужская парикмахерская":
+                          - /url: /krasnodar/search/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F
+                      - generic [ref=e837]:
+                        - generic [ref=e838]: "5"
+                        - generic [ref=e857]: Подтверждён
+                        - generic [ref=e863]: (243)
+                      - generic [ref=e865]:
+                        - generic [ref=e866]: Улица им. Героя Яцкова, 17 к1, Краснодар
+                        - generic [ref=e867]:
+                          - text: •
+                          - link "2 филиала" [ref=e868]:
+                            - /url: /krasnodar/branches/70000001061414831
+                      - generic [ref=e869]: Барбершопы · Муж.стрижка от 600 ₽
+                      - generic [ref=e871]: Закроется через 33 минуты
+                      - generic [ref=e873]:
+                        - generic [ref=e874]: Знакомство с мастером от 1199 р. при онлайн-записи!
+                        - generic [ref=e875]: Реклама
+                        - link "Записаться" [ref=e881]:
+                          - /url: https://link.2gis.ru/4.2/33185A9F/aHR0cHM6Ly9uMTQ5OTc1Ny55Y2xpZW50cy5jb20vCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMWZiYWRhOTUtM2JjYy00YjdmLTlmNDQtZjcwNGU3YWFlMmYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6IjlhOWIzYWU1LWRhM2ItNDQ4Yi1hY2EzLTM3MGI5OWRjMDQ4YiIsInRpbWVzdGFtcCI6MTc4ODk3ODQyODEzMCwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiYzM0ZWRmYzMtYjUzNC00ZDJkLWE5YjctYzg0NDYzZTQ0ZTk2IiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGJiY2U0YmItOGZjNy00M2UzLTk3YzUtMTk0MGE0NGJiODg1In0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi9GN0M3QzE3Ny9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDIzLzcwMDAwMDAxMDQ5OTU5ODIzL251bGwvdW1EaHh2bWg0ZGY1ZUE4ZDNKN0gxSjNKSDI1SUdIR0p2amdqeDFqdGVkLTk4NjMwOEE4ODU0NUkxNTlDNjlBNC03MEIwMDRkMzM3OEoyOEIzOTBBMjk0MzFBQkFKM0pJaWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxNEhBSjNIMzJHNEczMTM5QThlND9odHRwczovL24xNDk5NzU3LnljbGllbnRzLmNvbSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDk5NTk4MjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDQwNTc0LCJsYXQiOjQ1LjA3MDk3N30sInJlbGV2YW5jZSI6OTkuNjA4MzM3NDAyMzQzNzUsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDYxNDE0ODMxIiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo4fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNWIwYWU2Y2UtNzI4Mi00NjRhLTlmNDUtMGNmZmEwOWZiYmYwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjczOH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=e884] [cursor=pointer]:
+                      - link "BARBATE" [ref=e899]:
+                        - /url: /krasnodar/firm/70000001060412794?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjl9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjA0MTI3OTQiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzguOTc3NDE3LCJsYXQiOjQ1LjA2OTUyfSwicmVsZXZhbmNlIjo0OS43OTUyMjMyMzYwODM5ODQsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDM4NjExNTc4IiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo5fX0%3D
+                      - generic [ref=e904]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e906]:
+                        - generic [ref=e924]: "5"
+                        - generic [ref=e925]: 47 оценок
+                      - generic [ref=e927]:
+                        - generic [ref=e928]: Улица 2-я линия Нефтяников, 10, Краснодар
+                        - generic [ref=e929]:
+                          - text: •
+                          - link "2 филиала" [ref=e930]:
+                            - /url: /krasnodar/branches/70000001038611578
+                      - generic [ref=e931]: Барбершопы · Муж.стрижка от 900 ₽
+                      - generic [ref=e933]: Закрыто до завтра
+                      - generic [ref=e935]:
+                        - generic [ref=e936]: Мужская стрижка по фиксированной цене 1300 ₽ при первом визите!
+                        - generic [ref=e937]: Реклама
+                        - link "Записаться онлайн" [ref=e943]:
+                          - /url: https://link.2gis.ru/4.2/0BEDCF20/aHR0cDovL3RhcGxpbmsuY2MvYmFyYmF0ZS5ydQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjFmYmFkYTk1LTNiY2MtNGI3Zi05ZjQ0LWY3MDRlN2FhZTJmMCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI2YWZkMWY1NC05YWFhLTQzODctOGU2ZC0zNzk5Yjk0YTA5ZTYiLCJ0aW1lc3RhbXAiOjE3ODg5Nzg0MjgxMzAsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImE5YjZkOWU5LWY2NmUtNDYwOC1hNTdkLWIwMDI0ZWNjMTcyYiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjBiYmNlNGJiLThmYzctNDNlMy05N2M1LTE5NDBhNDRiYjg4NSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvQzZFRDE5RUIvb25saW5lLzIwMjYwOTAxL3Byb2plY3QyMy83MDAwMDAwMTA2MDQxMjc5NC9udWxsL3VtRGh4dm1oNGRmNWVBOGQzSjdIMUozSkgyNUlHSEdKdmpnangxanRlZC05ODYzMDhBODg1NDVJMTcwNzIyOUItNzBCMDA0ZDMzNzhKMjhCMzkwQTI5NDMxQUJBSjNKSWlmQjZmY2hkNjU4NUc0RzI3MzIwMDAwMTVIQkozSDMyRzRHMzEzOUE4ZTk%2FaHR0cDovL3RhcGxpbmsuY2MvYmFyYmF0ZS5ydSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjA0MTI3OTQiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzguOTc3NDE3LCJsYXQiOjQ1LjA2OTUyfSwicmVsZXZhbmNlIjo0OS43OTUyMjMyMzYwODM5ODQsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDM4NjExNTc4IiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo5fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNWIwYWU2Y2UtNzI4Mi00NjRhLTlmNDUtMGNmZmEwOWZiYmYwIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjczOH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=e946] [cursor=pointer]:
+                      - link "Двуглавый" [ref=e961]:
+                        - /url: /krasnodar/firm/70000001078906380?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjEwfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDc4OTA2MzgwIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM4Ljk5MTI4OCwibGF0Ijo0NS4wMjM1NjZ9LCJyZWxldmFuY2UiOjU0LjkwNzg4MjY5MDQyOTY5LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIxMTA5OTgiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA3ODkwNjM3OSIsImNvbnRleHRSdWJyaWMiOiIxMTA5OTgiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MTB9fQ%3D%3D
+                      - generic [ref=e966]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e967]:
+                        - generic [ref=e968]: "5"
+                        - generic [ref=e987]: Подтверждён
+                        - generic [ref=e993]: (105)
+                      - generic [ref=e994]: Железнодорожная улица, 23/1, Краснодар
+                      - generic [ref=e995]: Барбершопы · Муж.стрижка от 600 ₽
+                      - generic [ref=e997]: Закрыто до завтра
+                      - generic [ref=e999]:
+                        - generic [ref=e1000]: Скидка 10% по промокоду «Я у вас первый раз!» на первый визит!
+                        - generic [ref=e1001]: Реклама
+                        - link "Записаться" [ref=e1006]:
+                          - /url: tel:+79189720009
+                    - generic [ref=e1012] [cursor=pointer]:
+                      - link "Hairbar" [ref=e1027]:
+                        - /url: /krasnodar/firm/70000001036342109?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjExfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDM2MzQyMTA5IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM4Ljk5NTAzLCJsYXQiOjQ1LjE0NjA5fSwicmVsZXZhbmNlIjoxOS43MjU3ODYyMDkxMDY0NDUsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjExMDk5OCIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDM2MzQyMTA4IiwiY29udGV4dFJ1YnJpYyI6IjExMDk5OCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoxMX19
+                      - generic [ref=e1032]:
+                        - link "Мужская парикмахерская":
+                          - /url: /krasnodar/search/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F
+                      - generic [ref=e1034]:
+                        - generic [ref=e1052]: "4.9"
+                        - generic [ref=e1053]: 138 оценок
+                      - generic [ref=e1054]: Целиноградская улица, 4/2 к1, пос. Березовый, Краснодар городской округ, Краснодарский край
+                      - generic [ref=e1055]: Барбершопы · Муж.стрижка от 800 ₽
+                      - generic [ref=e1057]: Закрыто до завтра
+                      - generic [ref=e1059]:
+                        - generic [ref=e1060]: "Внимание! Знакомься с младшим барбером: плати честно сколько хочешь"
+                        - generic [ref=e1061]: Реклама
+                        - link "Записаться онлайн" [ref=e1067]:
+                          - /url: https://link.2gis.ru/4.2/F9FEDE91/aHR0cDovL24xMDc1Nzg0LnljbGllbnRzLmNvbS8KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIxZmJhZGE5NS0zYmNjLTRiN2YtOWY0NC1mNzA0ZTdhYWUyZjAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiNzA1NmE3OGQtMTg1OC00Y2Q2LWI0ZWMtODkyZjJiNTc3YmRkIiwidGltZXN0YW1wIjoxNzg4OTc4NDI4MTMxLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI2YzI0NWQzNS1jOTRiLTRhY2MtOTJhOC04MzE4OGEyNWRjMDMiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6InBsYWNlQ2FyZE1pbmkiLCJmcmFtZVV1aWQiOiIwYmJjZTRiYi04ZmM3LTQzZTMtOTdjNS0xOTQwYTQ0YmI4ODUifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzZEREY5RTEwL29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MjMvNzAwMDAwMDEwMzYzNDIxMDkvbnVsbC91bURoeHZtaDRkZjVlQThkM0o3SDFKM0pIRzQ1R0hHSnZqZ2p4MWp0ZWQtOTg2MzA4QTg4NTQ1STE0NjY1MjMyLTcwQjAwNGQzMzc4SjI4QjM5MEEyOTQzMjFCQkJINUlpZkI2ZmNoZDY1ODVHNEcyNzMyMDAwMDFBSDQzSTJJMkdKMUkxNDBBOUJiQT9odHRwOi8vbjEwNzU3ODQueWNsaWVudHMuY29tIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTAzNjM0MjEwOSIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjozOC45OTUwMywibGF0Ijo0NS4xNDYwOX0sInJlbGV2YW5jZSI6MTkuNzI1Nzg2MjA5MTA2NDQ1LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIxMTA5OTgiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTAzNjM0MjEwOCIsImNvbnRleHRSdWJyaWMiOiIxMTA5OTgiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MTF9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1YjBhZTZjZS03MjgyLTQ2NGEtOWY0NS0wY2ZmYTA5ZmJiZjAifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6NzM4fX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=e1070] [cursor=pointer]:
+                      - link "Бородатое место" [ref=e1085]:
+                        - /url: /krasnodar/firm/70000001113486580?stat=eyJwYXJlbnRUYWJJZCI6IjViMGFlNmNlLTcyODItNDY0YS05ZjQ1LTBjZmZhMDlmYmJmMCIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjEyfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTEzNDg2NTgwIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjAzMjA2NywibGF0Ijo0NS4wNjYxNjZ9LCJyZWxldmFuY2UiOjUwLjQwNDY0NDAxMjQ1MTE3LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIxMTA5OTgiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA1NTY4MzM4MyIsImNvbnRleHRSdWJyaWMiOiIxMTA5OTgiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MTJ9fQ%3D%3D
+                      - generic [ref=e1090]:
+                        - link "Барбершоп":
+                          - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF
+                      - generic [ref=e1092]:
+                        - generic [ref=e1110]: "5"
+                        - generic [ref=e1111]: 24 оценки
+                      - generic [ref=e1112]: Черкасская улица, 103, Краснодар
+                      - generic [ref=e1113]: Барбершопы · Муж.стрижка от 1100 ₽
+                      - generic [ref=e1115]: Закрыто до завтра
+                      - generic [ref=e1117]:
+                        - generic [ref=e1118]: Профессиональные стрижки, идеальная борода
+                        - generic [ref=e1119]: Реклама
+                        - link "Записаться" [ref=e1125]:
+                          - /url: https://link.2gis.ru/4.2/6FFE3C84/aHR0cHM6Ly9uMjIxMzM5MS55Y2xpZW50cy5jb20vCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMWZiYWRhOTUtM2JjYy00YjdmLTlmNDQtZjcwNGU3YWFlMmYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6ImY0N2Q3ZDgzLTYzOWMtNDYwZC1iNjkyLWYyMzViZGM2ZTM0OCIsInRpbWVzdGFtcCI6MTc4ODk3ODQyODEzMiwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiMTBkOWZlNjktYTE1OC00N2Y2LWEwYWUtMWI3YzQxZWM2ZjQ3IiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGJiY2U0YmItOGZjNy00M2UzLTk3YzUtMTk0MGE0NGJiODg1In0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi80REFCMDVBOS9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDIzLzcwMDAwMDAxMTEzNDg2NTgwL251bGwvdW1EaHh2bWg0ZGY1ZUE4ZDNKN0gxSjNKSEc0NUdIR0p2amdqeDFqdGVkLTk4NjMwOEE4ODU0NUkyMjM3OTY3QS03MEIwMDRkMzM3OEoyOEIzOTBBMjk0MzIxQkJCSDVJaWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxMUg0NEkySTJHSjFJMTQwQTlCZmY%2FaHR0cHM6Ly9uMjIxMzM5MS55Y2xpZW50cy5jb20ifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTEzNDg2NTgwIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjAzMjA2NywibGF0Ijo0NS4wNjYxNjZ9LCJyZWxldmFuY2UiOjUwLjQwNDY0NDAxMjQ1MTE3LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIxMTA5OTgiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA1NTY4MzM4MyIsImNvbnRleHRSdWJyaWMiOiIxMTA5OTgiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MTJ9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1YjBhZTZjZS03MjgyLTQ2NGEtOWY0NS0wY2ZmYTA5ZmJiZjAifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6NzM4fX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                  - generic [ref=e1128]:
+                    - generic [ref=e1129]: "1"
+                    - link "2" [ref=e1130] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/2
+                    - link "3" [ref=e1131] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/3
+                    - link "4" [ref=e1132] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/4
+                    - link "5" [ref=e1133] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/5
+                    - link "6" [ref=e1134] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/6
+                    - link "7" [ref=e1135] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%D1%8B/rubricId/110998/page/7
+                  - generic [ref=e1149] [cursor=pointer]:
+                    - text: "Результаты поиска по запросу Барбершопы на карте в Краснодаре. Также люди ищут:"
+                    - link "Парикмахерская" [ref=e1150]:
+                      - /url: /krasnodar/search/%D0%9F%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F
+                    - text: ","
+                    - link "Григория пономаренко салон красоты" [ref=e1151]:
+                      - /url: /krasnodar/search/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B
+                    - text: ","
+                    - link "Барбер" [ref=e1152]:
+                      - /url: /krasnodar/search/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80
+        - generic:
+          - generic [ref=e1156]:
+            - generic:
+              - generic [ref=e1160] [cursor=pointer]
+              - generic [ref=e1165]: Hardy
+              - generic [ref=e1172] [cursor=pointer]
+              - generic [ref=e1178]: Hardy
+              - generic [ref=e1185] [cursor=pointer]
+              - generic [ref=e1190]: BarberPoint
+              - generic [ref=e1197] [cursor=pointer]
+              - generic [ref=e1200]: BarberPoint
+              - generic [ref=e1207] [cursor=pointer]
+              - generic [ref=e1212]: BarberPoint
+              - generic [ref=e1219] [cursor=pointer]
+              - generic [ref=e1227]: Hairbar
+              - generic [ref=e1234] [cursor=pointer]
+              - generic [ref=e1237]: Barbossa
+              - generic [ref=e1244] [cursor=pointer]
+              - generic [ref=e1252] [cursor=pointer]
+              - generic [ref=e1262] [cursor=pointer]
+              - generic [ref=e1272] [cursor=pointer]
+              - generic [ref=e1282] [cursor=pointer]
+              - generic [ref=e1285]: Bandana
+              - generic [ref=e1292] [cursor=pointer]
+              - generic [ref=e1295]: Джокер
+              - generic [ref=e1302] [cursor=pointer]
+              - generic [ref=e1305]: Барберня 16/18
+              - generic [ref=e1312] [cursor=pointer]
+              - generic [ref=e1317] [cursor=pointer]
+              - generic [ref=e1320]: Гараж
+              - generic [ref=e1327] [cursor=pointer]
+              - generic [ref=e1332] [cursor=pointer]
+              - generic [ref=e1335]: Парикмахерская
+              - generic [ref=e1342] [cursor=pointer]
+              - generic [ref=e1345]: Барбершоп
+              - generic [ref=e1352] [cursor=pointer]
+              - generic [ref=e1359] [cursor=pointer]
+              - generic [ref=e1363] [cursor=pointer]
+              - generic [ref=e1367] [cursor=pointer]
+              - generic [ref=e1371] [cursor=pointer]
+              - generic [ref=e1375] [cursor=pointer]
+              - generic [ref=e1379] [cursor=pointer]
+          - generic [ref=e1381]:
+            - link [ref=e1382] [cursor=pointer]:
+              - /url: https://dev.2gis.ru
+            - link "Лицензионное соглашение" [ref=e1386] [cursor=pointer]:
+              - /url: http://law.2gis.ru/licensing-agreement/?utm_medium=map-footer&utm_campaign=2gis5
+            - text: ","
+            - link "политика конфиденциальности" [ref=e1387] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy?utm_medium=map-footer&utm_campaign=2gis5
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link "Премия 2ГИС 2026" [ref=e1390] [cursor=pointer]:
+                    - /url: /krasnodar/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1%202026
+                  - navigation [ref=e1395] [cursor=pointer]:
+                    - list [ref=e1396]:
+                      - listitem [ref=e1397]:
+                        - link [ref=e1398]:
+                          - /url: /krasnodar/realty
+                      - listitem [ref=e1402]:
+                        - button [ref=e1403]
+                      - listitem [ref=e1410]:
+                        - button [ref=e1411]
+                      - listitem [ref=e1416]:
+                        - button [ref=e1417]
+                      - listitem [ref=e1421]:
+                        - button [ref=e1422]
+                  - link [ref=e1427] [cursor=pointer]:
+                    - /url: /krasnodar?traffic
+                    - button "Пробки" [ref=e1428]: "1"
+                  - generic [ref=e1429]: Войти
+            - generic [ref=e1437]:
+              - generic [ref=e1439]:
+                - button "Линейка" [ref=e1442] [cursor=pointer]
+                - generic "Моё местоположение" [ref=e1446]:
+                  - button [ref=e1447] [cursor=pointer]
+                - generic [ref=e1452]:
+                  - button "Изменить масштаб" [ref=e1453] [cursor=pointer]
+                  - button "Изменить масштаб" [ref=e1456] [cursor=pointer]
+              - generic [ref=e1460]:
+                - generic [ref=e1468] [cursor=pointer]
+                - generic [ref=e1481] [cursor=pointer]
+              - button "Включи иммерсивные дороги и освещение" [ref=e1484] [cursor=pointer]
+            - generic:
+              - button "Поделиться" [ref=e1489] [cursor=pointer]
+              - generic [ref=e1492]: Обратная связь
+          - generic [ref=e1499] [cursor=pointer]
+          - button "Меню" [ref=e1500] [cursor=pointer]
+        - generic [ref=e1506]:
+          - generic [ref=e1507]: 🍪
+          - generic [ref=e1508]:
+            - text: Используем
+            - link "cookies" [ref=e1509] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy/cookie
+            - text: и
+            - link "рекомендательные технологии" [ref=e1510] [cursor=pointer]:
+              - /url: https://law.2gis.ru/recommendation-services
+          - generic [ref=e1511] [cursor=pointer]

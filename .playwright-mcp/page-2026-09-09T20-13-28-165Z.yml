@@ -1,0 +1,113 @@
+- generic [active] [ref=f13e1]:
+  - banner [ref=f13e2]:
+    - generic [ref=f13e3]:
+      - generic [ref=f13e4]:
+        - text: Britto
+        - generic [ref=f13e5]: Барбершоп
+      - navigation [ref=f13e6]:
+        - link "Услуги" [ref=f13e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "Локация" [ref=f13e8] [cursor=pointer]:
+          - /url: "#location"
+      - link "Записаться ↗" [ref=f13e9] [cursor=pointer]:
+        - /url: https://wa.me/79530889088
+        - text: Записаться
+        - generic [ref=f13e10]: ↗
+  - generic [ref=f13e11]:
+    - link "★ 4.9 75 оценок" [ref=f13e12] [cursor=pointer]:
+      - /url: https://2gis.ru/krasnodar/firm/70000001079806198
+      - text: ★
+      - generic [ref=f13e13]: "4.9"
+      - text: 75 оценок
+    - generic [ref=f13e14]:
+      - generic [ref=f13e15]: Прикубанский округ
+      - heading "Britto БАРБЕРШОП В КРАСНОДАРЕ" [level=1] [ref=f13e16]: BrittoБАРБЕРШОП В КРАСНОДАРЕ
+      - paragraph [ref=f13e17]: Качество барберов доступно каждому
+      - generic [ref=f13e18]:
+        - link "Записаться ↗" [ref=f13e19] [cursor=pointer]:
+          - /url: https://wa.me/79530889088
+          - text: Записаться
+          - generic [ref=f13e20]: ↗
+        - link "+7 953 088-90-88" [ref=f13e21] [cursor=pointer]:
+          - /url: tel:+79530889088
+  - generic [ref=f13e23]:
+    - img "Britto" [ref=f13e25]
+    - generic [ref=f13e26]:
+      - generic [ref=f13e27]: О БАРБЕРШОПЕ
+      - heading "Britto — барбершоп в Краснодаре с реальными отзывами" [level=2] [ref=f13e28]
+      - paragraph [ref=f13e29]: Прикубанский округ, Краснодар. Рейтинг 4.9 (75 оценок) по данным 2ГИС. Качество барберов доступно каждому
+      - link "Записаться ↗" [ref=f13e30] [cursor=pointer]:
+        - /url: https://wa.me/79530889088
+        - text: Записаться
+        - generic [ref=f13e31]: ↗
+  - generic [ref=f13e33]:
+    - generic [ref=f13e34]:
+      - generic [ref=f13e35]: ПРАЙС
+      - heading "Услуги и цены" [level=2] [ref=f13e36]
+      - generic [ref=f13e37]: Цены — из карточки барбершопа на 2ГИС, могут уточняться мастером на месте.
+    - generic [ref=f13e38]:
+      - generic [ref=f13e39]: Старший барбер
+      - generic [ref=f13e40]:
+        - generic [ref=f13e41]:
+          - generic [ref=f13e42]: Стрижка любая
+          - generic [ref=f13e43]: От классики до смелых решений, ножницы и машинка. Мойка головы, укладка, консультация.
+        - generic [ref=f13e44]: 1 100 ₽
+      - generic [ref=f13e45]:
+        - generic [ref=f13e46]:
+          - generic [ref=f13e47]: Стрижка удлинённая
+          - generic [ref=f13e48]: Брутально или по-офисному стильно.
+        - generic [ref=f13e49]: 1 200 ₽
+      - generic [ref=f13e50]:
+        - generic [ref=f13e51]: Стрижка детская (6–12 лет)
+        - generic [ref=f13e53]: 1 100 ₽
+      - generic [ref=f13e54]:
+        - generic [ref=f13e55]:
+          - generic [ref=f13e56]: Стрижка детская креативная (6–12 лет)
+          - generic [ref=f13e57]: Фейд, удлинённая или тату-рисунок с выбриванием.
+        - generic [ref=f13e58]: —
+  - generic [ref=f13e60]:
+    - img "Britto" [ref=f13e61]
+    - generic [ref=f13e62]:
+      - generic [ref=f13e63]: ПРИКУБАНСКИЙ ОКРУГ
+      - heading "Как нас найти" [level=2] [ref=f13e64]
+      - list [ref=f13e65]:
+        - listitem [ref=f13e66]: "Адрес: Заполярная улица, 39 к6, цокольный этаж (5 филиалов), Краснодар"
+        - listitem [ref=f13e67]:
+          - text: "Телефон:"
+          - link "+7 953 088-90-88" [ref=f13e68] [cursor=pointer]:
+            - /url: tel:+79530889088
+        - listitem [ref=f13e69]: "Режим работы: уточняйте в карточке 2ГИС — часто работает по предварительной записи"
+      - generic [ref=f13e70]:
+        - link "Записаться ↗" [ref=f13e71] [cursor=pointer]:
+          - /url: https://wa.me/79530889088
+          - text: Записаться
+          - generic [ref=f13e72]: ↗
+        - link "Профиль на 2ГИС" [ref=f13e73] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001079806198
+  - contentinfo [ref=f13e74]:
+    - generic [ref=f13e75]:
+      - generic [ref=f13e76]:
+        - generic [ref=f13e77]:
+          - heading "Britto" [level=4] [ref=f13e78]
+          - paragraph [ref=f13e79]: Прикубанский округ, КраснодарЗаполярная улица, 39 к6, цокольный этаж (5 филиалов)
+        - generic [ref=f13e80]:
+          - heading "Контакты" [level=4] [ref=f13e81]
+          - link "+7 953 088-90-88" [ref=f13e82] [cursor=pointer]:
+            - /url: tel:+79530889088
+          - link "WhatsApp" [ref=f13e83] [cursor=pointer]:
+            - /url: https://wa.me/79530889088
+          - link "Max" [ref=f13e84] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f13e85]:
+          - heading "Быстрые ссылки" [level=4] [ref=f13e86]
+          - link "Услуги и цены" [ref=f13e87] [cursor=pointer]:
+            - /url: "#services"
+          - link "Локация" [ref=f13e88] [cursor=pointer]:
+            - /url: "#location"
+          - link "Карточка 2ГИС" [ref=f13e89] [cursor=pointer]:
+            - /url: https://2gis.ru/krasnodar/firm/70000001079806198
+      - generic [ref=f13e90]:
+        - text: Демонстрационный макет сайта, собран по открытым данным карточки барбершопа «Britto» на
+        - link "2ГИС" [ref=f13e91] [cursor=pointer]:
+          - /url: https://2gis.ru/krasnodar/firm/70000001079806198
+        - text: (адрес, телефон, цены, фотографии, рейтинг). Это не официальный сайт компании. Часы работы и наличие акций уточняйте по телефону или в карточке 2ГИС.
