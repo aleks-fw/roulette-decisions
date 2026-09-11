@@ -1,0 +1,8 @@
+[    1000ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[    4995ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    4998ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    5002ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    8883ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    9917ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   10213ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   12528ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/moscow/search/%D0%A2%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0:0

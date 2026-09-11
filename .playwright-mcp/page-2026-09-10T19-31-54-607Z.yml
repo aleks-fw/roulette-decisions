@@ -1,0 +1,458 @@
+- generic [active] [ref=f33e1]:
+  - generic [ref=f33e2]:
+    - generic [ref=f33e3]:
+      - generic [ref=f33e4]:
+        - generic [ref=f33e5]:
+          - link "логотип":
+            - /url: /
+            - img "логотип" [ref=f33e6] [cursor=pointer]
+          - heading [level=1] [ref=f33e7]:
+            - link "ГОСУДАРСТВЕННАЯ ВЕТЕРИНАРНАЯ СЛУЖБА САНКТ-ПЕТЕРБУРГА" [ref=f33e8] [cursor=pointer]:
+              - /url: /
+              - text: ГОСУДАРСТВЕННАЯ ВЕТЕРИНАРНАЯСЛУЖБА САНКТ-ПЕТЕРБУРГА
+        - generic [ref=f33e9]:
+          - generic [ref=f33e14]:
+            - link "Версия для слабовидящих":
+              - /url: /?set-aa=special
+          - generic [ref=f33e16]:
+            - generic [ref=f33e19]:
+              - generic: 
+              - textbox "ПОИСК ПО УСЛУГАМ" [ref=f33e21]
+            - link "Сделать страницу домашней" [ref=f33e25] [cursor=pointer]:
+              - /url: "#"
+      - list [ref=f33e28]:
+        - listitem [ref=f33e29]:
+          - link "О нас" [ref=f33e30] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f33e32]:
+          - link "Услуги и Цены" [ref=f33e33] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f33e35]:
+          - link "Клиники" [ref=f33e36] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f33e38]:
+          - link "Врачи" [ref=f33e39] [cursor=pointer]:
+            - /url: /specialization/doctors/
+        - listitem [ref=f33e40]:
+          - link "Горветлаборатория" [ref=f33e41] [cursor=pointer]:
+            - /url: https://www.gvl.spbvet.ru/gvl/about/
+        - listitem [ref=f33e42]:
+          - link "Центр образования" [ref=f33e43] [cursor=pointer]:
+            - /url: /training2/
+        - listitem [ref=f33e44]:
+          - link "Наши преимущества" [ref=f33e45] [cursor=pointer]:
+            - /url: /benefits/
+        - listitem [ref=f33e46]:
+          - link "Контакты" [ref=f33e47] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f33e49]:
+          - link "ИС \"ЦЕРБЕР\" (подтверждение площадки)" [ref=f33e50] [cursor=pointer]:
+            - /url: /platform/
+        - listitem [ref=f33e52]:
+          - link "ЕДИНЫЙ НОМЕР ☎" [ref=f33e53] [cursor=pointer]:
+            - /url: http://www.spbvet.ru/vet_services/lechebno-profilakticheskie/vyzov-vracha-na-dom
+    - heading "ЕДИНЫЙ НОМЕР +7 (812) 403-03-00" [level=3] [ref=f33e58]
+    - generic [ref=f33e59]:
+      - generic [ref=f33e60]:
+        - generic:
+          - paragraph
+        - paragraph
+        - paragraph [ref=f33e61]:
+          - generic [ref=f33e62]: ГБУ «Санкт-Петербургская горветстанция»
+        - generic [ref=f33e63]: "Адрес:"
+        - text: 195043, Санкт-Петербург, 2-я Жерновская улица, 46
+        - generic [ref=f33e64]: "Электронная почта:"
+        - link "gorvet@spbvet.ru" [ref=f33e66] [cursor=pointer]:
+          - /url: mailto:gorvet@spbvet.ru
+        - generic [ref=f33e67]:
+          - generic [ref=f33e68]: "Общие вопросы по лечебной работе:"
+          - text: "+7 (812) 403 03 00, доб.: 2404"
+        - generic [ref=f33e70]:
+          - generic [ref=f33e71]: МЫ В СОЦСЕТЯХ
+          - list [ref=f33e73]:
+            - listitem [ref=f33e74]:
+              - link [ref=f33e75] [cursor=pointer]:
+                - /url: https://vk.com/vet_78
+        - paragraph [ref=f33e76]: ПЕРЕЧЕНЬ структурных подразделений Санкт-Петербургского государственного бюджетного учреждения «Санкт-Петербургская городская станция по борьбе с болезнями животных»
+        - table [ref=f33e77]:
+          - rowgroup [ref=f33e86]:
+            - row [ref=f33e87]:
+              - cell "№" [ref=f33e88]
+              - cell "Район" [ref=f33e89]
+              - cell "Адрес клиники" [ref=f33e90]
+              - cell "Телефоны" [ref=f33e91]
+            - row [ref=f33e92]:
+              - cell "1" [ref=f33e93]
+              - cell "Адмиралтейский район" [ref=f33e94]
+              - cell [ref=f33e95]:
+                - paragraph [ref=f33e97]:
+                  - link "ул. Большая Подьяческая, д. 5" [ref=f33e99] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/admiralteyskiy/
+              - cell [ref=f33e100]:
+                - generic [ref=f33e101]: +7 (812) 403 03 00, доб.:3201
+                - generic [ref=f33e102]: 8 (812) 310-57-37
+            - row [ref=f33e103]:
+              - cell "2" [ref=f33e104]
+              - cell [ref=f33e105]:
+                - paragraph [ref=f33e107]: Василеостровский район
+              - cell [ref=f33e108]:
+                - link "17-я линия Васильевского острова, д. 56" [ref=f33e110] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/vasileostrovskiy/
+              - cell "+7 (812) 403 03 00, доб.:1101" [ref=f33e111]
+            - row [ref=f33e112]:
+              - cell "3" [ref=f33e113]
+              - cell "Выборгский район" [ref=f33e114]
+              - cell [ref=f33e115]:
+                - link "ул. Зеленогорская, д. 16" [ref=f33e117] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/vyborgskiy/ul-zelenogorskaya-d-16
+              - cell "+7 (812) 403 03 00, доб.:1201" [ref=f33e118]
+            - row [ref=f33e119]:
+              - cell "4" [ref=f33e120]
+              - cell [ref=f33e121]:
+                - link "пос. Парголово, ул. Ломоносова, д. 22а" [ref=f33e123] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/vyborgskiy/pos-pargolovo-ul-lomonosova-d-22a
+              - cell [ref=f33e124]:
+                - generic [ref=f33e125]: +7 (812) 403 03 00, доб.:3101
+                - generic [ref=f33e126]: 8 (812) 594-87-78
+            - row [ref=f33e127]:
+              - cell "5" [ref=f33e128]
+              - cell [ref=f33e129]:
+                - generic [ref=f33e130]: Калининский район
+                - generic [ref=f33e131]: Межрайонный
+                - generic [ref=f33e132]: ветеринарный центр
+              - cell [ref=f33e133]:
+                - link "ул. Васенко, д. 3/3" [ref=f33e135] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kalininskiy/
+              - cell [ref=f33e136]:
+                - generic [ref=f33e137]: +7 (812) 403 03 00, доб.:1401
+                - generic [ref=f33e138]: 8 (812) 540-30-32
+            - row [ref=f33e139]:
+              - cell "6" [ref=f33e140]
+              - cell "Кировский район" [ref=f33e141]
+              - cell [ref=f33e142]:
+                - link "ул. Швецова, д. 47/2" [ref=f33e144] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kirovsky/
+              - cell "+7 (812) 403 03 00" [ref=f33e145]
+            - row [ref=f33e146]:
+              - cell "7" [ref=f33e147]
+              - cell "Колпинский район" [ref=f33e148]
+              - cell [ref=f33e149]:
+                - link "г. Колпино, ул. Колпинская, д. 6" [ref=f33e151] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kolpinskiy/
+              - cell "+7 (812) 403 03 00" [ref=f33e152]
+            - row [ref=f33e153]:
+              - cell "8" [ref=f33e154]
+              - cell "Красногвардейский район" [ref=f33e155]
+              - cell [ref=f33e156]:
+                - link "Лечебно-диагностический отдел" [ref=f33e158] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/krasnogvardeiskiy/
+                - link:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/krasnogvardeiskiy/
+                - link "(2-я Жерновская, д.46)" [ref=f33e160] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/krasnogvardeiskiy/
+              - 'cell "+7 (812) 403 03 00, доб.: терапия-1022, лаборатория-1024 Вызов врача на дом: 8 (921) 953-24-07" [ref=f33e161]':
+                - text: "+7 (812) 403 03 00, доб.: терапия-1022, лаборатория-1024"
+                - generic [ref=f33e162]: "Вызов врача на дом:"
+                - text: 8 (921) 953-24-07
+            - row [ref=f33e163]:
+              - cell "9" [ref=f33e164]
+              - cell "Красносельский район" [ref=f33e165]
+              - cell [ref=f33e166]:
+                - generic [ref=f33e167]:
+                  - link "г. Красное Село," [ref=f33e168] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/krasnoselskiy/g-krasnoe-selo-ul-lermontova-d-22-1
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/krasnoselskiy/g-krasnoe-selo-ul-lermontova-d-22-1
+                - link "ул. Лермонтова, д. 22/1" [ref=f33e170] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/krasnoselskiy/g-krasnoe-selo-ul-lermontova-d-22-1
+              - cell [ref=f33e171]:
+                - generic [ref=f33e172]: +7 (812) 403 03 00
+                - generic [ref=f33e173]: 8 (812) 741-18-10
+            - row [ref=f33e174]:
+              - cell "10" [ref=f33e175]
+              - cell [ref=f33e176]:
+                - generic [ref=f33e177]:
+                  - link "пос. Володарский (Сергиево)," [ref=f33e178] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/krasnoselskiy/pos-sergievo-ul-volodarskogo-d-5
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/krasnoselskiy/pos-sergievo-ul-volodarskogo-d-5
+                - link "ул. Володарского, д. 5" [ref=f33e180] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/krasnoselskiy/pos-sergievo-ul-volodarskogo-d-5
+              - cell [ref=f33e181]:
+                - generic [ref=f33e182]: +7 (812) 403 03 00, доб.:3401
+                - generic [ref=f33e183]: 8 (812) 669-96-55
+            - row [ref=f33e184]:
+              - cell "11" [ref=f33e185]
+              - cell "Кронштадтский район" [ref=f33e186]
+              - cell [ref=f33e187]:
+                - link "г. Кронштадт, ул. Восстания, д. 13а" [ref=f33e189] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kronshtadtskiy/
+              - cell "+7 (812) 403 03 00, доб.:2501" [ref=f33e190]
+            - row [ref=f33e191]:
+              - cell "12" [ref=f33e192]
+              - cell "Курортный район" [ref=f33e193]
+              - cell [ref=f33e194]:
+                - link "г. Сестрорецк, Транспортный пер., д. 4" [ref=f33e196] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/g-sestroretsk-transportnyy-per-d-4
+              - cell "+7 (812) 403 03 00, доб.:2301" [ref=f33e197]
+            - row [ref=f33e198]:
+              - cell "13" [ref=f33e199]
+              - cell [ref=f33e200]:
+                - link "г. Зеленогорск, пр. Ленина, д. 49б" [ref=f33e202] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/g-zelenogorsk-pr-lenina-d-49b-
+              - cell "+7 (812) 403 03 00, доб.:3501" [ref=f33e203]
+            - row [ref=f33e204]:
+              - cell "14" [ref=f33e205]
+              - cell [ref=f33e206]:
+                - link "пос. Песочный, ул. Ленинградская, д. 73а" [ref=f33e208] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/pos-pesochnyy-ul-leningradskaya-d-73a
+                - link:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/pos-pesochnyy-ul-leningradskaya-d-73a
+                - generic:
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/pos-pesochnyy-ul-leningradskaya-d-73a
+                - link:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/pos-pesochnyy-ul-leningradskaya-d-73a
+                - generic:
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/pos-pesochnyy-ul-leningradskaya-d-73a
+                - link:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/kurortnyy/pos-pesochnyy-ul-leningradskaya-d-73a
+              - cell "+7 (812) 403 03 00, доб.:1701" [ref=f33e209]
+            - row [ref=f33e210]:
+              - cell "15" [ref=f33e211]
+              - cell "Московский район" [ref=f33e212]
+              - cell [ref=f33e213]:
+                - generic [ref=f33e214]: Лиговский пр., д. 291
+                - text: (временно не работает)
+              - cell "нет" [ref=f33e215]
+            - row [ref=f33e216]:
+              - cell "16" [ref=f33e217]
+              - cell "Петроградский Район" [ref=f33e218]
+              - cell [ref=f33e219]:
+                - link "Вяземский пер., д. 4" [ref=f33e220] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/petrogradskiy/vyazemskiy
+              - cell "+7 (812) 403 03 00, доб.:2801" [ref=f33e221]
+            - row [ref=f33e222]:
+              - cell "17" [ref=f33e223]
+              - cell "Петродворцовый район" [ref=f33e224]
+              - cell [ref=f33e225]:
+                - link "г. Петергоф, ул. Демьяна Бедного, д. 8/5" [ref=f33e227] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/petrodvortsovyy/g-petergof-ul-demyana-bednogo-d-8-5-
+              - cell [ref=f33e228]:
+                - generic [ref=f33e229]: +7 (812) 403 03 00, доб.:2901
+                - generic [ref=f33e230]: 8 (812) 427-02-53
+            - row [ref=f33e231]:
+              - cell "18" [ref=f33e232]
+              - cell [ref=f33e233]:
+                - link "г. Ломоносов, ул. Михайловская, д. 38" [ref=f33e235] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/petrodvortsovyy/g-lomonosov-ul-mikhaylovskaya-d-38
+              - cell "+7 (812) 403 03 00, доб.:3301" [ref=f33e236]
+            - row [ref=f33e237]:
+              - cell "19" [ref=f33e238]
+              - cell "Приморский район" [ref=f33e239]
+              - cell [ref=f33e240]:
+                - generic [ref=f33e241]:
+                  - link "Ветеринарная клиника" [ref=f33e242] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/primorsky/
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/primorsky/
+                - link "Приморского района" [ref=f33e244] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/primorsky/
+                - link:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/primorsky/
+                - link "(ул. Школьная, д. 32, лит.Б)" [ref=f33e246] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/primorsky/
+              - cell [ref=f33e247]:
+                - text: +7 (812) 403 03 00
+                - generic [ref=f33e248]: 8 (812) 430-35-81
+            - row [ref=f33e249]:
+              - cell "20" [ref=f33e250]
+              - cell "Пушкинский район" [ref=f33e251]
+              - cell [ref=f33e252]:
+                - link "г. Пушкин, ул. Сапёрная, д. 61а" [ref=f33e254] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/pushkinsky/g-pushkin-ul-sapernaya-d-61a
+              - cell "+7 (812) 403 03 00, доб.:2201" [ref=f33e255]
+            - row [ref=f33e256]:
+              - cell "21" [ref=f33e257]
+              - cell [ref=f33e258]:
+                - link "Павловская ветеринарная лечебница" [ref=f33e260] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/pushkinsky/pavlovskaya-veterinarnaya-lechebnitsa-
+              - cell [ref=f33e261]:
+                - generic [ref=f33e262]: +7 (812) 403 03 00
+                - generic [ref=f33e263]: 8 (812) 452-20-25
+            - row [ref=f33e264]:
+              - cell "22" [ref=f33e265]
+              - cell "Фрунзенский район" [ref=f33e266]
+              - cell [ref=f33e267]:
+                - link "ул. Салова, д. 16" [ref=f33e269] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/frunzenskiy/
+              - cell "+7 (812) 403 03 00" [ref=f33e270]
+            - row [ref=f33e271]:
+              - cell "23" [ref=f33e272]
+              - cell "Центральный район" [ref=f33e273]
+              - cell [ref=f33e274]:
+                - generic [ref=f33e275]:
+                  - link "Ветеринарная клиника" [ref=f33e276] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/tsentralnyy/
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/tsentralnyy/
+                - link "Центрального района" [ref=f33e278] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/tsentralnyy/
+              - cell [ref=f33e279]:
+                - text: "+7 (812) 403 03 00, доб.: аптека-2601, вакцинация-2602, лаборатория - 2603,"
+                - generic [ref=f33e280]: хирургия - 2604
+                - generic [ref=f33e281]: 8 (812) 575-78-80
+            - row [ref=f33e282]:
+              - cell "24" [ref=f33e283]
+              - cell "Центр ветеринарной офтальмологии и стоматологии Центральный район" [ref=f33e284]
+              - cell [ref=f33e285]:
+                - generic [ref=f33e286]:
+                  - link "Центр ветеринарной" [ref=f33e287] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+                - link "офтальмологии" [ref=f33e289] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+                - link:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+                - generic [ref=f33e290]:
+                  - link "и" [ref=f33e291] [cursor=pointer]:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+                  - link:
+                    - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+                - link "стоматологии" [ref=f33e293] [cursor=pointer]:
+                  - /url: https://www.spbvet.ru/structure/station/rayony/tsentr-veterinarnoy-oftalmologii-i-stomatologii/
+              - cell [ref=f33e294]:
+                - generic [ref=f33e295]: "+7 (812) 403 03 00, доб.:"
+                - text: 2610, 2612
+            - row [ref=f33e296]:
+              - cell "25" [ref=f33e297]
+              - cell [ref=f33e298]
+              - cell "Общие вопросы по лечебной работе" [ref=f33e299]
+              - cell [ref=f33e301]:
+                - generic [ref=f33e302]: "+7 (812) 403 03 00, доб.:"
+                - text: "2404"
+            - row [ref=f33e303]:
+              - cell "26" [ref=f33e304]
+              - cell "Противоэпизоотический отряд" [ref=f33e305]:
+                - generic [ref=f33e306]: Противоэпизоотический
+                - generic [ref=f33e308]: отряд
+              - cell "Советская ул., д. 5, лит. А;" [ref=f33e309]
+              - 'cell "Администрация: 8 (812) 374-98-23" [ref=f33e310]'
+            - row [ref=f33e311]:
+              - cell [ref=f33e312]
+              - cell [ref=f33e313]
+              - cell [ref=f33e314]
+              - cell [ref=f33e315]
+      - generic [ref=f33e316]:
+        - generic [ref=f33e318]:
+          - generic: 
+          - textbox "ПОИСК ПО САЙТУ" [ref=f33e320]
+        - generic [ref=f33e325]:
+          - heading [level=2]
+          - heading "Поиск ветеринарных станций" [level=2] [ref=f33e326]
+          - combobox [ref=f33e328]:
+            - option "Выберите район" [selected]
+            - option "Кировский"
+            - option "Центр ветеринарной офтальмологии и стоматологии Центральный"
+            - option "Цeнтральный"
+            - option "Василеостровский"
+            - option "Выборгский"
+            - option "Калининский"
+            - option "Колпинский"
+            - option "Красногвардейский"
+            - option "Красносельский"
+            - option "Кронштадтский"
+            - option "Курортный"
+            - option "Московский"
+            - option "Невский"
+            - option "Петроградский"
+            - option "Петродворцовый"
+            - option "Приморский"
+            - option "Пушкинский"
+            - option "Фрунзенский"
+            - option "Адмиралтейский"
+          - link [ref=f33e329] [cursor=pointer]:
+            - /url: /map/
+        - generic [ref=f33e335]:
+          - heading "Поиск животных" [level=2] [ref=f33e336]
+          - generic [ref=f33e337]: Введите номер чипа вашего животного
+          - generic [ref=f33e339]:
+            - generic [ref=f33e340]: 16-значный код чипа
+            - textbox "16-значный код чипа название или адрес клиники 16-значный код чипа" [ref=f33e341]:
+              - /placeholder: 15-значный код чипа
+            - button "Submit" [ref=f33e343] [cursor=pointer]
+        - generic [ref=f33e349]:
+          - heading "Уполномоченные негосударственные клиники, проводящие вакцинацию" [level=2] [ref=f33e350]
+          - generic [ref=f33e351]: Введите название или адрес клиники
+          - generic [ref=f33e353]:
+            - generic [ref=f33e354]: название или адрес клиники
+            - textbox "название клиники" [ref=f33e355]
+            - button "Submit" [ref=f33e357] [cursor=pointer]
+        - generic [ref=f33e363]:
+          - heading "Поиск животных чипированных в городских частных клиниках" [level=2] [ref=f33e364]
+          - generic [ref=f33e365]: Введите номер чипа животного
+          - generic [ref=f33e367]:
+            - generic [ref=f33e368]: 16-значный код чипа
+            - textbox "15-значный код чипа" [ref=f33e369]
+            - button "Submit" [ref=f33e371] [cursor=pointer]
+        - generic [ref=f33e376] [cursor=pointer]:
+          - generic [ref=f33e377]:
+            - generic [ref=f33e378]: Есть вопрос?
+            - generic [ref=f33e379]: Напишите нам
+          - button "Написать" [ref=f33e381]
+    - generic [ref=f33e382]:
+      - generic [ref=f33e385]:
+        - list [ref=f33e387]:
+          - listitem [ref=f33e388]:
+            - link "Главная" [ref=f33e389] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f33e390]:
+            - link "О нас" [ref=f33e391] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=f33e392]:
+            - link "Наши услуги" [ref=f33e393] [cursor=pointer]:
+              - /url: /vet_services/
+          - listitem [ref=f33e394]:
+            - link "Структура" [ref=f33e395] [cursor=pointer]:
+              - /url: /structure/
+          - listitem [ref=f33e396]:
+            - link "Пресс-центр" [ref=f33e397] [cursor=pointer]:
+              - /url: /press-center/
+          - listitem [ref=f33e398]:
+            - link "Контактная информация" [ref=f33e399] [cursor=pointer]:
+              - /url: /contacts/
+        - list [ref=f33e401]:
+          - listitem [ref=f33e402]:
+            - link [ref=f33e403] [cursor=pointer]:
+              - /url: https://max.ru/vet_78
+          - listitem [ref=f33e405]:
+            - link [ref=f33e406] [cursor=pointer]:
+              - /url: https://vk.com/club114983663
+          - listitem [ref=f33e408]:
+            - link [ref=f33e409] [cursor=pointer]:
+              - /url: //youtube.com/channel/UCjdO8KIZh6i3FyUeOSjCqJw
+          - listitem [ref=f33e411]:
+            - link [ref=f33e412] [cursor=pointer]:
+              - /url: https://rutube.ru/channel/24113923/
+          - listitem [ref=f33e414]:
+            - link [ref=f33e415] [cursor=pointer]:
+              - /url: mailto:gorvet@spbvet.ru
+      - generic [ref=f33e417]:
+        - generic [ref=f33e418]:
+          - heading "© ГБУ \"Санкт-Петербургская горветстанция\"" [level=3] [ref=f33e419]
+          - link "панель управления" [ref=f33e420] [cursor=pointer]:
+            - /url: /auth/
+        - table [ref=f33e422]:
+          - rowgroup [ref=f33e423]:
+            - row [ref=f33e424]:
+              - cell [ref=f33e425]:
+                - link [ref=f33e426] [cursor=pointer]:
+                  - /url: //gu.spb.ru/
+              - cell [ref=f33e428]:
+                - link [ref=f33e429] [cursor=pointer]:
+                  - /url: https://metrika.yandex.ru/stat/?id=48168032&from=informer
+                  - img "Яндекс.Метрика" [ref=f33e430]
+  - link "Быстро с 1С-Битрикс" [ref=f33e431] [cursor=pointer]:
+    - /url: http://www.1c-bitrix.ru/composite/

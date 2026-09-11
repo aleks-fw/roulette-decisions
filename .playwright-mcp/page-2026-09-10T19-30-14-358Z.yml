@@ -1,0 +1,479 @@
+- generic [active]:
+  - generic: ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. .............................................................................
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f17e1]:
+          - generic [ref=f17e2]:
+            - link "Поиск" [ref=f17e7]:
+              - /url: /krasnodar
+            - link "Маршруты" [ref=f17e12]:
+              - /url: /krasnodar/directions
+            - link "Афиша" [ref=f17e17]:
+              - /url: /krasnodar/afisha
+            - link "Друзья" [ref=f17e25]:
+              - /url: /krasnodar/friendsList
+            - link "Гид" [ref=f17e31]:
+              - /url: /krasnodar/guide
+            - link "Жильё" [ref=f17e36]:
+              - /url: /krasnodar/realty
+          - generic [ref=f17e40]:
+            - generic [ref=f17e42] [cursor=pointer]
+            - generic [ref=f17e46] [cursor=pointer]
+          - generic [ref=f17e52]:
+            - generic [ref=f17e58]:
+              - link [ref=f17e60] [cursor=pointer]:
+                - /url: /
+              - generic [ref=f17e65]:
+                - textbox "Поиск в 2ГИС" [ref=f17e66]: Государственная ветеринарная клиника
+                - heading "Государственная ветеринарная клиника" [level=1]
+                - button "Очистить локальное поле поиска" [ref=f17e68] [cursor=pointer]
+            - generic [ref=f17e74]:
+              - banner [ref=f17e76]:
+                - generic [ref=f17e81]:
+                  - button "Фильтры" [ref=f17e83] [cursor=pointer]
+                  - heading [level=2] [ref=f17e91]:
+                    - link "Места 307" [ref=f17e92]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - text: Места
+                      - generic [ref=f17e93]: "307"
+              - generic [ref=f17e95]:
+                - list [ref=f17e109]:
+                  - listitem [ref=f17e110]:
+                    - generic [ref=f17e113]:
+                      - textbox "Сортировка" [ref=f17e114]
+                      - generic [ref=f17e115] [cursor=pointer]
+                  - listitem [ref=f17e116]:
+                    - list [ref=f17e117]:
+                      - listitem [ref=f17e118]:
+                        - generic "С ценами" [ref=f17e119] [cursor=pointer]
+                      - listitem [ref=f17e124]:
+                        - generic "Были друзья" [ref=f17e125] [cursor=pointer]
+                      - listitem [ref=f17e127]:
+                        - generic "На карте" [ref=f17e128] [cursor=pointer]
+                      - listitem [ref=f17e130]:
+                        - generic "С сайтом" [ref=f17e131] [cursor=pointer]
+                      - listitem [ref=f17e133]:
+                        - generic "С фото" [ref=f17e134] [cursor=pointer]
+                      - listitem [ref=f17e136]:
+                        - generic "Расчёт по картам" [ref=f17e137] [cursor=pointer]
+                      - listitem [ref=f17e139]:
+                        - generic "Онлайн-услуги" [ref=f17e140] [cursor=pointer]
+                  - listitem [ref=f17e142]:
+                    - generic [ref=f17e145]:
+                      - textbox "Округ города" [ref=f17e146]
+                      - generic [ref=f17e147] [cursor=pointer]
+                  - listitem [ref=f17e148]:
+                    - generic [ref=f17e149]:
+                      - heading "Время работы" [level=3] [ref=f17e151]
+                      - list [ref=f17e153]:
+                        - listitem [ref=f17e154]:
+                          - generic "Открыто сейчас" [ref=f17e155] [cursor=pointer]
+                        - listitem [ref=f17e157]:
+                          - generic "Круглосуточно" [ref=f17e158] [cursor=pointer]
+                        - listitem [ref=f17e160]:
+                          - generic "В указанное время" [ref=f17e161] [cursor=pointer]
+                      - generic [ref=f17e163] [cursor=pointer]:
+                        - generic [ref=f17e164]: 22:00
+                        - generic [ref=f17e166]: Чт
+                  - listitem [ref=f17e168]:
+                    - generic [ref=f17e169]:
+                      - heading "Рейтинг" [level=3] [ref=f17e171]
+                      - list [ref=f17e173]:
+                        - listitem [ref=f17e174]:
+                          - generic "от 4,9" [ref=f17e175] [cursor=pointer]
+                        - listitem [ref=f17e180]:
+                          - generic "от 4,5" [ref=f17e181] [cursor=pointer]
+                        - listitem [ref=f17e186]:
+                          - generic "от 4" [ref=f17e187] [cursor=pointer]
+                        - listitem [ref=f17e192]:
+                          - generic "от 3,5" [ref=f17e193] [cursor=pointer]
+                        - listitem [ref=f17e198]:
+                          - generic "от 3" [ref=f17e199] [cursor=pointer]
+                  - listitem [ref=f17e204]:
+                    - generic [ref=f17e205]:
+                      - heading "Ветеринарные услуги" [level=3] [ref=f17e208]
+                      - list [ref=f17e209]:
+                        - listitem [ref=f17e210]:
+                          - generic "Рентген" [ref=f17e211] [cursor=pointer]
+                        - listitem [ref=f17e213]:
+                          - generic "УЗИ" [ref=f17e214] [cursor=pointer]
+                        - listitem [ref=f17e216]:
+                          - generic "МРТ" [ref=f17e217] [cursor=pointer]
+                  - listitem [ref=f17e219]:
+                    - generic [ref=f17e220]:
+                      - heading "Доступная среда" [level=3] [ref=f17e223]
+                      - list [ref=f17e224]:
+                        - listitem [ref=f17e225]:
+                          - generic "Для людей с инвалидностью" [ref=f17e226] [cursor=pointer]
+                - generic [ref=f17e232]:
+                  - generic [ref=f17e233]: Точных совпадений нет. Посмотрите похожие места или измените запрос.
+                  - generic [ref=f17e235]:
+                    - generic [ref=f17e237] [cursor=pointer]:
+                      - link "Воля" [ref=f17e239]:
+                        - /url: /krasnodar/firm/70000001027886136?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMjc4ODYxMzYiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wMDA4MTcsImxhdCI6NDUuMTU2NzA0fSwicmVsZXZhbmNlIjoyLjgzNjc0NTAwNTU2MzMwMTRlLTEwLCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTAyNzg4NjEzNSIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MX19
+                      - generic [ref=f17e244]:
+                        - link "Ветеринарная клиника":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f17e245]:
+                        - generic [ref=f17e246]: "4.4"
+                        - generic [ref=f17e269]: Подтверждён
+                        - generic [ref=f17e275]: (1031)
+                      - generic [ref=f17e276]: Целиноградская улица, 68, пос. Березовый, Краснодар городской округ, Краснодарский край
+                      - generic [ref=f17e277]: Ветеринарные клиники
+                      - generic [ref=f17e280]:
+                        - generic [ref=f17e281]: "Работаем 24/7: хирургия, терапия, своя лаборатория, УЗИ и пр."
+                        - generic [ref=f17e282]: Реклама
+                        - link "Записаться на приём" [ref=f17e287]:
+                          - /url: tel:+79184200595
+                    - generic [ref=f17e296] [cursor=pointer]:
+                      - link "Дар" [ref=f17e298]:
+                        - /url: /krasnodar/firm/70000001061415453?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjE0MTU0NTMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOC45NDgxMDQsImxhdCI6NDUuMDQxMDkxfSwiaHlicmlkRW50aXRpZXMiOlt7ImlkIjoiMzIzNzU5NzkyMzM5Mzc2OCIsInR5cGUiOiJidWlsZGluZyJ9XSwicmVsZXZhbmNlIjo1LjY4MDY5MjU4Mjk5ODg1OWUtMTAsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDYxNDE1NDUyIiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoyfX0%3D
+                      - generic [ref=f17e303]:
+                        - link "Ветеринарная клиника":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f17e305]:
+                        - generic [ref=f17e323]: "4.8"
+                        - generic [ref=f17e324]: 107 оценок
+                      - generic [ref=f17e325]: Улица им. Калинина, 316/1, Краснодар
+                      - generic [ref=f17e326]: Ветеринарные клиники
+                      - generic [ref=f17e328]: Закрыто до завтра
+                      - generic [ref=f17e330]:
+                        - generic [ref=f17e331]: Миссия — дарить питомцу и человеку счастье от общения друг с другом
+                        - generic [ref=f17e336]:
+                          - generic [ref=f17e337]: Реклама
+                          - generic [ref=f17e338]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f17e340]
+                        - link "Позвонить" [ref=f17e343]:
+                          - /url: tel:+79890300104
+                    - generic [ref=f17e352] [cursor=pointer]:
+                      - link "Лапа Помощи" [ref=f17e354]:
+                        - /url: /krasnodar/firm/70000001021792106?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjN9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMjE3OTIxMDYiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOC45NTc5MTUsImxhdCI6NDUuMDY3NTgzfSwicmVsZXZhbmNlIjoxLjMzNDkwODE4Mzk5MTk1NjNlLTksImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDIxNzkyMTA1IiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjozfX0%3D
+                      - generic [ref=f17e359]:
+                        - link "Ветеринарная клиника":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f17e360]:
+                        - generic [ref=f17e361]: "4.9"
+                        - generic [ref=f17e380]: Подтверждён
+                        - generic [ref=f17e386]: (653)
+                      - generic [ref=f17e387]: Улица Архитектора Ишунина, 7/1 к2, Краснодар
+                      - generic [ref=f17e388]: Ветеринарные клиники
+                      - generic [ref=f17e390]: Закрыто до завтра
+                      - generic [ref=f17e392]:
+                        - generic [ref=f17e393]: Ответственный подход к лечению, настоящая забота о вашем питомце!
+                        - generic [ref=f17e398]:
+                          - generic [ref=f17e399]: Реклама
+                          - generic [ref=f17e400]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f17e402]
+                        - link "Помочь питомцу" [ref=f17e406]:
+                          - /url: https://link.2gis.ru/4.2/E6A70C4F/aHR0cDovL2xhcGFjbGluaWMucnUvCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMGEzMDk4MzktNmQ1My00ODVhLTg4NDYtNGQ4NDEyNGNlYTRhIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6IjQyMTBjYmFhLTg1MzAtNDZkOS04MmUzLTY0ZTgzZDRkMGQxMyIsInRpbWVzdGFtcCI6MTc4OTA2ODYxMDk0NSwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiN2FmMWNhOGItODg3Ni00ODM4LTg3N2QtMjliYjQ3MGRkNGRiIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiZWJhNjFlZDYtNjM1OS00MDczLTliZDgtZDI5OThlNTAxYjZkIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi84RDhDQkM4MC9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDIzLzcwMDAwMDAxMDIxNzkyMTA2L251bGwvQkFnYjRsRXo0ZGY1ZUE4ZDhKN0gxSjNKSEdJSUdIMUp4MmpuZnJwbmVkLTk4NjMwOTE3ODcyQUkxMzFBQTIzMi03MEIwMDRkMzM3OEoyOEIzOTBCMTk2MTZINElKSDU1aWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxN0g1SjNINDEyMzVBND9odHRwOi8vbGFwYWNsaW5pYy5ydS8ifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDIxNzkyMTA2IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJiZXN0S2V5d29yZCI6ItCS0LXRgtC10YDQuNC90LDRgNC90YvQtSDQutC70LjQvdC40LrQuCIsImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzguOTU3OTE1LCJsYXQiOjQ1LjA2NzU4M30sInJlbGV2YW5jZSI6MS4zMzQ5MDgxODM5OTE5NTYzZS05LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTAyMTc5MjEwNSIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6M30sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoyLCJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=f17e412] [cursor=pointer]:
+                      - link "Большая Медведица" [ref=f17e414]:
+                        - /url: /krasnodar/firm/3237490513239636?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjR9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiMzIzNzQ5MDUxMzIzOTYzNiIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiYmVzdEtleXdvcmQiOiLQktC10YLQtdGA0LjQvdCw0YDQvdGL0LUg0LrQu9C40L3QuNC60LgiLCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjAxMTg5MSwibGF0Ijo0NS4wMjIzNzR9LCJoeWJyaWRFbnRpdGllcyI6W3siaWQiOiIzMjM3NTk3ODg3MzM5OTY3IiwidHlwZSI6ImJ1aWxkaW5nIn1dLCJyZWxldmFuY2UiOjEuNjE5NjQ0NjQwNjI2OTE2ZS05LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIzMjM3NDk5MTAzMTM5OTQ4IiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo0fX0%3D
+                      - generic [ref=f17e419]:
+                        - link "Ветеринарный центр":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80
+                      - generic [ref=f17e420]:
+                        - generic [ref=f17e421]: "4.7"
+                        - generic [ref=f17e444]: Подтверждён
+                        - generic [ref=f17e450]: (337)
+                      - generic [ref=f17e452]:
+                        - generic [ref=f17e453]: Улица Маяковского, 150, Краснодар
+                        - generic [ref=f17e454]:
+                          - text: •
+                          - link "2 филиала" [ref=f17e455]:
+                            - /url: /krasnodar/branches/3237499103139948
+                      - generic [ref=f17e456]: Ветеринарные клиники
+                      - generic [ref=f17e458]: Закрыто до завтра
+                      - generic [ref=f17e460]:
+                        - generic [ref=f17e461]: Полный спектр ветеринарных услуг. Хирургия. Современное оборудование
+                        - generic [ref=f17e466]:
+                          - generic [ref=f17e467]: Реклама
+                          - generic [ref=f17e468]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f17e470]
+                        - link "Позвонить" [ref=f17e473]:
+                          - /url: tel:+79288815700
+                    - generic [ref=f17e482] [cursor=pointer]:
+                      - link "Ветеринарная клиника на Бабушкина" [ref=f17e484]:
+                        - /url: /krasnodar/firm/3237490513165447?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjV9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjU0OTIwMDg1NjcyMzY1MDU5IiwiZW50aXR5Ijp7ImlkIjoiMzIzNzQ5MDUxMzE2NTQ0NyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiYmVzdEtleXdvcmQiOiLQktC10YLQtdGA0LjQvdCw0YDQvdGL0LUg0LrQu9C40L3QuNC60LgiLCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM4Ljk1Nzc4MSwibGF0Ijo0NS4wNDkyMzl9LCJoeWJyaWRFbnRpdGllcyI6W3siaWQiOiIzMjM3NTk3ODg3Mzc2Njk2IiwidHlwZSI6ImJ1aWxkaW5nIn1dLCJyZWxldmFuY2UiOjEuOTM4ODEwODg5NjEyMzQxM2UtOSwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMzIzNzQ5OTEwMzA5Nzc2MyIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6NX19
+                      - generic [ref=f17e489]:
+                        - link "Ветеринарные клиники":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f17e490]:
+                        - generic [ref=f17e491]: "4.9"
+                        - generic [ref=f17e510]: Подтверждён
+                        - generic [ref=f17e516]: (985)
+                      - generic [ref=f17e518]:
+                        - generic [ref=f17e519]: Улица Бабушкина, 160, Краснодар
+                        - generic [ref=f17e520]:
+                          - text: •
+                          - link "2 филиала" [ref=f17e521]:
+                            - /url: /krasnodar/branches/3237499103097763
+                      - generic [ref=f17e522]: Ветеринарные клиники
+                      - generic [ref=f17e524]: Закрыто до завтра
+                      - generic [ref=f17e526]:
+                        - generic [ref=f17e527]: Специалисты и оборудование экспертного уровня
+                        - generic [ref=f17e528]: Реклама
+                        - link "Записаться на приём к врачу" [ref=f17e534]:
+                          - /url: https://link.2gis.ru/4.2/EF8291C4/aHR0cDovL3ZldGtyYXNub2Rhci5ydS96YXBpcz91dG1fc291cmNlPTJnaXMmdXRtX21lZGl1bT1yZWZlcmFsJnV0bV9jYW1wYWlnbj0yZ2lzLXJla2xhbWEKaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIwYTMwOTgzOS02ZDUzLTQ4NWEtODg0Ni00ZDg0MTI0Y2VhNGEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiOTk4N2Q4MjYtZmE1My00OGM3LTllYWQtM2MxZjliZDhkMzIzIiwidGltZXN0YW1wIjoxNzg5MDY4NjEwOTUwLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiJlYmUwMDc5Mi1kNTUzLTRhZWEtOTY0Ni1lNDU3NjQyM2RkY2YiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6InBsYWNlQ2FyZE1pbmkiLCJmcmFtZVV1aWQiOiJlYmE2MWVkNi02MzU5LTQwNzMtOWJkOC1kMjk5OGU1MDFiNmQifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yL0JGODc0NTA3L29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MjMvMzIzNzQ5MDUxMzE2NTQ0Ny9udWxsL0JBZ2I0bEV6NGRmNWVBOGQ4SjdIMUozSkhHSUlHMkc1eDJqbmZycG5lZC05ODYzMDkxNzg3MkFJMjQxOTY0NjktNzBCMDA0ZDMzNzhKMjhCMzkwQjE5NjFIM0lJSjM2SWlmQjZmY2hkNjU4NUc0RzIzNTU3NDkwNUg1SjRJMzI2MDg3ND9odHRwOi8vdmV0a3Jhc25vZGFyLnJ1L3phcGlzP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPXJlZmVyYWwmdXRtX2NhbXBhaWduPTJnaXMtcmVrbGFtYSJ9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjU0OTIwMDg1NjcyMzY1MDU5IiwiZW50aXR5Ijp7ImlkIjoiMzIzNzQ5MDUxMzE2NTQ0NyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiYmVzdEtleXdvcmQiOiLQktC10YLQtdGA0LjQvdCw0YDQvdGL0LUg0LrQu9C40L3QuNC60LgiLCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM4Ljk1Nzc4MSwibGF0Ijo0NS4wNDkyMzl9LCJoeWJyaWRFbnRpdGllcyI6W3siaWQiOiIzMjM3NTk3ODg3Mzc2Njk2IiwidHlwZSI6ImJ1aWxkaW5nIn1dLCJyZWxldmFuY2UiOjEuOTM4ODEwODg5NjEyMzQxM2UtOSwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMzIzNzQ5OTEwMzA5Nzc2MyIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6NX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoyLCJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=f17e540] [cursor=pointer]:
+                      - link "Зооленд" [ref=f17e542]:
+                        - /url: /krasnodar/firm/70000001023165431?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjZ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMjMxNjU0MzEiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wMjQxNjUsImxhdCI6NDUuMDczNjA0fSwicmVsZXZhbmNlIjoxLjQ4MTcxMjMwODQwNDMyNmUtOSwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwMjMxNjU0MzAiLCJjb250ZXh0UnVicmljIjoiMjA1IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjZ9fQ%3D%3D
+                      - generic [ref=f17e547]:
+                        - link "Ветеринарный центр":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80
+                      - generic [ref=f17e548]:
+                        - generic [ref=f17e549]: "4.9"
+                        - generic [ref=f17e568]: Подтверждён
+                        - generic [ref=f17e574]: (996)
+                      - generic [ref=f17e575]: Оренбургская улица, 1/1, Краснодар
+                      - generic [ref=f17e576]: Ветеринарные клиники
+                      - generic [ref=f17e578]: Закрыто до завтра
+                      - generic [ref=f17e580]:
+                        - generic [ref=f17e581]: Эндоскопические операции на импортном наркозе самых сложных случаев
+                        - generic [ref=f17e586]:
+                          - generic [ref=f17e587]: Реклама
+                          - generic [ref=f17e588]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f17e590]
+                        - link "Записаться" [ref=f17e593]:
+                          - /url: tel:+78612071250
+                    - generic [ref=f17e602] [cursor=pointer]:
+                      - link "Хэрриот" [ref=f17e604]:
+                        - /url: /krasnodar/firm/70000001114110715?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjd9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMTQxMTA3MTUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOC45NTQ4MTcsImxhdCI6NDUuMDQzMjEyfSwiaHlicmlkRW50aXRpZXMiOlt7ImlkIjoiMzIzNzU5Nzg4NzQ0NTIxOCIsInR5cGUiOiJidWlsZGluZyJ9XSwicmVsZXZhbmNlIjo1LjEzMDc3OTEzNDg4NzU3NWUtMTAsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTE0MTEwNzE0IiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo3fX0%3D
+                      - generic [ref=f17e609]:
+                        - link "Диагностический центр":
+                          - /url: /krasnodar/search/%D0%94%D0%B8%D0%B0%D0%B3%D0%BD%D0%BE%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80
+                      - generic [ref=f17e611]:
+                        - generic [ref=f17e633]: "3.7"
+                        - generic [ref=f17e634]: 8 оценок
+                      - generic [ref=f17e635]: Северная улица, 220, Краснодар
+                      - generic [ref=f17e636]: Ветеринарные клиники
+                      - generic [ref=f17e638]: Закрыто до завтра
+                      - generic [ref=f17e640]:
+                        - generic [ref=f17e641]: КТ, УЗИ, кардиология, банк крови для собак и кошек
+                        - generic [ref=f17e642]: Реклама
+                        - link "Записаться на приём" [ref=f17e648]:
+                          - /url: https://link.2gis.ru/4.2/F9CC1730/aHR0cHM6Ly9oZXJyaW90LnJ1LwpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiIzNjBmODM0Yy1kZjcxLTQxNzMtYjUzNS1kZDgwMjA3MjU5YTQiLCJ0aW1lc3RhbXAiOjE3ODkwNjg2MTA5NTQsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjYzMTQ3ZGI2LTI0NjgtNDJlMC05MzM5LTkyODM2NWQwZTQwMiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6ImViYTYxZWQ2LTYzNTktNDA3My05YmQ4LWQyOTk4ZTUwMWI2ZCJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvQUIyQzc2NDUvb25saW5lLzIwMjYwOTAxL3Byb2plY3QyMy83MDAwMDAwMTExNDExMDcxNS9udWxsL0JBZ2I0bEV6NGRmNWVBOGQ4SjdIMUozSkhHSUlHSDFKeDJqbmZycG5lZC05ODYzMDkxNzg3MkFJMjI0NDIwOTMtNzBCMDA0ZDMzNzhKMjhCMzkwQjE5NjE2SDRJSkg1NWlmQjZmY2hkNjU4NUc0RzI3MzIwMDAwMTZIOUozSDQxMjM1MjE%2FaHR0cHM6Ly9oZXJyaW90LnJ1LyJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMTQxMTA3MTUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOC45NTQ4MTcsImxhdCI6NDUuMDQzMjEyfSwiaHlicmlkRW50aXRpZXMiOlt7ImlkIjoiMzIzNzU5Nzg4NzQ0NTIxOCIsInR5cGUiOiJidWlsZGluZyJ9XSwicmVsZXZhbmNlIjo1LjEzMDc3OTEzNDg4NzU3NWUtMTAsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTE0MTEwNzE0IiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo3fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiZmIyMzBkNDctMjU1Zi00OTc4LWE2NmUtNWI4NGFmNjcwMDJmIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NzUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=f17e654] [cursor=pointer]:
+                      - link "Ирбис" [ref=f17e656]:
+                        - /url: /krasnodar/firm/70000001078570508?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjh9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNzg1NzA1MDgiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wMTY4NzIsImxhdCI6NDUuMDk0OTQzfSwicmVsZXZhbmNlIjo3LjY0Mzc4NzI2OTgwNjUyM2UtMTAsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDc4NTcwNTA3IiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo4fX0%3D
+                      - generic [ref=f17e661]:
+                        - link "Ветеринарная клиника":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f17e662]:
+                        - generic [ref=f17e663]: "4.9"
+                        - generic [ref=f17e682]: Подтверждён
+                        - generic [ref=f17e688]: (209)
+                      - generic [ref=f17e690]:
+                        - generic [ref=f17e691]: Интернациональный бульвар, 110, Краснодар
+                        - generic [ref=f17e692]:
+                          - text: •
+                          - link "2 филиала" [ref=f17e693]:
+                            - /url: /krasnodar/branches/70000001078570507
+                      - generic [ref=f17e694]: Ветеринарные клиники
+                      - generic [ref=f17e697]:
+                        - generic [ref=f17e698]: Работаем круглосуточно 24/7. Качественные услуги для ваших любимцев
+                        - generic [ref=f17e703]:
+                          - generic [ref=f17e704]: Реклама
+                          - generic [ref=f17e705]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f17e707]
+                        - link "Записаться на приём 24/7" [ref=f17e710]:
+                          - /url: tel:+79181404067
+                    - generic [ref=f17e719] [cursor=pointer]:
+                      - link "Биос" [ref=f17e721]:
+                        - /url: /krasnodar/firm/70000001105771759?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjl9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMDU3NzE3NTkiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOC45NDgxMTgsImxhdCI6NDUuMDY3MDJ9LCJyZWxldmFuY2UiOjMuMDc5MDY3MDAxMzY1ODQzZS0xMCwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDU3NzE3NTgiLCJjb250ZXh0UnVicmljIjoiMjA1IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjl9fQ%3D%3D
+                      - generic [ref=f17e726]:
+                        - link "Ветеринарная клиника":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f17e728]:
+                        - generic [ref=f17e750]: "4.5"
+                        - generic [ref=f17e751]: 20 оценок
+                      - generic [ref=f17e752]: Совхозная улица, 20, Краснодар
+                      - generic [ref=f17e753]: Ветеринарные клиники
+                      - generic [ref=f17e755]: Закрыто до вторника
+                      - generic [ref=f17e757]:
+                        - generic [ref=f17e758]: Скидка 20% на первичный приём
+                        - generic [ref=f17e759]: Реклама
+                        - link "Записаться" [ref=f17e764]:
+                          - /url: tel:+79180386868
+                    - generic [ref=f17e773] [cursor=pointer]:
+                      - link "Друг" [ref=f17e775]:
+                        - /url: /krasnodar/firm/3237490513420963?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjEwfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1NDkyMDA4NTY3MjM2NTA1OSIsImVudGl0eSI6eyJpZCI6IjMyMzc0OTA1MTM0MjA5NjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wNzY1MjEsImxhdCI6NDUuMDEyODIzfSwicmVsZXZhbmNlIjo5LjQ0NzI3MDc0MzQ3ODk1M2UtMTAsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjMyMzc0OTkxMDMxODY2MzkiLCJjb250ZXh0UnVicmljIjoiMjA1IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjEwfX0%3D
+                      - generic [ref=f17e780]:
+                        - link "Ветеринарная клиника":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f17e781]:
+                        - generic [ref=f17e782]: "4.5"
+                        - generic [ref=f17e805]: Подтверждён
+                        - generic [ref=f17e811]: (394)
+                      - generic [ref=f17e813]:
+                        - generic [ref=f17e814]: Улица им. В.Н. Мачуги, 20, Краснодар
+                        - generic [ref=f17e815]:
+                          - text: •
+                          - link "2 филиала" [ref=f17e816]:
+                            - /url: /krasnodar/branches/3237499103186639
+                      - generic [ref=f17e817]: Ветеринарные клиники
+                      - generic [ref=f17e820]:
+                        - generic [ref=f17e821]: Качественное лечение и обследование питомца по доступным ценам
+                        - generic [ref=f17e826]:
+                          - generic [ref=f17e827]: Реклама
+                          - generic [ref=f17e828]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f17e830]
+                        - link "Позвонить" [ref=f17e833]:
+                          - /url: tel:+78612025088
+                    - generic [ref=f17e842] [cursor=pointer]:
+                      - link "Ветпульс" [ref=f17e844]:
+                        - /url: /krasnodar/firm/70000001113668455?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjExfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTEzNjY4NDU1IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJiZXN0S2V5d29yZCI6ItCS0LXRgtC10YDQuNC90LDRgNC90YvQtSDQutC70LjQvdC40LrQuCIsImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzguOTU2MDYyLCJsYXQiOjQ1LjEwODg2M30sInJlbGV2YW5jZSI6My45MDExODQ5MzA2NTQ3MjJlLTEwLCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTExMzY2ODQ1NCIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MTF9fQ%3D%3D
+                      - generic [ref=f17e849]:
+                        - link "Ветеринарные клиники":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f17e851]:
+                        - generic [ref=f17e869]: "5"
+                        - generic [ref=f17e870]: 35 оценок
+                      - generic [ref=f17e871]: Улица Григория Булгакова, 7 к1, Краснодар
+                      - generic [ref=f17e872]: Ветеринарные клиники
+                      - generic [ref=f17e874]: Закрыто до завтра
+                      - generic [ref=f17e876]:
+                        - generic [ref=f17e877]: Терапия, хирургия, Узи, лаборатория, стоматология, стационар.
+                        - generic [ref=f17e878]: Реклама
+                        - link "Записаться на приём" [ref=f17e883]:
+                          - /url: tel:+79654659900
+                    - generic [ref=f17e892] [cursor=pointer]:
+                      - link "Центр здоровья животных" [ref=f17e894]:
+                        - /url: /krasnodar/firm/70000001115153512?stat=eyJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjEyfSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTE1MTUzNTEyIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJiZXN0S2V5d29yZCI6ItCS0LXRgtC10YDQuNC90LDRgNC90YvQtSDQutC70LjQvdC40LrQuCIsImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDQyNTQ3LCJsYXQiOjQ1LjA2OTg0N30sInJlbGV2YW5jZSI6My40OTc5ODEzNDkwMjEwMTc2ZS0xMCwiYWRzU2VhcmNoIjp0cnVlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMTUxNTMzMTEiLCJjb250ZXh0UnVicmljIjoiMjA1IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjEyfX0%3D
+                      - generic [ref=f17e899]:
+                        - link "Ветеринарные клиники":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f17e901]:
+                        - generic [ref=f17e923]: "4.3"
+                        - generic [ref=f17e924]: 7 оценок
+                      - generic [ref=f17e926]:
+                        - generic [ref=f17e927]: Улица им. Героя Яцкова, 19 к3, Краснодар
+                        - generic [ref=f17e928]:
+                          - text: •
+                          - link "3 филиала" [ref=f17e929]:
+                            - /url: /krasnodar/branches/70000001115153311
+                      - generic [ref=f17e930]: Ветеринарные клиники
+                      - generic [ref=f17e932]: Закрыто до завтра
+                      - generic [ref=f17e934]:
+                        - generic [ref=f17e935]: Новая ветеринарная клиника!
+                        - generic [ref=f17e936]: Реклама
+                        - link "Перейти на сайт" [ref=f17e942]:
+                          - /url: https://link.2gis.ru/4.2/AC797E58/aHR0cHM6Ly94bi0tZjFhYjhiLnhuLS1wMWFjZi8KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIwYTMwOTgzOS02ZDUzLTQ4NWEtODg0Ni00ZDg0MTI0Y2VhNGEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiZmZiODJjNzAtNDUwZS00MTlmLWJjNGYtN2Y3YThkMDZhY2M3IiwidGltZXN0YW1wIjoxNzg5MDY4NjEwOTU5LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI3NDEzNTFjYi0wM2MyLTRiZjEtOWQzMS01YTQyYTEzZWEwZmUiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6InBsYWNlQ2FyZE1pbmkiLCJmcmFtZVV1aWQiOiJlYmE2MWVkNi02MzU5LTQwNzMtOWJkOC1kMjk5OGU1MDFiNmQifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzQ5MUM0OUI4L29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MjMvNzAwMDAwMDExMTUxNTM1MTIvbnVsbC9CQWdiNGxFejRkZjVlQThkOEo3SDFKM0o0R0lJR0hHNHgyam5mcnBuZWQtOTg2MzA5MTc4NzJBSTIyNTQ2MzczLTcwQjAwNGQzMzc4SjI4QjM5MEIxOTYxMTZJNEpISjRpZkI2ZmNoZDY1ODVHNEcyNzMyMDAwMDEzSDQ0STJJM0c1MDczQT9odHRwczovL3huLS1mMWFiOGIueG4tLXAxYWNmIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTExNTE1MzUxMiIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiYmVzdEtleXdvcmQiOiLQktC10YLQtdGA0LjQvdCw0YDQvdGL0LUg0LrQu9C40L3QuNC60LgiLCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjA0MjU0NywibGF0Ijo0NS4wNjk4NDd9LCJyZWxldmFuY2UiOjMuNDk3OTgxMzQ5MDIxMDE3NmUtMTAsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTE1MTUzMzExIiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoxMn0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoyLCJwYXJlbnRUYWJJZCI6ImZiMjMwZDQ3LTI1NWYtNDk3OC1hNjZlLTViODRhZjY3MDAyZiJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                  - generic [ref=f17e945]:
+                    - generic [ref=f17e946]: "1"
+                    - link "2" [ref=f17e947] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/page/2
+                    - link "3" [ref=f17e948] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/page/3
+                    - link "4" [ref=f17e949] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/page/4
+                    - link "5" [ref=f17e950] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/page/5
+                    - link "6" [ref=f17e951] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/page/6
+                    - link "7" [ref=f17e952] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/page/7
+                  - generic [ref=f17e966] [cursor=pointer]:
+                    - text: "Результаты поиска по запросу Государственная ветеринарная клиника на карте в Краснодаре. Также люди ищут:"
+                    - link "Ветклиника Анапа" [ref=f17e967]:
+                      - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%90%D0%BD%D0%B0%D0%BF%D0%B0
+                    - text: ","
+                    - link "Ветклиника в каневской" [ref=f17e968]:
+                      - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9
+                    - text: ","
+                    - link "Ветеринарная клиника с передержкой" [ref=f17e969]:
+                      - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%81%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%BE%D0%B9
+        - generic:
+          - generic [ref=f17e973]:
+            - generic:
+              - generic [ref=f17e977] [cursor=pointer]
+              - generic [ref=f17e982]: Воля
+              - generic [ref=f17e989] [cursor=pointer]
+              - generic [ref=f17e997]: Дар
+              - img "Логотип в маркере" [ref=f17e1008] [cursor=pointer]
+              - generic [ref=f17e1012]: Большая Медведица
+              - img "Логотип в маркере" [ref=f17e1023] [cursor=pointer]
+              - generic [ref=f17e1027]: Большая Медведица
+              - generic [ref=f17e1034] [cursor=pointer]
+              - generic [ref=f17e1042] [cursor=pointer]
+              - generic [ref=f17e1052] [cursor=pointer]
+              - generic [ref=f17e1060]: Слон
+              - generic [ref=f17e1067] [cursor=pointer]
+              - generic [ref=f17e1070]: Екатериновет
+              - generic [ref=f17e1077] [cursor=pointer]
+              - generic [ref=f17e1080]: Рыжий пёс
+              - generic [ref=f17e1087] [cursor=pointer]
+              - generic [ref=f17e1090]: Ветеринарная клиника
+              - generic [ref=f17e1097] [cursor=pointer]
+              - generic [ref=f17e1101] [cursor=pointer]
+              - generic [ref=f17e1105] [cursor=pointer]
+              - generic [ref=f17e1109] [cursor=pointer]
+              - generic [ref=f17e1113] [cursor=pointer]
+              - generic [ref=f17e1117] [cursor=pointer]
+              - generic [ref=f17e1121] [cursor=pointer]
+              - generic [ref=f17e1125] [cursor=pointer]
+          - generic [ref=f17e1127]:
+            - link [ref=f17e1128] [cursor=pointer]:
+              - /url: https://dev.2gis.ru
+            - link "Лицензионное соглашение" [ref=f17e1132] [cursor=pointer]:
+              - /url: http://law.2gis.ru/licensing-agreement/?utm_medium=map-footer&utm_campaign=2gis5
+            - text: ","
+            - link "политика конфиденциальности" [ref=f17e1133] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy?utm_medium=map-footer&utm_campaign=2gis5
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link "Премия 2ГИС 2026" [ref=f17e1136] [cursor=pointer]:
+                    - /url: /krasnodar/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1%202026
+                  - navigation [ref=f17e1141] [cursor=pointer]:
+                    - list [ref=f17e1142]:
+                      - listitem [ref=f17e1143]:
+                        - link [ref=f17e1144]:
+                          - /url: /krasnodar/realty
+                      - listitem [ref=f17e1148]:
+                        - button [ref=f17e1149]
+                      - listitem [ref=f17e1156]:
+                        - button [ref=f17e1157]
+                      - listitem [ref=f17e1162]:
+                        - button [ref=f17e1163]
+                      - listitem [ref=f17e1167]:
+                        - button [ref=f17e1168]
+                  - link [ref=f17e1173] [cursor=pointer]:
+                    - /url: /krasnodar?traffic
+                    - button "Пробки" [ref=f17e1174]: "1"
+                  - generic [ref=f17e1175]: Войти
+            - generic [ref=f17e1183]:
+              - generic [ref=f17e1185]:
+                - button "Линейка" [ref=f17e1188] [cursor=pointer]
+                - generic "Моё местоположение" [ref=f17e1192]:
+                  - button [ref=f17e1193] [cursor=pointer]
+                - generic [ref=f17e1198]:
+                  - button "Изменить масштаб" [ref=f17e1199] [cursor=pointer]
+                  - button "Изменить масштаб" [ref=f17e1202] [cursor=pointer]
+              - generic [ref=f17e1206]:
+                - generic [ref=f17e1214] [cursor=pointer]
+                - generic [ref=f17e1227] [cursor=pointer]
+              - button "Включи иммерсивные дороги и освещение" [ref=f17e1230] [cursor=pointer]
+            - generic:
+              - button "Поделиться" [ref=f17e1235] [cursor=pointer]
+              - generic [ref=f17e1238]: Обратная связь
+          - generic [ref=f17e1245] [cursor=pointer]
+          - button "Меню" [ref=f17e1246] [cursor=pointer]
+        - generic [ref=f17e1252]:
+          - generic [ref=f17e1253]: 🍪
+          - generic [ref=f17e1254]:
+            - text: Используем
+            - link "cookies" [ref=f17e1255] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy/cookie
+            - text: и
+            - link "рекомендательные технологии" [ref=f17e1256] [cursor=pointer]:
+              - /url: https://law.2gis.ru/recommendation-services
+          - generic [ref=f17e1257] [cursor=pointer]

@@ -1,0 +1,406 @@
+- generic [active]:
+  - generic: ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. .............................................................................
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f21e1]:
+          - generic [ref=f21e2]:
+            - link "Поиск" [ref=f21e7]:
+              - /url: /moscow
+            - link "Маршруты" [ref=f21e12]:
+              - /url: /moscow/directions
+            - link "Афиша" [ref=f21e17]:
+              - /url: /moscow/afisha
+            - link "Друзья" [ref=f21e25]:
+              - /url: /moscow/friendsList
+            - link "Гид" [ref=f21e31]:
+              - /url: /moscow/guide
+            - link "Жильё" [ref=f21e36]:
+              - /url: /moscow/realty
+          - generic [ref=f21e40]:
+            - generic [ref=f21e42] [cursor=pointer]
+            - generic [ref=f21e46] [cursor=pointer]
+          - generic [ref=f21e52]:
+            - generic [ref=f21e58]:
+              - link [ref=f21e60] [cursor=pointer]:
+                - /url: /
+              - generic [ref=f21e65]:
+                - textbox "Поиск в 2ГИС" [ref=f21e66]: Тушинская ветеринарная клиника
+                - heading "Тушинская ветеринарная клиника" [level=1]
+                - button "Очистить локальное поле поиска" [ref=f21e68] [cursor=pointer]
+            - generic [ref=f21e74]:
+              - banner [ref=f21e76]:
+                - generic [ref=f21e81]:
+                  - button "Фильтры" [ref=f21e83] [cursor=pointer]
+                  - heading [level=2] [ref=f21e91]:
+                    - link "Места 6" [ref=f21e92]:
+                      - /url: /moscow/search/%D0%A2%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - text: Места
+                      - generic [ref=f21e93]: "6"
+              - generic [ref=f21e95]:
+                - list [ref=f21e109]:
+                  - listitem [ref=f21e110]:
+                    - generic [ref=f21e113]:
+                      - textbox "Сортировка" [ref=f21e114]
+                      - generic [ref=f21e115] [cursor=pointer]
+                  - listitem [ref=f21e116]:
+                    - list [ref=f21e117]:
+                      - listitem [ref=f21e118]:
+                        - generic "С ценами" [ref=f21e119] [cursor=pointer]
+                      - listitem [ref=f21e124]:
+                        - generic "Были друзья" [ref=f21e125] [cursor=pointer]
+                      - listitem [ref=f21e127]:
+                        - generic "На карте" [ref=f21e128] [cursor=pointer]
+                      - listitem [ref=f21e130]:
+                        - generic "С сайтом" [ref=f21e131] [cursor=pointer]
+                      - listitem [ref=f21e133]:
+                        - generic "С фото" [ref=f21e134] [cursor=pointer]
+                      - listitem [ref=f21e136]:
+                        - generic "Расчёт по картам" [ref=f21e137] [cursor=pointer]
+                      - listitem [ref=f21e139]:
+                        - generic "Онлайн-услуги" [ref=f21e140] [cursor=pointer]
+                  - listitem [ref=f21e142]:
+                    - generic [ref=f21e145]:
+                      - textbox "Станция метро" [ref=f21e146]
+                      - generic [ref=f21e147] [cursor=pointer]
+                  - listitem [ref=f21e148]:
+                    - generic [ref=f21e149]:
+                      - heading "Время работы" [level=3] [ref=f21e151]
+                      - list [ref=f21e153]:
+                        - listitem [ref=f21e154]:
+                          - generic "Открыто сейчас" [ref=f21e155] [cursor=pointer]
+                        - listitem [ref=f21e157]:
+                          - generic "Круглосуточно" [ref=f21e158] [cursor=pointer]
+                        - listitem [ref=f21e160]:
+                          - generic "В указанное время" [ref=f21e161] [cursor=pointer]
+                      - generic [ref=f21e163] [cursor=pointer]:
+                        - generic [ref=f21e164]: 22:00
+                        - generic [ref=f21e166]: Чт
+                  - listitem [ref=f21e168]:
+                    - generic [ref=f21e169]:
+                      - heading "Рейтинг" [level=3] [ref=f21e171]
+                      - list [ref=f21e173]:
+                        - listitem [ref=f21e174]:
+                          - generic "от 4,9" [ref=f21e175] [cursor=pointer]
+                        - listitem [ref=f21e180]:
+                          - generic "от 4,5" [ref=f21e181] [cursor=pointer]
+                        - listitem [ref=f21e186]:
+                          - generic "от 4" [ref=f21e187] [cursor=pointer]
+                        - listitem [ref=f21e192]:
+                          - generic "от 3,5" [ref=f21e193] [cursor=pointer]
+                        - listitem [ref=f21e198]:
+                          - generic "от 3" [ref=f21e199] [cursor=pointer]
+                  - listitem [ref=f21e204]:
+                    - generic [ref=f21e205]:
+                      - heading "Ветеринарные услуги" [level=3] [ref=f21e208]
+                      - list [ref=f21e209]:
+                        - listitem [ref=f21e210]:
+                          - generic "Рентген" [ref=f21e211] [cursor=pointer]
+                        - listitem [ref=f21e213]:
+                          - generic "УЗИ" [ref=f21e214] [cursor=pointer]
+                - generic [ref=f21e220]:
+                  - list [ref=f21e224]:
+                    - listitem [ref=f21e225]:
+                      - generic "Ветеринарные клиники" [ref=f21e226] [cursor=pointer]
+                    - listitem [ref=f21e228]:
+                      - generic "Мед.центры" [ref=f21e229] [cursor=pointer]
+                    - listitem [ref=f21e231]:
+                      - generic "Медицинская диагностика" [ref=f21e232] [cursor=pointer]
+                  - generic [ref=f21e235]:
+                    - generic [ref=f21e237] [cursor=pointer]:
+                      - link "Многопрофильный ветеринарный центр" [ref=f21e239]:
+                        - /url: /moscow/firm/70000001113730323?stat=eyJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDExMTM3MzAzMjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozNy40Mjg4NjUsImxhdCI6NTUuODE4MDc1fSwicmVsZXZhbmNlIjowLjYxOTA0Mzk0NjI2NjE3NDMsImFkc1NlYXJjaCI6dHJ1ZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDk2ODY4ODQ5IiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoxfX0%3D
+                      - generic [ref=f21e244]:
+                        - link "Ветеринарные клиники":
+                          - /url: /moscow/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f21e246]:
+                        - generic [ref=f21e247]: ЖК Город на Реке Тушино-2018, Волоколамское шоссе, 71/8 к1, Москва
+                        - generic [ref=f21e248]:
+                          - text: •
+                          - link "5 филиалов" [ref=f21e249]:
+                            - /url: /moscow/branches/70000001096868849
+                      - generic [ref=f21e250]: Ветеринарные клиники
+                      - generic [ref=f21e253]:
+                        - generic [ref=f21e254]: Круглосуточная сеть ветеринарных клиник
+                        - generic [ref=f21e255]: Реклама
+                        - link "Запись на приём" [ref=f21e261]:
+                          - /url: https://link.2gis.ru/4.2/775E0860/aHR0cHM6Ly92ZXRjZW50ZXIyNC5ydS96YXlhdmthCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMGEzMDk4MzktNmQ1My00ODVhLTg4NDYtNGQ4NDEyNGNlYTRhIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6ImNjMzc2OWU0LTgzYTQtNGYwMy04NzVlLWJiY2Q3YWEyZTI0YiIsInRpbWVzdGFtcCI6MTc4OTA2ODY0NTQxNiwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiZmMzNDA4YTUtNDBiMS00YjE3LTlkNGItYWEyMzVkYmVjMTVhIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGMyMjdjMWItYWViMC00NTc4LWFjY2QtYzg4MWFmNmM1YmZjIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi80QTE5NkFBOC9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDMyLzcwMDAwMDAxMTEzNzMwMzIzL251bGwvNzFFaWt1bDY0ZGY1ZUE4ZDRKN0gxSjNKSEdJSUdIMUoyamU0dzh3eWVkLTk4NjMwOTE3ODc2NkkyMjNBNDA1NC03MEIwMDRkMzM3OEoyOEIzOTBCMTkzNTZINElKSDU1aWZCNmZjaGQ2NTg1RzRHMjczMjAwMDAxNEgzSjNINDEyMzU5NT9odHRwczovL3ZldGNlbnRlcjI0LnJ1L3pheWF2a2EifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMTEzNzMwMzIzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjMyIn19LCJiZXN0S2V5d29yZCI6ItCS0LXRgtC10YDQuNC90LDRgNC90YvQtSDQutC70LjQvdC40LrQuCIsImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzcuNDI4ODY1LCJsYXQiOjU1LjgxODA3NX0sInJlbGV2YW5jZSI6MC42MTkwNDM5NDYyNjYxNzQzLCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA5Njg2ODg0OSIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6MX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoyLCJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=f21e267] [cursor=pointer]:
+                      - link "Ветеринарная клиника" [ref=f21e269]:
+                        - /url: /moscow/firm/70000001031385421?stat=eyJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMzEzODU0MjEiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozNy40NTI1ODUsImxhdCI6NTUuODI1OTEyfSwicmVsZXZhbmNlIjowLjQyNzY4MzYyMTY0NDk3Mzc1LCJhZHNTZWFyY2giOnRydWUsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTAzMTM4NTQyMCIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6Mn19
+                      - generic [ref=f21e274]:
+                        - link "Ветеринарные клиники":
+                          - /url: /moscow/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f21e276]:
+                        - generic [ref=f21e298]: "4.6"
+                        - generic [ref=f21e299]: 39 оценок
+                      - generic [ref=f21e300]: Улица Свободы, 6/3, Москва
+                      - generic [ref=f21e301]: Ветеринарные клиники
+                      - generic [ref=f21e303]: Закрыто до завтра
+                      - generic [ref=f21e305]:
+                        - generic [ref=f21e306]: Ветеринарные клиника и аптека под одной крышей! Приходите или звоните
+                        - generic [ref=f21e311]:
+                          - generic [ref=f21e312]: Реклама
+                          - generic [ref=f21e313]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f21e315]
+                        - link "Приходите к нам" [ref=f21e318]:
+                          - /url: tel:+74954911129
+                    - generic [ref=f21e327] [cursor=pointer]:
+                      - link "VetMajor" [ref=f21e329]:
+                        - /url: /moscow/firm/70000001094232901?stat=eyJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjN9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQ5MjUxMzkwMzYwNTQ3NTg0IiwiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwOTQyMzI5MDEiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozNy40NDc1NDEsImxhdCI6NTUuODM0NTN9LCJyZWxldmFuY2UiOjAuODI5MTUzMDYwOTEzMDg1OSwiYWRzU2VhcmNoIjpmYWxzZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDk0MjMyOTAwIiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjozfX0%3D
+                      - generic [ref=f21e334]:
+                        - link "Ветеринарный центр":
+                          - /url: /moscow/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80
+                      - generic [ref=f21e336]:
+                        - generic [ref=f21e354]: "5"
+                        - generic [ref=f21e355]: 23 оценки
+                      - generic [ref=f21e356]: Вишнёвая улица, 13 к1 ст1, Москва
+                      - generic [ref=f21e357]: Ветеринарные клиники
+                    - generic [ref=f21e360]:
+                      - generic [ref=f21e361]:
+                        - banner [ref=f21e362]: Рекомендуем
+                        - generic [ref=f21e363]:
+                          - button [ref=f21e364]
+                          - button [ref=f21e367] [cursor=pointer]
+                      - generic [ref=f21e370]:
+                        - link "Реклама Круглосуточная ветеринарная помощь Ветэмбуланс, ветеринарная клиника Ветэмбуланс" [ref=f21e373] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/AA747615/online/20260901/project32/70000001049042436/null/1qopmDrifA8d6585G42000105A096C39171Ap3duyfpe586304df5e390B19354I326H1I3JB004ded-9B9178766IJ7HG4IA0327185A838B6fchd-70G23378J2873458H1J3H7IHGI3G2H5Gh1?https://widgets.vetmanager.ru/frame/3022
+                          - generic [ref=f21e374]:
+                            - generic [ref=f21e375]:
+                              - generic [ref=f21e376]: Реклама
+                              - generic [ref=f21e381]: Круглосуточная ветеринарная помощь
+                            - generic [ref=f21e382]:
+                              - img "Ветэмбуланс, ветеринарная клиника" [ref=f21e385]
+                              - generic [ref=f21e386]: Ветэмбуланс
+                        - button "Реклама Любовь, забота, профессионализм Ветеринарная клиника Ветеринарная клиника" [ref=f21e388] [cursor=pointer]:
+                          - generic [ref=f21e389]:
+                            - generic [ref=f21e390]:
+                              - generic [ref=f21e391]: Реклама
+                              - generic [ref=f21e396]: Любовь, забота, профессионализм
+                            - generic [ref=f21e397]:
+                              - img "Ветеринарная клиника" [ref=f21e400]
+                              - generic [ref=f21e401]: Ветеринарная клиника
+                        - link "Реклама Сдайте клеща на анализ! ДНКОМ, лаборатория ДНКОМ" [ref=f21e404] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/3D809083/online/20260901/project32/70000001006141903/null/plD7c83ifA8d6585G42000101717047C947Ameshf9mfu86304df5e390B19354I782H1I3JB004ded-9B9178766IJ7HG4IA0327999B331B6fchd-70G23378J2872925H1J3H7IHGI3G2H5Gh7?http://dnkom.ru/actions/issledovanie-kleshcha-na-vozbuditeli-infektsiy/?utm_source=2gis
+                          - generic [ref=f21e405]:
+                            - generic [ref=f21e406]:
+                              - generic [ref=f21e407]: Реклама
+                              - generic [ref=f21e412]: Сдайте клеща на анализ!
+                            - generic [ref=f21e413]:
+                              - img "ДНКОМ, лаборатория" [ref=f21e416]
+                              - generic [ref=f21e417]: ДНКОМ
+                        - link "Реклама Уход за ребёнком, время для себя Елизаветинский детский хоспис, ЧУЗ Помощь семьям" [ref=f21e420] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/BE4386D8/online/20260901/project32/70000001040244520/null/3exkuBjifA8d6585G4200010512A0B471886fuziw2wu386304df5e390B19354I5732H2I4B004ded-9B9178766IJ7HG4IA031556981B5B6fchd-70G23378J2875542H1J3HJ6HGII1H8J2I14?https://detskiyhospis.ru/hospital?utm_source=2gis-netw&utm_medium=iri-social_pack&utm_campaign=985-04-01-03_sep-2026_na&utm_content=banners_all_n1_na&utm_term=all_18-100_msk_na_all-all_na_na_na
+                          - generic [ref=f21e421]:
+                            - generic [ref=f21e422]:
+                              - generic [ref=f21e423]: Реклама
+                              - generic [ref=f21e428]: Уход за ребёнком, время для себя
+                            - generic [ref=f21e429]:
+                              - img "Елизаветинский детский хоспис, ЧУЗ" [ref=f21e432]
+                              - generic [ref=f21e433]: Помощь семьям
+                        - link "Реклама Ваша забота подарит свет! Старость в радость, благотворительный фонд Одиночество..." [ref=f21e436] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/B000F3BC/online/20260901/project32/70000001028384334/null/dl763kxifA8d6585G420001039326C77553Aia5w9k7d586304df5e390B19354I5732H2I4B004ded-9B9178766IJ7HG4IA0315566A271B6fchd-70G23378J28B5356H1J3HJ6HGII1H9J2IcA?https://svet.starikam.org/?utm_source=2gis-netw&utm_medium=iri-social_pack&utm_campaign=1054-04-01-03_sep-2026_na&utm_content=banners_all_n1_na&utm_term=all_18-100_msk_na_all-all_na_na_na
+                          - generic [ref=f21e437]:
+                            - generic [ref=f21e438]:
+                              - generic [ref=f21e439]: Реклама
+                              - generic [ref=f21e444]: Ваша забота подарит свет!
+                            - generic [ref=f21e445]:
+                              - img "Старость в радость, благотворительный фонд" [ref=f21e448]
+                              - generic [ref=f21e449]: Одиночество...
+                        - link "Реклама Ты можешь спасти жизнь Центр крови Федерального медико-биологического агентства России, ФГБУЗ Стань донором" [ref=f21e452] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/EFD93880/online/20260901/project32/4504127908637841/null/37u2irkifA8d6585G461279097370398266I935pnhEsm86304df5e390B19354873H1H3IJB004ded-9B9178766IJ7HG4I753563457341B6fchd-70G23378J28A943I1H3J5JIHG3I133J49?https://kmdonor.ru/?utm_source=2gis-netw&utm_medium=iri-social_pack&utm_campaign=1048-04-01-03_sep-2026_na&utm_content=banners_all_n1_na&utm_term=all_18-100_msk_na_all-all_na_na_na
+                          - generic [ref=f21e453]:
+                            - generic [ref=f21e454]:
+                              - generic [ref=f21e455]: Реклама
+                              - generic [ref=f21e460]: Ты можешь спасти жизнь
+                            - generic [ref=f21e461]:
+                              - img "Центр крови Федерального медико-биологического агентства России, ФГБУЗ" [ref=f21e464]
+                              - generic [ref=f21e465]: Стань донором
+                        - link "Реклама Места, проверенные друзьями 2ГИС, городской информационный сервис Лента друзей 2ГИС" [ref=f21e468] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/29F45F07/online/20260901/project32/4504127912651411/null/3vifrp4ifA8d6585G46127913759053A087Itro8j4yeB86304df5e390B19354873H1H3IJB004ded-9B9178766IJ7HG4I753581C133C2B6fchd-70G23378J284513I1H3J5JIHG3I133J2g?https://2gis.ru/story/9854505b-cccd-4c67-9cdf-34c8b126d2b0
+                          - generic [ref=f21e469]:
+                            - generic [ref=f21e470]:
+                              - generic [ref=f21e471]: Реклама
+                              - generic [ref=f21e476]: Места, проверенные друзьями
+                            - generic [ref=f21e477]:
+                              - img "2ГИС, городской информационный сервис" [ref=f21e480]
+                              - generic [ref=f21e481]: Лента друзей 2ГИС
+                        - link "Реклама Время позаботиться о себе Вместе, центр поддержки по вопросам рака молочной железы, БФ Дальше Розовый октябрь" [ref=f21e484] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/42797587/online/20260901/project32/70000001031589629/null/k3to86BifA8d6585G4200010425483333672mc23kjenn86304df5e390B19354I782H1I3JB004ded-9B9178766IJ7HG4IA03283668162B6fchd-70G23378J28BA64BH1J3H7IHGI3G2H5Ge1?https://pinkoctober.ru/?utm_source=2gis-netw&utm_medium=iri-social_pack&utm_campaign=988-04-01-03_sep-2026_na&utm_content=banners_all_n1_na&utm_term=all_18-100_msk_na_all-all_na_na_na
+                          - generic [ref=f21e485]:
+                            - generic [ref=f21e486]:
+                              - generic [ref=f21e487]: Реклама
+                              - generic [ref=f21e492]: Время позаботиться о себе
+                            - generic [ref=f21e493]:
+                              - img "Вместе, центр поддержки по вопросам рака молочной железы, БФ Дальше" [ref=f21e496]
+                              - generic [ref=f21e497]: Розовый октябрь
+                        - button "Реклама Набор спа-косметики в подарок Ionvet, клиника ветеринарной диагностики и хирургии Ionvet" [ref=f21e499] [cursor=pointer]:
+                          - generic [ref=f21e500]:
+                            - generic [ref=f21e501]:
+                              - generic [ref=f21e502]: Реклама
+                              - generic [ref=f21e507]: Набор спа-косметики в подарок
+                            - generic [ref=f21e508]:
+                              - img "Ionvet, клиника ветеринарной диагностики и хирургии" [ref=f21e511]
+                              - generic [ref=f21e512]: Ionvet
+                        - link "Реклама Капельницы, чекапы, консультация Айвилаив Клиник Айвилаив Клиник" [ref=f21e515] [cursor=pointer]:
+                          - /url: http://link.2gis.ru/1.2/72841643/online/20260901/project32/70000001111316270/null/c2p1czEifA8d6585G42000112237069B4952neyeepfk786304df5e390B19354I782H1I3JB004ded-9B9178766IJ7HG4IA03281582732B6fchd-70G23378J2847292H1J3H7IHGI3G2H5G35?https://ivlive.ru/
+                          - generic [ref=f21e516]:
+                            - generic [ref=f21e517]:
+                              - generic [ref=f21e518]: Реклама
+                              - generic [ref=f21e523]: Капельницы, чекапы, консультация
+                            - generic [ref=f21e524]:
+                              - img "Айвилаив Клиник" [ref=f21e527]
+                              - generic [ref=f21e528]: Айвилаив Клиник
+                    - generic [ref=f21e530] [cursor=pointer]:
+                      - link "Зоомедик" [ref=f21e532]:
+                        - /url: /moscow/firm/70000001030639385?stat=eyJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjR9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQxMTk4NTk4MDIzNDQ2MDE5IiwiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMzA2MzkzODUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozNy40NTM2NDUsImxhdCI6NTUuODMwODc0fSwicmVsZXZhbmNlIjowLjY5Mzc3OTc2NjU1OTYwMDgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI0NTA0MTM2NDk4NzMyODgyIiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo0fX0%3D
+                      - generic [ref=f21e537]:
+                        - link "Ветеринарный центр":
+                          - /url: /moscow/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80
+                      - generic [ref=f21e539]:
+                        - generic [ref=f21e557]: "5"
+                        - generic [ref=f21e558]: 307 оценок
+                      - generic [ref=f21e560]:
+                        - generic [ref=f21e561]: Улица Свободы, 14, Москва
+                        - generic [ref=f21e562]:
+                          - text: •
+                          - link "5 филиалов" [ref=f21e563]:
+                            - /url: /moscow/branches/4504136498732882
+                      - generic [ref=f21e564]: Ветеринарные клиники
+                      - generic [ref=f21e566]: Закрыто до завтра
+                      - generic [ref=f21e568]:
+                        - generic [ref=f21e571]:
+                          - generic [ref=f21e572]: Реклама
+                          - generic [ref=f21e573]:
+                            - text: •
+                            - generic "12+. ООО «Уайклаентс»." [ref=f21e575]
+                        - link [ref=f21e579]:
+                          - /url: https://link.2gis.ru/4.2/27C5B0EF/aHR0cHM6Ly9uMTIyOTY4Ny55Y2xpZW50cy5jb20vCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMGEzMDk4MzktNmQ1My00ODVhLTg4NDYtNGQ4NDEyNGNlYTRhIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6ImM4OGI4ZmYyLWUxYzYtNGE0NS1iM2JjLWRlYjM3OWExYThhMiIsInRpbWVzdGFtcCI6MTc4OTA2ODY0NTQzNiwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiZTcwZjUwNWQtMjZiYS00NTc3LWE4YmYtNDc5ZmJlOTc3ODk4IiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjYWxsVG9BY3Rpb25CdXR0b24iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRNaW5pIiwiZnJhbWVVdWlkIjoiMGMyMjdjMWItYWViMC00NTc4LWFjY2QtYzg4MWFmNmM1YmZjIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vbGluay4yZ2lzLnJ1LzEuMi82N0JDQ0NEMi9vbmxpbmUvMjAyNjA5MDEvcHJvamVjdDMyLzQ1MDQxMjg5MDg2NDE5OTMvbnVsbC8xRWlrdWw2aWZBOGQ2NTg1RzQ2MTI4OTA5NzQ2R0pHSkc1SGMyamU0dzh3eTc4NjMwNGRmNWUzOTBCMTkzNTQ0MTdIM0hJSTVCMDA0ZGVkLTlCOTE3ODc2NklKN0hHNEk3NTMxMzMzNjU5NjhCNmZjaGQtNzBHMjMzNzhKMjg0QTk1STFINEo0SjkxMDIyMDE0P2h0dHBzOi8vbjEyMjk2ODcueWNsaWVudHMuY29tLyIsImNvbnRlbnRPd25lciI6eyJvcmciOiI0NTA0MTM3NTk4NDcwMjc4IiwiYWRzUG9zaXRpb24iOiJidXlIZXJlIiwiYWRzSWQiOiIxMjQxMTk4NTk4MDIzNDQ2MDE5In19LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQxMTk4NTk4MDIzNDQ2MDE5IiwiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwMzA2MzkzODUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImJlc3RLZXl3b3JkIjoi0JLQtdGC0LXRgNC40L3QsNGA0L3Ri9C1INC60LvQuNC90LjQutC4IiwiZ2VvUG9zaXRpb24iOnsibG9uIjozNy40NTM2NDUsImxhdCI6NTUuODMwODc0fSwicmVsZXZhbmNlIjowLjY5Mzc3OTc2NjU1OTYwMDgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI0NTA0MTM2NDk4NzMyODgyIiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjo0fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiODM4MWQ2NjctZjUzNC00NWNjLWFkOWQtNWM4NTM4YjFmODkyIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NzUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                          - generic [ref=f21e580]:
+                            - img "Логотип" [ref=f21e583]
+                            - text: Записаться онлайн
+                    - generic [ref=f21e585] [cursor=pointer]:
+                      - link "Герстендорф" [ref=f21e587]:
+                        - /url: /moscow/firm/4504127908435930?stat=eyJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjV9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQ5MjUxMzkwMzYwNTQ3NTg0IiwiZW50aXR5Ijp7ImlkIjoiNDUwNDEyNzkwODQzNTkzMCIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIzMiJ9fSwiYmVzdEtleXdvcmQiOiLQktC10YLQtdGA0LjQvdCw0YDQvdGL0LUg0LrQu9C40L3QuNC60LgiLCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM3LjQ1MzQyOCwibGF0Ijo1NS44MzczNjN9LCJyZWxldmFuY2UiOjAuMjMyNjcwMjYyNDU1OTQwMjUsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI0NTA0MTM2NDk4MzEzMzQxIiwiY29udGV4dFJ1YnJpYyI6IjIwNSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6ZmFsc2UsInJlc3VsdENsYXNzIjoyLCJwb3NpdGlvbiI6NX19
+                      - generic [ref=f21e589]:
+                        - link "Ветеринарная клиника":
+                          - /url: /moscow/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+                      - generic [ref=f21e591]:
+                        - generic [ref=f21e610]: "3"
+                        - generic [ref=f21e611]: 11 оценок
+                      - generic [ref=f21e613]:
+                        - generic [ref=f21e614]: ТЦ Свобода Мебель, улица Свободы, 29, Москва
+                        - generic [ref=f21e615]:
+                          - text: •
+                          - link "2 филиала" [ref=f21e616]:
+                            - /url: /moscow/branches/4504136498313341
+                      - generic [ref=f21e617]: Ветеринарные клиники
+                      - generic [ref=f21e619]: Закрыто до завтра
+                    - generic [ref=f21e621] [cursor=pointer]:
+                      - link "Тушинская 7" [ref=f21e623]:
+                        - /url: /moscow/station/4504385606390683?stat=eyJwYXJlbnRUYWJJZCI6IjgzODFkNjY3LWY1MzQtNDVjYy1hZDlkLTVjODUzOGIxZjg5MiIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjZ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNDUwNDM4NTYwNjM5MDY4MyIsInR5cGUiOiJzdGF0aW9uIiwic3VidHlwZSI6Im1ldHJvIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzcuNDM2OTczLCJsYXQiOjU1LjgyNjV9LCJoeWJyaWRFbnRpdGllcyI6W3siaWQiOiI0NTA0MjgyNTI3MTc3MDEzIiwidHlwZSI6InN0YXRpb25fcGxhdGZvcm0iLCJzdWJ0eXBlIjoibWV0cm8ifV0sInJlbGV2YW5jZSI6MC4wMDAwMDk3MzY5OTg0MzU5ODI5NjksInJlc3VsdENsYXNzIjo4NywicG9zaXRpb24iOjZ9fQ%3D%3D
+                        - generic [ref=f21e624]:
+                          - text: Тушинская
+                          - generic [ref=f21e625]: "7"
+                      - generic [ref=f21e628]:
+                        - generic [ref=f21e629]: Станция метро
+                        - generic [ref=f21e630]:
+                          - text: •
+                          - link "Таганско-Краснопресненская линия" [ref=f21e631]:
+                            - /url: /moscow/route/4504205217760074
+                      - generic [ref=f21e632]: Покровское-Стрешнево, Москва
+                    - generic [ref=f21e633]:
+                      - banner [ref=f21e634]:
+                        - generic [ref=f21e635]: Реклама
+                        - link "Реклама в 2ГИС ↗" [ref=f21e636] [cursor=pointer]:
+                          - /url: http://redirect.2gis.com/adv//?language=ru&page=online_owner&id=32&utm_source=online&utm_medium=product&utm_campaign=gta
+                      - generic [ref=f21e638] [cursor=pointer]:
+                        - generic [ref=f21e642]: Защитники Отечества
+                        - text: государственный фонд поддержки участников СВО
+                        - generic [ref=f21e643]: Получите трудоустройство, медицинскую или юридическую поддержку — реклама
+                        - link "Фонд «Защитники Отечества»" [ref=f21e647]:
+                          - /url: http://link.2gis.ru/1.2/8AB917F9/online/20260901/project32/70000001082355769/null/fz47mq3ifA8d6585G42000109331183577A37xjpu8qgh86304df5e390B19354I782H1I3JB004ded-9B9178766IJ7HG4IA03282A236B0B6fchd-70G23378J288678BH1J3H7IHGI3G2H5G95?https://fzo.gov.ru/?utm_source=2gis-netw&utm_medium=iri-social_pack&utm_campaign=873-04-01-03_sep-2026_na&utm_content=banners_all_n1_na&utm_term=all_18-100_msk_na_all-all_na_na_na
+                        - generic "Социальная реклама. Рекламодатель — государственный фонд «Защитники Отечества». Информация о рекламодателе на https://fzo.gov.ru/." [ref=f21e653]
+                  - button "Добавить организацию" [ref=f21e656] [cursor=pointer]
+                  - generic [ref=f21e663] [cursor=pointer]:
+                    - text: "Результаты поиска по запросу Тушинская ветеринарная клиника на карте в Москве. Также люди ищут:"
+                    - link "Платные клиники рядом" [ref=f21e664]:
+                      - /url: /moscow/search/%D0%9F%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC
+                    - text: ","
+                    - link "Частные клиники в Москве" [ref=f21e665]:
+                      - /url: /moscow/search/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5
+                    - text: ","
+                    - link "1 нагатинский клиника" [ref=f21e666]:
+                      - /url: /moscow/search/1%20%D0%BD%D0%B0%D0%B3%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0
+        - generic:
+          - generic [ref=f21e670]:
+            - generic:
+              - generic [ref=f21e674] [cursor=pointer]
+              - generic [ref=f21e680] [cursor=pointer]:
+                - generic [ref=f21e681]: VetMajor
+                - generic [ref=f21e682]: "5"
+              - generic [ref=f21e691] [cursor=pointer]
+              - generic [ref=f21e697] [cursor=pointer]:
+                - generic [ref=f21e698]: Тушинская
+                - generic [ref=f21e699]: Открыто
+              - generic [ref=f21e702] [cursor=pointer]
+          - generic [ref=f21e705]:
+            - link [ref=f21e706] [cursor=pointer]:
+              - /url: https://dev.2gis.ru
+            - link "Лицензионное соглашение" [ref=f21e710] [cursor=pointer]:
+              - /url: http://law.2gis.ru/licensing-agreement/?utm_medium=map-footer&utm_campaign=2gis5
+            - text: ","
+            - link "политика конфиденциальности" [ref=f21e711] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy?utm_medium=map-footer&utm_campaign=2gis5
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link "Премия 2ГИС 2026" [ref=f21e714] [cursor=pointer]:
+                    - /url: /moscow/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1%202026
+                  - navigation [ref=f21e719] [cursor=pointer]:
+                    - list [ref=f21e720]:
+                      - listitem [ref=f21e721]:
+                        - link [ref=f21e722]:
+                          - /url: /moscow/realty
+                      - listitem [ref=f21e726]:
+                        - button [ref=f21e727]
+                      - listitem [ref=f21e734]:
+                        - link [ref=f21e735]:
+                          - /url: /moscow/directions/metro
+                      - listitem [ref=f21e739]:
+                        - button [ref=f21e740]
+                      - listitem [ref=f21e745]:
+                        - button [ref=f21e746]
+                  - link [ref=f21e751] [cursor=pointer]:
+                    - /url: /moscow?traffic
+                    - button "Пробки" [ref=f21e752]: "1"
+                  - generic [ref=f21e753]: Войти
+            - generic [ref=f21e761]:
+              - generic [ref=f21e763]:
+                - button "Линейка" [ref=f21e766] [cursor=pointer]
+                - generic "Моё местоположение" [ref=f21e770]:
+                  - button [ref=f21e771] [cursor=pointer]
+                - generic [ref=f21e776]:
+                  - button "Изменить масштаб" [ref=f21e777] [cursor=pointer]
+                  - button "Изменить масштаб" [ref=f21e780] [cursor=pointer]
+              - generic [ref=f21e784]:
+                - generic [ref=f21e792] [cursor=pointer]
+                - generic [ref=f21e805] [cursor=pointer]
+              - button "Включи иммерсивные дороги и освещение" [ref=f21e808] [cursor=pointer]
+            - generic:
+              - button "Поделиться" [ref=f21e813] [cursor=pointer]
+              - generic [ref=f21e816]: Обратная связь
+          - generic [ref=f21e823] [cursor=pointer]
+          - button "Меню" [ref=f21e824] [cursor=pointer]
+        - generic [ref=f21e830]:
+          - generic [ref=f21e831]: 🍪
+          - generic [ref=f21e832]:
+            - text: Используем
+            - link "cookies" [ref=f21e833] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy/cookie
+            - text: и
+            - link "рекомендательные технологии" [ref=f21e834] [cursor=pointer]:
+              - /url: https://law.2gis.ru/recommendation-services
+          - generic [ref=f21e835] [cursor=pointer]

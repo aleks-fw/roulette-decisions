@@ -1,0 +1,262 @@
+- generic [active]:
+  - generic: ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. .............................................................................
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f24e1]:
+          - generic [ref=f24e2]:
+            - link "Поиск" [ref=f24e7]:
+              - /url: /moscow
+            - link "Маршруты" [ref=f24e12]:
+              - /url: /moscow/directions
+            - link "Афиша" [ref=f24e17]:
+              - /url: /moscow/afisha
+            - link "Друзья" [ref=f24e25]:
+              - /url: /moscow/friendsList
+            - link "Гид" [ref=f24e31]:
+              - /url: /moscow/guide
+            - link "Жильё" [ref=f24e36]:
+              - /url: /moscow/realty
+          - generic [ref=f24e40]:
+            - generic [ref=f24e42] [cursor=pointer]
+            - generic [ref=f24e46] [cursor=pointer]
+          - generic [ref=f24e49]:
+            - generic [ref=f24e52]:
+              - generic [ref=f24e58]:
+                - link [ref=f24e60] [cursor=pointer]:
+                  - /url: /
+                - textbox "Поиск в 2ГИС" [ref=f24e66]
+              - generic [ref=f24e79]:
+                - generic [ref=f24e80]:
+                  - generic [ref=f24e82]:
+                    - button "Сохранить" [ref=f24e84] [cursor=pointer]
+                    - button "Отправить" [ref=f24e91] [cursor=pointer]
+                    - link "Маршрут" [ref=f24e97] [cursor=pointer]:
+                      - /url: /moscow/directions/points/%7C37.447541%2C55.83453%3B70000001094232901
+                  - generic [ref=f24e102]:
+                    - generic [ref=f24e103]:
+                      - generic [ref=f24e105] [cursor=pointer]
+                      - generic [ref=f24e109] [cursor=pointer]
+                      - generic [ref=f24e113] [cursor=pointer]
+                      - generic [ref=f24e119] [cursor=pointer]
+                      - generic [ref=f24e125] [cursor=pointer]
+                      - generic [ref=f24e131] [cursor=pointer]
+                      - generic [ref=f24e137] [cursor=pointer]
+                      - generic [ref=f24e143] [cursor=pointer]
+                      - generic [ref=f24e149] [cursor=pointer]
+                      - generic [ref=f24e154]:
+                        - generic [ref=f24e155] [cursor=pointer]
+                        - text: Все фото
+                    - generic [ref=f24e160] [cursor=pointer]
+                  - heading [level=1] [ref=f24e163]
+                  - generic [ref=f24e167]: Ветеринарный центр
+                  - generic [ref=f24e169] [cursor=pointer]:
+                    - generic [ref=f24e187]: "5"
+                    - generic [ref=f24e188]: 23 оценки
+                - generic [ref=f24e189]:
+                  - generic [ref=f24e191]:
+                    - generic [ref=f24e192]:
+                      - link "Контакты" [ref=f24e194] [cursor=pointer]:
+                        - /url: /moscow/firm/70000001094232901
+                      - link "Инфо" [ref=f24e197] [cursor=pointer]:
+                        - /url: /moscow/firm/70000001094232901/tab/info
+                      - link "Отзывы 21" [ref=f24e200] [cursor=pointer]:
+                        - /url: /moscow/firm/70000001094232901/tab/reviews
+                        - generic [ref=f24e201]: Отзывы
+                        - generic [ref=f24e202]: "21"
+                      - link "Цены 51" [ref=f24e205] [cursor=pointer]:
+                        - /url: /moscow/firm/70000001094232901/tab/prices
+                        - generic [ref=f24e206]: Цены
+                        - generic [ref=f24e207]: "51"
+                      - link "Фото 79" [ref=f24e210] [cursor=pointer]:
+                        - /url: /moscow/gallery/firm/70000001094232901
+                        - generic [ref=f24e211]: Фото
+                        - generic [ref=f24e212]: "79"
+                      - link "Вопросы" [ref=f24e215] [cursor=pointer]:
+                        - /url: /moscow/firm/70000001094232901/tab/questions
+                    - generic [ref=f24e217] [cursor=pointer]
+                  - generic [ref=f24e221]:
+                    - generic [ref=f24e222]:
+                      - generic [ref=f24e225] [cursor=pointer]:
+                        - generic [ref=f24e226]: Подписывайтесь на Harly — публикуем забавные видео с питомцами — реклама
+                        - generic "ООО «Биг-Л», Москва, ОГРН 1217700466170." [ref=f24e229]
+                        - generic [ref=f24e230]:
+                          - link [ref=f24e234]:
+                            - /url: https://link.2gis.ru/4.2/A4FBAB7B/aHR0cDovL3QubWUvaGFybHlfcGV0cwpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJmNmFhYzE2Yy1iM2RmLTQzOTItODZiYS0wNjRjNmI4ODEzNTgiLCJ0aW1lc3RhbXAiOjE3ODkwNjg2NjI5MDYsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImUyZTZlZDhmLTA3MTctNDEzOC1hOGJlLTIzODZmYmY5YjFiMCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uUGhvdG8iLCJvd25lck5hbWUiOiJwbGFjZUNhcmRGdWxsIiwiZnJhbWVVdWlkIjoiYTA5ZmY0ZWMtODY3Ni00NjExLTg4OGEtNzJlOGZmNjdjOTViIn0sInBheWxvYWQiOnsiY2FsbFRvQWN0aW9uIjp7ImFjdGlvblR5cGUiOiJsaW5rIiwidmFsdWUiOiJodHRwOi8vdC5tZS9oYXJseV9wZXRzIiwiY29udGVudE93bmVyIjp7Im9yZyI6IjcwMDAwMDAxMTE0NzIyODY4IiwiYWRzUG9zaXRpb24iOiJmbWNnIiwiYWRzSWQiOiIxMjQ5MjUxMzkwMzYwNTQ3NTg0In19LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQ5MjUxMzkwMzYwNTQ3NTg0IiwiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwOTQyMzI5MDEiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzcuNDQ3NTQxLCJsYXQiOjU1LjgzNDUzfSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDk0MjMyOTAwIiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6IjYxN2VmZWEwLTMzMjgtNDdmYi1hNDYzLTRlZWI4NTM0ZDBhZCJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                            - img "Рекламный баннер" [ref=f24e236]
+                          - link "Иконка действия Подробнее ↗" [ref=f24e240]:
+                            - /url: https://link.2gis.ru/4.2/5D79011F/aHR0cDovL3QubWUvaGFybHlfcGV0cwpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiIwOTA4ZjY2Yy1lODYyLTRhM2ItODdmZi0yNjBiZTE1MmYzNTIiLCJ0aW1lc3RhbXAiOjE3ODkwNjg2NjI5MTQsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImJhMmM2MDEzLTIxMDktNGMwNC05NzNjLTIwZDFjODUzYTQ1NCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkRnVsbCIsImZyYW1lVXVpZCI6ImEwOWZmNGVjLTg2NzYtNDYxMS04ODhhLTcyZThmZjY3Yzk1YiJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL3QubWUvaGFybHlfcGV0cyIsImNvbnRlbnRPd25lciI6eyJvcmciOiI3MDAwMDAwMTExNDcyMjg2OCIsImFkc1Bvc2l0aW9uIjoiZm1jZyIsImFkc0lkIjoiMTI0OTI1MTM5MDM2MDU0NzU4NCJ9fSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI0OTI1MTM5MDM2MDU0NzU4NCIsImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDk0MjMyOTAxIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjMyIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM3LjQ0NzU0MSwibGF0Ijo1NS44MzQ1M30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA5NDIzMjkwMCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMSwicGFyZW50VGFiSWQiOiI2MTdlZmVhMC0zMzI4LTQ3ZmItYTQ2My00ZWViODUzNGQwYWQifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                            - generic [ref=f24e241]:
+                              - img "Иконка действия" [ref=f24e245]
+                              - generic [ref=f24e246]: Подробнее ↗
+                      - generic [ref=f24e249]:
+                        - generic [ref=f24e259] [cursor=pointer]:
+                          - generic [ref=f24e260]:
+                            - link "Вишнёвая улица, 13 к1 ст1" [ref=f24e262]:
+                              - /url: /moscow/geo/4504235282630242
+                            - generic [ref=f24e263]: Покровское-Стрешнево, Москва, 125362
+                          - button "Показать вход" [ref=f24e266]
+                        - generic [ref=f24e267]: Круглосуточно
+                        - generic [ref=f24e273]:
+                          - generic [ref=f24e279]:
+                            - link "+7‒963‒963..." [ref=f24e280] [cursor=pointer]:
+                              - /url: tel:+79639631320
+                            - button "Показать телефон" [ref=f24e281] [cursor=pointer]
+                          - link "vetmajor-clinic.ru" [ref=f24e289] [cursor=pointer]:
+                            - /url: https://link.2gis.ru/4.2/380EDDBF/aHR0cDovL3ZldG1ham9yLWNsaW5pYy5ydS8KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIwYTMwOTgzOS02ZDUzLTQ4NWEtODg0Ni00ZDg0MTI0Y2VhNGEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiODgwYWFjYjEtOTMwMC00ODU2LTk3MTUtNDAxYzU1ODliMThlIiwidGltZXN0YW1wIjoxNzg5MDY4NjYyOTE2LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIwMTU1YzJkYS05NzMwLTQ4MDgtYjcxOC0wZGE1Yjc3NDYyOWIiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MSwiZnJhbWVVdWlkIjoiYTA5ZmY0ZWMtODY3Ni00NjExLTg4OGEtNzJlOGZmNjdjOTViIn0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yL0FCNzBDRTFCL29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MzIvNzAwMDAwMDEwOTQyMzI5MDEvbnVsbC9qeXI3dTFyOTg2MzA0ZENJMzkwQjExSjNJSDJIdjlEcWZicDAwNGRlZC0zMzc4SjI4RzRJQTAzMmNoZC03MEI1ODVHNEcyQjkxNzg3NzI2MzkyM0hkbWlmQjZmZjVlQThkNjkzNkFKN0gwMDAxMEE1MkhJNkpISklIRzRJYzk%2FaHR0cDovL3ZldG1ham9yLWNsaW5pYy5ydSIsInR5cGUiOiJ3ZWJzaXRlIiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQ5MjUxMzkwMzYwNTQ3NTg0IiwiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwOTQyMzI5MDEiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzcuNDQ3NTQxLCJsYXQiOjU1LjgzNDUzfSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDk0MjMyOTAwIiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6IjYxN2VmZWEwLTMzMjgtNDdmYi1hNDYzLTRlZWI4NTM0ZDBhZCJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                          - generic [ref=f24e290]:
+                            - link "ВКонтакте" [ref=f24e293] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/786F0F07/aHR0cHM6Ly92ay5jb20vdmV0bWFqb3IKaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIwYTMwOTgzOS02ZDUzLTQ4NWEtODg0Ni00ZDg0MTI0Y2VhNGEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiYzEwYTg4MzUtM2YyMi00NzIwLTljZDUtNDQ3NGY5NjMwZjBkIiwidGltZXN0YW1wIjoxNzg5MDY4NjYyOTE5LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIyYjdjYzA3ZC0zZGNjLTRhMGYtYTg1Ni1hZDgzMjgzZTMwNWIiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MSwiZnJhbWVVdWlkIjoiYTA5ZmY0ZWMtODY3Ni00NjExLTg4OGEtNzJlOGZmNjdjOTViIn0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHBzOi8vdmsuY29tL3ZldG1ham9yIiwidHlwZSI6InZrb250YWt0ZSIsInBvc2l0aW9uIjoxfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI0OTI1MTM5MDM2MDU0NzU4NCIsImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDk0MjMyOTAxIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjMyIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM3LjQ0NzU0MSwibGF0Ijo1NS44MzQ1M30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA5NDIzMjkwMCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMSwicGFyZW50VGFiSWQiOiI2MTdlZmVhMC0zMzI4LTQ3ZmItYTQ2My00ZWViODUzNGQwYWQifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                            - link "Telegram" [ref=f24e301] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/86F3CFD6/aHR0cHM6Ly90Lm1lLys3OTYzOTYzMTMyMApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI0M2M5ZGNjMC0wMTI5LTRlOGItOTA2MC05MTg1N2EzNDg4MGMiLCJ0aW1lc3RhbXAiOjE3ODkwNjg2NjI5MjIsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImNkYmM4YzgzLTUwNDMtNDNmNi04Yzg4LWU1NTRjZWZkYjkyZCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjoyLCJmcmFtZVV1aWQiOiJhMDlmZjRlYy04Njc2LTQ2MTEtODg4YS03MmU4ZmY2N2M5NWIifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cHM6Ly90Lm1lLys3OTYzOTYzMTMyMCIsInR5cGUiOiJ0ZWxlZ3JhbSIsInBvc2l0aW9uIjoyfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI0OTI1MTM5MDM2MDU0NzU4NCIsImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDk0MjMyOTAxIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjMyIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM3LjQ0NzU0MSwibGF0Ijo1NS44MzQ1M30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA5NDIzMjkwMCIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMSwicGFyZW50VGFiSWQiOiI2MTdlZmVhMC0zMzI4LTQ3ZmItYTQ2My00ZWViODUzNGQwYWQifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                        - generic [ref=f24e307]: Компания следит за актуальностью данных
+                      - generic [ref=f24e322]:
+                        - generic [ref=f24e323]:
+                          - banner [ref=f24e324]: Похожие организации
+                          - generic [ref=f24e325]:
+                            - button [ref=f24e326]
+                            - button [ref=f24e329] [cursor=pointer]
+                        - generic [ref=f24e332]:
+                          - generic [ref=f24e335]:
+                            - generic [ref=f24e343] [cursor=pointer]:
+                              - generic "Вет Глобал, сеть ветклиник" [ref=f24e344]
+                              - generic [ref=f24e345]: Сеть ветклиник 24/7. Терапия, хирургия, УЗИ, рентген, стационар
+                            - link "Записаться на приём" [ref=f24e347] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/7527BA01/aHR0cDovL3ZldGNsaW5pa2EubW9zY293LwpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJkODc3NjgxYi1iMTRkLTQ2NTktYTk4MC02YjE1MzgzN2RjZGIiLCJ0aW1lc3RhbXAiOjE3ODkwNjg2NjI5MjMsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjA5OThjM2RkLTc0OTItNGJhZC04NzZjLWFhZjI3NTkwMzc4MCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoiYWRzQmFubmVyIiwicG9zaXRpb24iOjEsImZyYW1lVXVpZCI6ImEwOWZmNGVjLTg2NzYtNDYxMS04ODhhLTcyZThmZjY3Yzk1YiJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvQzczMEE4N0Yvb25saW5lLzIwMjYwOTAxL3Byb2plY3QzMi83MDAwMDAwMTA0MDA1MDAzOS9udWxsL3ptbjNtdW92NGRmNWVBOGRBSjdIRzRJQUhHSUlHSDJKcXptNDc5Zm5lZC05ODYzMDkxNzg3N0NJNTEwODEwNUItNzBCMDA0ZDMzNzhKMjhCMzkwQjE5MzZIMUkzSkg1NWlmQjZmY2hkNjU4NUc0RzIwMzIwMDAxMEgxSjNJMzI2Mzc%2FaHR0cDovL3ZldGNsaW5pa2EubW9zY293LyJ9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjQ5MjUxMzkwMzYwNTQ3NTg0IiwiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwOTQyMzI5MDEiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMzIifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzcuNDQ3NTQxLCJsYXQiOjU1LjgzNDUzfSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMDk0MjMyOTAwIiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiYWRzQmFubmVyIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDQwMDUwMDM5IiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjMyIn19LCJtYWluUnVicmljIjoiMjA1Iiwib3JnIjoiNzAwMDAwMDEwMjU3NTEyNDAiLCJhZHNBbGdvcml0aG0iOjEwLCJhdWN0aW9uSWQiOiJjODk3NTZlOC1jMjBjLTQwYzctOGFkYi0zNDdjOTc3ZmZkNGQiLCJjb250ZXh0UnVicmljIjoiMjA1IiwicG9zaXRpb24iOjEsImFkc0hpZ2hsaWdodCI6dHJ1ZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMSwicGFyZW50VGFiSWQiOiI2MTdlZmVhMC0zMzI4LTQ3ZmItYTQ2My00ZWViODUzNGQwYWQifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                            - generic [ref=f24e352]: Реклама
+                          - generic [ref=f24e357]:
+                            - generic [ref=f24e365] [cursor=pointer]:
+                              - generic "Ветеринарная клиника" [ref=f24e366]
+                              - generic [ref=f24e367]: Ветеринарные клиника и аптека под одной крышей! Приходите или звоните
+                            - link "Приходите к нам" [ref=f24e368] [cursor=pointer]:
+                              - /url: tel:+74954911129
+                          - generic [ref=f24e375]:
+                            - generic [ref=f24e383] [cursor=pointer]:
+                              - generic "Ветэмбуланс, ветеринарная клиника" [ref=f24e384]
+                              - generic [ref=f24e385]: Круглосуточная ветеринарная помощь
+                            - link "Записаться на приём" [ref=f24e386] [cursor=pointer]:
+                              - /url: tel:+74956460336
+                          - generic [ref=f24e393]:
+                            - generic [ref=f24e401] [cursor=pointer]:
+                              - generic "Ахилл, ветеринарный центр" [ref=f24e402]
+                              - generic [ref=f24e403]: Забота о ваших домашних питомцах — это наше призвание
+                            - link "Позвонить" [ref=f24e404] [cursor=pointer]:
+                              - /url: tel:+74954838010
+                          - generic [ref=f24e411]:
+                            - generic [ref=f24e419] [cursor=pointer]:
+                              - generic "ВетАМ-СВ, ветеринарная клиника" [ref=f24e420]
+                              - generic [ref=f24e421]: Широкий спектр услуг и анализов. Инфекционный стационар для животных
+                            - link "Позвонить" [ref=f24e422] [cursor=pointer]:
+                              - /url: tel:+74951817299
+                      - generic [ref=f24e429] [cursor=pointer]:
+                        - generic [ref=f24e430]: Товары и услуги
+                        - generic [ref=f24e431]:
+                          - generic [ref=f24e432]: Первичный прием терапевта
+                          - generic [ref=f24e433]: 3 000 ₽
+                        - generic [ref=f24e434]:
+                          - generic [ref=f24e435]: Онлайн первичный прием врача - терапевта
+                          - generic [ref=f24e436]: 3 000 ₽
+                        - generic [ref=f24e437]:
+                          - generic [ref=f24e438]: Стрижка когтей
+                          - generic [ref=f24e439]: 700 ₽
+                        - button "Посмотреть все товары и услуги" [ref=f24e441]
+                    - generic [ref=f24e444]:
+                      - generic [ref=f24e449]:
+                        - generic [ref=f24e450]: Вопросы о месте
+                        - generic [ref=f24e451]: Отвечает ИИ-помощник
+                      - generic [ref=f24e452]:
+                        - generic [ref=f24e453] [cursor=pointer]: Расскажи о ветеринарной клинике
+                        - generic [ref=f24e459] [cursor=pointer]: Какие услуги оказывают животным?
+                        - generic [ref=f24e465] [cursor=pointer]: Сколько стоит приём врача?
+                        - generic [ref=f24e471] [cursor=pointer]: Как записаться на приём с питомцем?
+                        - generic [ref=f24e477] [cursor=pointer]: Какая здесь загруженность и время ожидания?
+                        - generic [ref=f24e483] [cursor=pointer]: Есть ли срочная помощь для животных?
+                      - button "Задать свой вопрос" [ref=f24e490] [cursor=pointer]
+                    - generic [ref=f24e493]:
+                      - button "Нашли ошибку в данных?" [ref=f24e496] [cursor=pointer]
+                      - generic [ref=f24e498]:
+                        - link "Это моя компания" [ref=f24e500] [cursor=pointer]:
+                          - /url: https://redirect.2gis.com/account/?language=ru&id=32&firmId=70000001094232900&utm_source=online&utm_medium=product&utm_campaign=firmcard
+                        - generic [ref=f24e501]:
+                          - text: •
+                          - link "Реклама в 2ГИС ↗" [ref=f24e502] [cursor=pointer]:
+                            - /url: http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=32&calculate_for=70000001094232901&utm_source=online&utm_medium=product&utm_campaign=firmcard
+                      - generic [ref=f24e504]:
+                        - link "2ГИС для Android" [ref=f24e506] [cursor=pointer]:
+                          - /url: https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.ru/moscow/firm/70000001094232901&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://
+                        - generic [ref=f24e507]:
+                          - text: •
+                          - link "2ГИС для iOS" [ref=f24e508] [cursor=pointer]:
+                            - /url: https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.ru/moscow/firm/70000001094232901&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://
+                      - generic [ref=f24e509]: Добавить заметку
+            - generic [ref=f24e512]:
+              - link "Карта" [ref=f24e514] [cursor=pointer]:
+                - /url: /
+              - generic [ref=f24e516]:
+                - generic [aria-hidden] [ref=f24e517]: ·
+                - link "Москва" [ref=f24e518] [cursor=pointer]:
+                  - /url: /moscow
+              - generic [ref=f24e520]:
+                - generic [aria-hidden] [ref=f24e521]: ·
+                - link "Ветеринарные клиники" [ref=f24e522] [cursor=pointer]:
+                  - /url: /moscow/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/rubricId/205
+        - generic:
+          - generic [ref=f24e537]:
+            - link [ref=f24e538] [cursor=pointer]:
+              - /url: https://dev.2gis.ru
+            - link "Лицензионное соглашение" [ref=f24e542] [cursor=pointer]:
+              - /url: http://law.2gis.ru/licensing-agreement/?utm_medium=map-footer&utm_campaign=2gis5
+            - text: ","
+            - link "политика конфиденциальности" [ref=f24e543] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy?utm_medium=map-footer&utm_campaign=2gis5
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link "Премия 2ГИС 2026" [ref=f24e546] [cursor=pointer]:
+                    - /url: /moscow/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1%202026
+                  - navigation [ref=f24e551] [cursor=pointer]:
+                    - list [ref=f24e552]:
+                      - listitem [ref=f24e553]:
+                        - link [ref=f24e554]:
+                          - /url: /moscow/realty
+                      - listitem [ref=f24e558]:
+                        - button [ref=f24e559]
+                      - listitem [ref=f24e566]:
+                        - link [ref=f24e567]:
+                          - /url: /moscow/directions/metro
+                      - listitem [ref=f24e571]:
+                        - button [ref=f24e572]
+                      - listitem [ref=f24e577]:
+                        - button [ref=f24e578]
+                  - link [ref=f24e583] [cursor=pointer]:
+                    - /url: /moscow?traffic
+                    - button "Пробки" [ref=f24e584]: "1"
+                  - generic [ref=f24e585]: Войти
+            - generic [ref=f24e593]:
+              - generic [ref=f24e595]:
+                - button "Линейка" [ref=f24e598] [cursor=pointer]
+                - generic "Моё местоположение" [ref=f24e602]:
+                  - button [ref=f24e603] [cursor=pointer]
+                - generic [ref=f24e608]:
+                  - button "Изменить масштаб" [ref=f24e609] [cursor=pointer]
+                  - button "Изменить масштаб" [ref=f24e612] [cursor=pointer]
+              - generic [ref=f24e616]:
+                - generic [ref=f24e624] [cursor=pointer]
+                - generic [ref=f24e637] [cursor=pointer]
+              - button "Включи иммерсивные дороги и освещение" [ref=f24e640] [cursor=pointer]
+            - generic:
+              - button "Поделиться" [ref=f24e645] [cursor=pointer]
+              - generic [ref=f24e648]: Обратная связь
+          - generic [ref=f24e655] [cursor=pointer]
+          - button "Меню" [ref=f24e656] [cursor=pointer]
+        - generic [ref=f24e662]:
+          - generic [ref=f24e663]: 🍪
+          - generic [ref=f24e664]:
+            - text: Используем
+            - link "cookies" [ref=f24e665] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy/cookie
+            - text: и
+            - link "рекомендательные технологии" [ref=f24e666] [cursor=pointer]:
+              - /url: https://law.2gis.ru/recommendation-services
+          - generic [ref=f24e667] [cursor=pointer]

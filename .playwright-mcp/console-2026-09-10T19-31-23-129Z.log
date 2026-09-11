@@ -1,0 +1,22 @@
+[      46ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/moscow/firm/70000001094232901:0
+[    1642ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://gosvetkliniki.ru/t/v610/images/mosaic/themes/iuxy2ozfl-1716295365_theme-i5gt70ftm.css:0
+[    4517ms] [LOG] Onicon disabled. @ https://client.onicon.ru/visitor.js?v=4.4.96:0
+[    5801ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Xe (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:123:102)
+    at Rk (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:294:282)
+    at Si (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:236:184)
+    at Pk (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:236:115)
+    at Nd (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:235:491)
+    at Oi (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:226:185)
+    at S (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:27:24)
+    at U (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:31:59)
+[    5805ms] Uncaught Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Rk (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:293:443)
+    at Si (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:236:184)
+    at Pk (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:236:115)
+    at Nd (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:235:491)
+    at Qf (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:228:438)
+    at Oi (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:226:399)
+    at S (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:27:24)
+    at U (https://yastatic.net/react/18.2.0/react-with-dom-and-polyfills.min.js:31:59)
+[    6147ms] [WARNING] It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ https://smartcaptcha.yandexcloud.net/captchapgrd:0

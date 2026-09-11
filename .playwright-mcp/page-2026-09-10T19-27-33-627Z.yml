@@ -1,0 +1,194 @@
+- generic [active] [ref=f14e1]:
+  - paragraph [ref=f14e3] [cursor=pointer]: Online запись
+  - generic [ref=f14e5]:
+    - button "X" [ref=f14e7] [cursor=pointer]
+    - heading "Обратная связь" [level=3] [ref=f14e8]
+    - paragraph [ref=f14e9]: Поделитесь мнением о нашей работе или задайте нам любой интересующий вас вопрос в поле "Комментарий"
+    - generic [ref=f14e10]: "[forminator_form id=\"2771\"]"
+  - link [ref=f14e12] [cursor=pointer]:
+    - /url: tel:+74956120425
+    - img [ref=f14e13]: 
+  - banner [ref=f14e16]:
+    - generic [ref=f14e18]:
+      - link "Государственное бюджетное учреждение Московское объединение ветеринарии" [ref=f14e20] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f14e25] [cursor=pointer]
+  - paragraph [ref=f14e28]:
+    - link "+7(495) 612-12-12" [ref=f14e30] [cursor=pointer]:
+      - /url: tel:+74956121212
+  - generic [ref=f14e34]:
+    - generic:
+      - generic [ref=f14e39]:
+        - link "Условия использования" [ref=f14e43] [cursor=pointer]:
+          - /url: https://yandex.ru/legal/maps_termsofuse/?lang=ru
+        - link [ref=f14e45] [cursor=pointer]:
+          - /url: ""
+      - generic [ref=f14e47]:
+        - generic "Открыть в Яндекс Картах" [ref=f14e48]
+        - link "API Карт" [ref=f14e53] [cursor=pointer]:
+          - /url: "https://tech.yandex.ru/maps/mapsapi/?from=api-maps "
+    - generic [ref=f14e56]:
+      - generic [ref=f14e57] [cursor=pointer]
+      - generic [ref=f14e59] [cursor=pointer]
+      - generic [ref=f14e62] [cursor=pointer]
+  - generic [ref=f14e91]:
+    - generic [ref=f14e92]:
+      - heading [level=2] [ref=f14e93]:
+        - button "Московская станция по борьбе с болезнями животных (Мосветстанция,круглосуточный стационар)" [ref=f14e94] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e95]:
+      - heading [level=2] [ref=f14e96]:
+        - button "СББЖ Северного и Северо-Западного округа (ветеринарная клиника в Коптево)" [ref=f14e97] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e98]:
+      - heading [level=2] [ref=f14e99]:
+        - button "Тушинская ветеринарная клиника" [ref=f14e100] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e101]:
+      - heading [level=2] [ref=f14e102]:
+        - button "СББЖ Центрального и Северо-Восточного округа (ветеринарная клиника в Останкино)" [ref=f14e103] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e104]:
+      - heading [level=2] [ref=f14e105]:
+        - button "Красносельская ветеринарная клиника" [ref=f14e106] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e107]:
+      - heading [level=2] [ref=f14e108]:
+        - button "Бабушкинская ветеринарная клиника" [ref=f14e109] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e110]:
+      - heading [level=2] [ref=f14e111]:
+        - button "ветеринарный участок Отрадное" [ref=f14e112] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e113]:
+      - heading [level=2] [ref=f14e114]:
+        - button "СББЖ Восточного и Юго-Восточного округа (ветеринарная клиника Вешняки,круглосуточный стационар )" [ref=f14e115] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e116]:
+      - heading [level=2] [ref=f14e117]:
+        - button "Калининская ветеринарная клиника" [ref=f14e118] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e119]:
+      - heading [level=2] [ref=f14e120]:
+        - button "Первомайский ветеринарный участок" [ref=f14e121] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e122]:
+      - heading [level=2] [ref=f14e123]:
+        - button "СББЖ Южного округа" [ref=f14e124] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e125]:
+      - heading [level=2] [ref=f14e126]:
+        - button "Красногвардейская ветеринарная клиника" [ref=f14e127] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e128]:
+      - heading [level=2] [ref=f14e129]:
+        - button "Советская ветеринарная клиника" [ref=f14e130] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e131]:
+      - heading [level=2] [ref=f14e132]:
+        - button "Донская ветеринарная клиника" [ref=f14e133] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e134]:
+      - heading [level=2] [ref=f14e135]:
+        - button "СББЖ Западного и Юго-Западного округа" [ref=f14e136] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e137]:
+      - heading [level=2] [ref=f14e138]:
+        - button "Бутовская ветеринарная клиника" [ref=f14e139] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e140]:
+      - heading [level=2] [ref=f14e141]:
+        - button "Кунцевская ветеринарная клиника" [ref=f14e142] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e143]:
+      - heading [level=2] [ref=f14e144]:
+        - button "Солнцевский ветеринарный участок" [ref=f14e145] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e146]:
+      - heading [level=2] [ref=f14e147]:
+        - button "СББЖ Троицкого и Новомосковского округа (Яковлевская ветеринарная клиника)" [ref=f14e148] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e149]:
+      - heading [level=2] [ref=f14e150]:
+        - button "ветеринарный участок Красная Пахра" [ref=f14e151] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e152]:
+      - heading [level=2] [ref=f14e153]:
+        - button "ветеринарный участок Саларьево" [ref=f14e154] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e155]:
+      - heading [level=2] [ref=f14e156]:
+        - button "ветеринарный участок Птичное" [ref=f14e157] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e158]:
+      - heading [level=2] [ref=f14e159]:
+        - button "ветеринарный участок Кленово" [ref=f14e160] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e161]:
+      - heading [level=2] [ref=f14e162]:
+        - button "ветеринарный участок Щербинка" [ref=f14e163] [cursor=pointer]
+      - text:    
+    - generic [ref=f14e164]:
+      - heading [level=2] [ref=f14e165]:
+        - button "СББЖ Зеленоградского округа (Зеленоградская ветеринарная клиника)" [ref=f14e166] [cursor=pointer]
+      - text:    
+  - contentinfo [ref=f14e167]:
+    - generic [ref=f14e170]:
+      - generic [ref=f14e171]:
+        - paragraph [ref=f14e172]: ГБУ "Мосветобъединение"
+        - generic [ref=f14e173]:
+          - paragraph [ref=f14e174]: 115419 Город Москва улица Донская, дом 37, корп. 3 +7(495) 633-78-25 mosobvet@vet.mos.ru
+          - link "Подробнее >" [ref=f14e175] [cursor=pointer]:
+            - /url: /kontakty/
+      - generic [ref=f14e176]:
+        - paragraph [ref=f14e177]: Врач на дом
+        - generic [ref=f14e178]:
+          - paragraph [ref=f14e179]:
+            - text: В городе Москве работает
+            - link "ветеринарная помощь животным на дому" [ref=f14e180] [cursor=pointer]:
+              - /url: https://mos-obvet.ru/veterinarnaya-pomoshh-na-domu/
+            - text: ", предназначенная в том числе для обслуживания собак-проводников, принадлежащих инвалидам по зрению."
+          - link "Подробнее >" [ref=f14e181] [cursor=pointer]:
+            - /url: /skoraya-veterinarnaya-pomoshh/
+      - generic [ref=f14e182]:
+        - paragraph [ref=f14e183]: Пресс-служба
+        - generic [ref=f14e184]:
+          - paragraph [ref=f14e185]: Мы готовы оказать содействие в предоставлении информации и дать своевременный компетентный комментарий по интересующей вас тематике.
+          - link "Подробнее >" [ref=f14e186] [cursor=pointer]:
+            - /url: /press-sluzhba
+      - generic [ref=f14e187]:
+        - paragraph [ref=f14e188]: Полезная информация
+        - generic [ref=f14e189]:
+          - paragraph [ref=f14e190]: Памятки для владельцев домашних и сельскохозяйственных животных.
+          - link "Подробнее >" [ref=f14e191] [cursor=pointer]:
+            - /url: /poleznaya-informacziya
+    - generic [ref=f14e192]:
+      - text: 
+      - generic [ref=f14e193]:
+        - link "" [ref=f14e194] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCxQqYv4bxR8gTLcrRPLfiYg
+        - link "" [ref=f14e196] [cursor=pointer]:
+          - /url: https://t.me/moyavetklinika
+        - link "" [ref=f14e198] [cursor=pointer]:
+          - /url: https://vk.com/moyavet
+        - link "" [ref=f14e200] [cursor=pointer]:
+          - /url: https://rutube.ru/channel/27755076/
+      - list [ref=f14e203]:
+        - listitem [ref=f14e204]:
+          - link "Нормативные документы" [ref=f14e205] [cursor=pointer]:
+            - /url: https://mos-obvet.ru/normativnye-dokumenty/
+        - listitem [ref=f14e206]:
+          - link "Противодействие коррупции" [ref=f14e207] [cursor=pointer]:
+            - /url: https://www.mos.ru/moskomvet/anticorruption/
+        - listitem [ref=f14e208]:
+          - link "Политика конфиденциальности" [ref=f14e209] [cursor=pointer]:
+            - /url: https://mos-obvet.ru/politika-konfidenczialnosti/
+        - listitem [ref=f14e210]:
+          - link "Охрана труда" [ref=f14e211] [cursor=pointer]:
+            - /url: https://mos-obvet.ru/ohrana-truda/
+  - generic [ref=f14e212]:
+    - generic [ref=f14e213]: Используя данный сайт, вы даете согласие на работу с cookie и Яндекс.Метрикой для сбора технических данных.
+    - generic [ref=f14e214]:
+      - generic [ref=f14e215] [cursor=pointer]: Принять
+      - link "Подробнее" [ref=f14e217] [cursor=pointer]:
+        - /url: https://mos-obvet.ru/wp-content/uploads/2024/12/518_pril-1.pdf

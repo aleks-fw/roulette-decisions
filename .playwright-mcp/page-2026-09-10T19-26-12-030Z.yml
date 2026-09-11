@@ -1,0 +1,258 @@
+- generic [active]:
+  - generic: ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. .............................................................................
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f5e1]:
+          - generic [ref=f5e2]:
+            - link "Поиск" [ref=f5e7]:
+              - /url: /krasnodar
+            - link "Маршруты" [ref=f5e12]:
+              - /url: /krasnodar/directions
+            - link "Афиша" [ref=f5e17]:
+              - /url: /krasnodar/afisha
+            - link "Друзья" [ref=f5e25]:
+              - /url: /krasnodar/friendsList
+            - link "Гид" [ref=f5e31]:
+              - /url: /krasnodar/guide
+            - link "Жильё" [ref=f5e36]:
+              - /url: /krasnodar/realty
+          - generic [ref=f5e40]:
+            - generic [ref=f5e42] [cursor=pointer]
+            - generic [ref=f5e46] [cursor=pointer]
+          - generic [ref=f5e49]:
+            - generic [ref=f5e52]:
+              - generic [ref=f5e58]:
+                - link [ref=f5e60] [cursor=pointer]:
+                  - /url: /
+                - textbox "Поиск в 2ГИС" [ref=f5e66]
+              - generic [ref=f5e79]:
+                - generic [ref=f5e80]:
+                  - generic [ref=f5e82]:
+                    - button "Сохранить" [ref=f5e84] [cursor=pointer]
+                    - button "Отправить" [ref=f5e91] [cursor=pointer]
+                    - link "Маршрут" [ref=f5e97] [cursor=pointer]:
+                      - /url: /krasnodar/directions/points/%7C39.076521%2C45.012823%3B3237490513420963
+                  - generic [ref=f5e102]:
+                    - generic [ref=f5e103]:
+                      - generic [ref=f5e105] [cursor=pointer]
+                      - generic [ref=f5e108] [cursor=pointer]
+                      - generic [ref=f5e112] [cursor=pointer]
+                      - generic [ref=f5e118] [cursor=pointer]
+                      - generic [ref=f5e124] [cursor=pointer]
+                      - generic [ref=f5e130] [cursor=pointer]
+                      - generic [ref=f5e136] [cursor=pointer]
+                      - generic [ref=f5e142] [cursor=pointer]
+                      - generic [ref=f5e148] [cursor=pointer]
+                      - generic [ref=f5e153]:
+                        - generic [ref=f5e154] [cursor=pointer]
+                        - text: Все фото
+                    - generic [ref=f5e159] [cursor=pointer]
+                  - heading [level=1] [ref=f5e162]
+                  - generic [ref=f5e166]: Ветеринарная клиника
+                  - generic [ref=f5e168] [cursor=pointer]:
+                    - generic [ref=f5e190]: "4.5"
+                    - generic [ref=f5e191]: Подтверждён
+                    - generic [ref=f5e198]: (394)
+                  - generic [ref=f5e200]:
+                    - generic [ref=f5e201]: Качественное лечение и обследование питомца по доступным ценам
+                    - generic [ref=f5e206] [cursor=pointer]:
+                      - generic [ref=f5e207]: Реклама
+                      - generic [ref=f5e208]:
+                        - text: •
+                        - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f5e210]
+                    - link "Позвонить" [ref=f5e213] [cursor=pointer]:
+                      - /url: tel:+78612025088
+                - generic [ref=f5e218]:
+                  - generic [ref=f5e220]:
+                    - generic [ref=f5e221]:
+                      - link "Контакты" [ref=f5e223] [cursor=pointer]:
+                        - /url: /krasnodar/firm/3237490513420963
+                      - link "Инфо" [ref=f5e226] [cursor=pointer]:
+                        - /url: /krasnodar/firm/3237490513420963/tab/info
+                      - link "Отзывы 309" [ref=f5e229] [cursor=pointer]:
+                        - /url: /krasnodar/firm/3237490513420963/tab/reviews
+                        - generic [ref=f5e230]: Отзывы
+                        - generic [ref=f5e231]: "309"
+                      - link "Цены 8" [ref=f5e234] [cursor=pointer]:
+                        - /url: /krasnodar/firm/3237490513420963/tab/prices
+                        - generic [ref=f5e235]: Цены
+                        - generic [ref=f5e236]: "8"
+                      - link "Фото 29" [ref=f5e239] [cursor=pointer]:
+                        - /url: /krasnodar/gallery/firm/3237490513420963
+                        - generic [ref=f5e240]: Фото
+                        - generic [ref=f5e241]: "29"
+                      - link "Вакансии 1" [ref=f5e244] [cursor=pointer]:
+                        - /url: /krasnodar/firm/3237490513420963/tab/vacancies
+                        - generic [ref=f5e245]: Вакансии
+                        - generic [ref=f5e246]: "1"
+                      - link "Вопросы" [ref=f5e249] [cursor=pointer]:
+                        - /url: /krasnodar/firm/3237490513420963/tab/questions
+                    - generic [ref=f5e251] [cursor=pointer]
+                  - generic [ref=f5e255]:
+                    - generic [ref=f5e256]:
+                      - generic [ref=f5e257]:
+                        - generic [ref=f5e258]: Мачуги 20
+                        - generic [ref=f5e265]: Приятного аппетита
+                        - generic [ref=f5e272]: Доброе утро
+                        - generic [ref=f5e279]: Подход к каждому
+                        - generic [ref=f5e286]: Мы любим каждого
+                        - generic [ref=f5e293]: Мы заботимся о вас
+                        - generic [ref=f5e300]: Работаем круглосуточно
+                        - generic [ref=f5e307]: Акция
+                        - generic [ref=f5e314]: Услуги стоматолога
+                        - generic [ref=f5e323] [cursor=pointer]:
+                          - generic [ref=f5e327]: Акция
+                          - generic [ref=f5e328]: –15%
+                      - generic [ref=f5e331] [cursor=pointer]
+                    - generic [ref=f5e334]:
+                      - generic [ref=f5e336]:
+                        - generic [ref=f5e346] [cursor=pointer]:
+                          - generic [ref=f5e347]:
+                            - generic [ref=f5e348]:
+                              - link "Улица им. В.Н. Мачуги, 20" [ref=f5e350]:
+                                - /url: /krasnodar/geo/3237597887435789
+                              - generic [ref=f5e351]: • 1-3 этаж
+                              - generic [ref=f5e352]:
+                                - text: •
+                                - link "2 филиала" [ref=f5e353]:
+                                  - /url: /krasnodar/branches/3237499103186639
+                            - generic [ref=f5e354]: Пашковский м-н, Карасунский округ, Краснодар, 350061
+                          - button "Показать вход" [ref=f5e357]
+                        - generic [ref=f5e358]: Круглосуточно
+                        - generic [ref=f5e364]:
+                          - generic [ref=f5e370]:
+                            - link "+7 (861) 2..." [ref=f5e371] [cursor=pointer]:
+                              - /url: tel:+78612025088
+                            - button "Показать телефоны" [ref=f5e372] [cursor=pointer]
+                          - link "klinika-drug.ru" [ref=f5e380] [cursor=pointer]:
+                            - /url: https://link.2gis.ru/4.2/BDBB1CD0/aHR0cDovL2tsaW5pa2EtZHJ1Zy5ydS8KaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIwYTMwOTgzOS02ZDUzLTQ4NWEtODg0Ni00ZDg0MTI0Y2VhNGEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiNGE3YjRlNWYtMDBiOS00NjdhLWEwMzItODVmZjMwZWI3MWEwIiwidGltZXN0YW1wIjoxNzg5MDY4MzY3MTA5LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIyOWQwZTU3NC1mNGQ1LTQ3MDEtYTNkOS1hYWNmZWQ1ZmUyYzMiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MSwiZnJhbWVVdWlkIjoiMzY1MDI4ZGYtNjQ0Mi00NGM5LTgxNzYtZTBiZDA2YjI1MTZmIn0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzgyNTc3RTYxL29ubGluZS8yMDI2MDkwMS9wcm9qZWN0MjMvMzIzNzQ5MDUxMzQyMDk2My9udWxsL2kzcmdzZTM5ODYzMDRkN0kzOTBCMUgzSkkxSTJlbXNrMzZ5MDA0ZGVkLTMzNzhKMjhHNEk2MjY5Y2hkLTcwQjU4NUc0RzJCOTE3ODQ4MjNBNjVJMTZEaWZCNmZmNWVBOGQ2OTM3NUo3SDQ5MDUxNDVISDZJSkhKSUgySUE2P2h0dHA6Ly9rbGluaWthLWRydWcucnUiLCJ0eXBlIjoid2Vic2l0ZSIsInBvc2l0aW9uIjoxfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1NDkyMDA4NTY3MjM2NTA1OSIsImVudGl0eSI6eyJpZCI6IjMyMzc0OTA1MTM0MjA5NjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDc2NTIxLCJsYXQiOjQ1LjAxMjgyM30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIzMjM3NDk5MTAzMTg2NjM5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6ImIzMTlkMTM3LWMzODgtNDdhOS1iMDA0LTBiNGFjMTEzYzllZSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                          - link "klinikadrug@mail.ru" [ref=f5e387] [cursor=pointer]:
+                            - /url: mailto:klinikadrug@mail.ru
+                          - generic [ref=f5e395]:
+                            - link "Смотреть подработку на hh.ru" [ref=f5e397] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/0A1CB6A9/aHR0cHM6Ly9rcmFzbm9kYXIuaGgucnUvZW1wbG95ZXIvNDE2NDc0NT91dG1fY2FtcGFpZ249bWFyY29tLWRpZ2l0YWxfbWVkaWEtbWFpbl9iMmMtcmYtMmdpcy1hd2FyLWJhbm5lcl8yZ2lzLWNyb3NzLWludGVyZXN0c19hbGxfbl9ub25lX2ltaWR6aF9ub3N0YWxnaWEmdXRtX2NvbnRlbnQ9NDE2NDc0NSZ1dG1fbWVkaXVtPWNwbSZ1dG1fc291cmNlPTJnaXMKaHR0cHM6Ly9zMS5ic3MuMmdpcy5jb20vYnNzLzMKW3siY29tbW9uIjp7ImZvcm1hdFZlcnNpb24iOjMsImFwcFZlcnNpb24iOiIyMDI2LTA5LTA5LTA5IiwicHJvZHVjdCI6MzQsImFwaWtleSI6ImM3ZjFhNzY5LWM4YTUtNDYzNi1iMTRkLWQ4Yzk4NzgwOGExMiIsImFwaWtleVN0YXR1cyI6MSwiZGV2aWNlTG9jYWxlIjoicnVfUlUiLCJ1c2VyIjoiMzhjZjQ5YzUtN2QzMC00YjBlLTljZTMtYTZjYjdkYjM5MTAzIiwiaXAiOiIxOTUuMTguMTguOTEiLCJzZXNzaW9uSWQiOiIwYTMwOTgzOS02ZDUzLTQ4NWEtODg0Ni00ZDg0MTI0Y2VhNGEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiN2UwYTM2NDYtZDVkZS00M2Y0LWE4M2QtNTgyNjQ5OTMxODU3IiwidGltZXN0YW1wIjoxNzg5MDY4MzY3MTMzLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI1ODI5ZjliZi1mZjEwLTQ2MDMtYTg5ZC0wMDMwODFkZDgxOTkiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImJ1eUhlcmVMaW5rIiwib3duZXJOYW1lIjoiY2FyZENvbnRhY3RzIiwiZnJhbWVVdWlkIjoiMzY1MDI4ZGYtNjQ0Mi00NGM5LTgxNzYtZTBiZDA2YjI1MTZmIiwicG9zaXRpb24iOjF9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvM0FEMkZFMjQvb25saW5lLzIwMjYwOTAxL3Byb2plY3QyMy83MDAwMDAwMTAwNzE1OTAxOS9udWxsLzNyZ3NlMzZENGRmNWVBOGQ1SjdIRzRJQTg0QjI1MjM3ZW1zazM2eWllZC05ODYzMDkxNzg0ODdJMTgxOEEwM0ItNzBCMDA0ZDMzNzhKMjhCMzkwQjE5MzdISDQ1SjQ1NWlmQjZmY2hkNjU4NUc0RzIwMzIwMDAxMEgxSjRJSDJIMjM5ODNKR0hHSjJKY2c%2FaHR0cHM6Ly9rcmFzbm9kYXIuaGgucnUvZW1wbG95ZXIvNDE2NDc0NT91dG1fY2FtcGFpZ249bWFyY29tLWRpZ2l0YWxfbWVkaWEtbWFpbl9iMmMtcmYtMmdpcy1hd2FyLWJhbm5lcl8yZ2lzLWNyb3NzLWludGVyZXN0c19hbGxfbl9ub25lX2ltaWR6aF9ub3N0YWxnaWEmdXRtX2NvbnRlbnQ9NDE2NDc0NSZ1dG1fbWVkaXVtPWNwbSZ1dG1fc291cmNlPTJnaXMiLCJjb250ZW50T3duZXIiOnsib3JnIjoiMzIzNzQ5OTEwMzE4NTc3MSIsImFkc1Bvc2l0aW9uIjoiYnV5SGVyZSIsImFkc0lkIjoiMTI1NDkyMDA4NTY3MjM2NTA1OSJ9LCJwb3NpdGlvbiI6MX0sInBsYWNlSXRlbSI6eyJhZHNJZCI6IjEyNTQ5MjAwODU2NzIzNjUwNTkiLCJlbnRpdHkiOnsiaWQiOiIzMjM3NDkwNTEzNDIwOTYzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjA3NjUyMSwibGF0Ijo0NS4wMTI4MjN9LCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMzIzNzQ5OTEwMzE4NjYzOSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoxMSwicGFyZW50VGFiSWQiOiJiMzE5ZDEzNy1jMzg4LTQ3YTktYjAwNC0wYjRhYzExM2M5ZWUifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                            - text: — реклама
+                          - generic [ref=f5e398]:
+                            - link "ВКонтакте" [ref=f5e401] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/B7C5E5E0/aHR0cHM6Ly92ay5jb20vdmV0a2xpbmlrYWRydWdfa3JkCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0wOS0wOS0wOSIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X1JVIiwidXNlciI6IjM4Y2Y0OWM1LTdkMzAtNGIwZS05Y2UzLWE2Y2I3ZGIzOTEwMyIsImlwIjoiMTk1LjE4LjE4LjkxIiwic2Vzc2lvbklkIjoiMGEzMDk4MzktNmQ1My00ODVhLTg4NDYtNGQ4NDEyNGNlYTRhIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVHlwZSI6ImRlc2t0b3AiLCJwZXJzb25hbERhdGFDb2xsZWN0aW9uQWxsb3dlZCI6dHJ1ZSwidGFiSXNBY3RpdmUiOnRydWV9LCJ1dGNPZmZzZXQiOiIrMDM6MDAiLCJ0YWJJZCI6ImJjZjM4ZjIyLTE0NTktNGIyNy05ODdmLTk0YTc2MDRhNzQwYyIsInRpbWVzdGFtcCI6MTc4OTA2ODM2NzEzNCwidHlwZSI6MjExLCJldmVudFR5cGUiOiJhY3Rpb24iLCJldmVudElkIjoiYmQxNTY4MjgtNWYyMS00YjE2LWE0NjAtZjhkODI1OGY4YjZmIiwiYWN0aW9uVHlwZSI6ImV4dGVybmFsTGluayIsImV2ZW50T3JkaW5hbCI6MCwidWlFbGVtZW50Ijp7Im5hbWUiOiJjb250YWN0Iiwib3duZXJOYW1lIjoiY2FyZENvbnRhY3RzIiwicG9zaXRpb24iOjEsImZyYW1lVXVpZCI6IjM2NTAyOGRmLTY0NDItNDRjOS04MTc2LWUwYmQwNmIyNTE2ZiJ9LCJwYXlsb2FkIjp7ImNvbnRhY3QiOnsidmFsdWUiOiJodHRwczovL3ZrLmNvbS92ZXRrbGluaWthZHJ1Z19rcmQiLCJ0eXBlIjoidmtvbnRha3RlIiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiYWRzSWQiOiIxMjU0OTIwMDg1NjcyMzY1MDU5IiwiZW50aXR5Ijp7ImlkIjoiMzIzNzQ5MDUxMzQyMDk2MyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIyMyJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjozOS4wNzY1MjEsImxhdCI6NDUuMDEyODIzfSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjMyMzc0OTkxMDMxODY2MzkiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWV9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MTEsInBhcmVudFRhYklkIjoiYjMxOWQxMzctYzM4OC00N2E5LWIwMDQtMGI0YWMxMTNjOWVlIn19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NzUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                            - link "WhatsApp" [ref=f5e409] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/7F81235F/aHR0cHM6Ly93YS5tZS83OTE4MTg4MjI5OT90ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMlMjAlRDAlQjglRDAlQjclMjAlRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYlMjAyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJjMGJkODY0YS03ZmQ4LTRhY2ItYjk3MC02OWU3ZTkzNTM3ZTkiLCJ0aW1lc3RhbXAiOjE3ODkwNjgzNjcxMzUsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImQ2ZmM2ZWNmLTFhNDktNGNjNC05OTAwLWU1N2U5Y2Y1ODE2NCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjoyLCJmcmFtZVV1aWQiOiIzNjUwMjhkZi02NDQyLTQ0YzktODE3Ni1lMGJkMDZiMjUxNmYifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cHM6Ly93YS5tZS83OTE4MTg4MjI5OT90ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMlMjAlRDAlQjglRDAlQjclMjAlRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYlMjAyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQSIsInR5cGUiOiJ3aGF0c2FwcCIsInBvc2l0aW9uIjoyfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1NDkyMDA4NTY3MjM2NTA1OSIsImVudGl0eSI6eyJpZCI6IjMyMzc0OTA1MTM0MjA5NjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDc2NTIxLCJsYXQiOjQ1LjAxMjgyM30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIzMjM3NDk5MTAzMTg2NjM5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6ImIzMTlkMTM3LWMzODgtNDdhOS1iMDA0LTBiNGFjMTEzYzllZSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                            - link "Telegram" [ref=f5e417] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/04DE030C/aHR0cHM6Ly90Lm1lLys3OTg5ODEyMjIwMApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJhZDliYmM0Zi0zYTc5LTRjM2YtYjA0Mi0yZmYxOWYwYzg5NDEiLCJ0aW1lc3RhbXAiOjE3ODkwNjgzNjcxMzYsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjIzNmM4MGIzLWYzOWEtNGUzNi04ZGUzLWVmZTRiNWRmM2QzNSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjozLCJmcmFtZVV1aWQiOiIzNjUwMjhkZi02NDQyLTQ0YzktODE3Ni1lMGJkMDZiMjUxNmYifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cHM6Ly90Lm1lLys3OTg5ODEyMjIwMCIsInR5cGUiOiJ0ZWxlZ3JhbSIsInBvc2l0aW9uIjozfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1NDkyMDA4NTY3MjM2NTA1OSIsImVudGl0eSI6eyJpZCI6IjMyMzc0OTA1MTM0MjA5NjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDc2NTIxLCJsYXQiOjQ1LjAxMjgyM30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIzMjM3NDk5MTAzMTg2NjM5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6ImIzMTlkMTM3LWMzODgtNDdhOS1iMDA0LTBiNGFjMTEzYzllZSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                            - link "Telegram" [ref=f5e425] [cursor=pointer]:
+                              - /url: https://link.2gis.ru/4.2/0A33849A/aHR0cHM6Ly90Lm1lLys3OTE4MTg4MjI5OQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI1Yjk3ZWFjMS0xZGNlLTQ1ZmEtODJmMy1iNGExMzU3NzU4YjciLCJ0aW1lc3RhbXAiOjE3ODkwNjgzNjcxMzcsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjViMzBlZmU5LTZlOTAtNDRmZi05YTQ4LTY3ZDViMzFkYjU4NCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY29udGFjdCIsIm93bmVyTmFtZSI6ImNhcmRDb250YWN0cyIsInBvc2l0aW9uIjo0LCJmcmFtZVV1aWQiOiIzNjUwMjhkZi02NDQyLTQ0YzktODE3Ni1lMGJkMDZiMjUxNmYifSwicGF5bG9hZCI6eyJjb250YWN0Ijp7InZhbHVlIjoiaHR0cHM6Ly90Lm1lLys3OTE4MTg4MjI5OSIsInR5cGUiOiJ0ZWxlZ3JhbSIsInBvc2l0aW9uIjo0fSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1NDkyMDA4NTY3MjM2NTA1OSIsImVudGl0eSI6eyJpZCI6IjMyMzc0OTA1MTM0MjA5NjMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMjMifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6MzkuMDc2NTIxLCJsYXQiOjQ1LjAxMjgyM30sIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIzMjM3NDk5MTAzMTg2NjM5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6ImIzMTlkMTM3LWMzODgtNDdhOS1iMDA0LTBiNGFjMTEzYzllZSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                        - generic [ref=f5e431]: Компания следит за актуальностью данных
+                      - generic [ref=f5e445]:
+                        - generic [ref=f5e446]:
+                          - banner [ref=f5e448]: Вакансии
+                          - generic [ref=f5e451] [cursor=pointer]:
+                            - generic [ref=f5e452]:
+                              - generic "Администратор Сети Ветклиник и Аптек" [ref=f5e453]
+                              - 'link "В нашу команду требуется инициативный сотрудник, которому интересна сфера ветеринарии и зоотоваров. Если Вам нравится работать с людьми и животными, удобно добираться до работы, хочется работать в дружном коллективе - мы Вас ждём!На данный момент ищем администратора в наш филиал на ул.В.Н.Мачуги 20 и ул.Уральскую, 184\\2.Обязанности:- регистрация новых клиентов- ответы на телефонные звонки и сообщения в мессенджерах- заполнение документации (договоров, актов выполненных услуг и т.п.)- прием товара- консультирование по услугам и товарам в магазине- работа с кассой- поддержка чистоты в зале, участие в ревизиях Условия:График 3\\3 с 9.00 до 21:30Зп: оклад + бонус от продажМожно без опыта, всему обучим. Важно: коммуникабельность, активность, ответственность.Есть скидки и льготные системы для питомцев сотрудников!!" [ref=f5e454]':
+                                - /url: /krasnodar/vacancies/filters/categoryId%3D7
+                            - generic "от 40 000 до 50 000 ₽ в месяц до вычета налогов" [ref=f5e458]
+                        - link "Смотреть на сайте" [ref=f5e461] [cursor=pointer]:
+                          - /url: https://link.2gis.ru/4.2/D8636674/aHR0cHM6Ly9rcmFzbm9kYXIuaGgucnUvdmFjYW5jeS8xMzY1MzEwMTI%2FdXRtX2NhbXBhaWduPWRtX3J1X3BhaWRfZml4X2FwcGxpY2FudF9mZWVkJnV0bV9jb250ZW50PTQxNjQ3NDUmdXRtX21lZGl1bT1wcGMmdXRtX3NvdXJjZT0yZ2lzJnV0bV92YWNhbmN5PTEzNjUzMTAxMgpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiIxZjgwM2NjMS02YzI3LTQ3ZDMtYmFlOS1jMjgwOWU0MGIxNTQiLCJ0aW1lc3RhbXAiOjE3ODkwNjgzNjg3MTQsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjA4ZDBlM2YzLWY1OWUtNDNhMi05NWQyLWI4NzM5MjFkZjJjOCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoidG9UaGVTaG9wQnV0dG9uIiwib3duZXJOYW1lIjoiY2FyZENvbnRhY3RzIiwiZnJhbWVVdWlkIjoiMzY1MDI4ZGYtNjQ0Mi00NGM5LTgxNzYtZTBiZDA2YjI1MTZmIiwicG9zaXRpb24iOjF9LCJwYXlsb2FkIjp7InBsYWNlSXRlbSI6eyJhZHNJZCI6IjEyNTQ5MjAwODU2NzIzNjUwNTkiLCJlbnRpdHkiOnsiaWQiOiIzMjM3NDkwNTEzNDIwOTYzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjIzIn19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjM5LjA3NjUyMSwibGF0Ijo0NS4wMTI4MjN9LCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMzIzNzQ5OTEwMzE4NjYzOSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZX0sInZhY2FuY3lJdGVtIjp7ImNhdGVnb3J5SWQiOiI3IiwiaWQiOiI0MDA0MDc5IiwiaXNQb3B1bGFyIjpmYWxzZSwibmFtZSI6ItCQ0LTQvNC40L3QuNGB0YLRgNCw0YLQvtGAINCh0LXRgtC4INCS0LXRgtC60LvQuNC90LjQuiDQuCDQkNC%2F0YLQtdC6Iiwic2FsYXJ5TGFiZWwiOiLQvtGCIDQwwqAwMDAg0LTQviA1MMKgMDAwIOKCvSDQsiDQvNC10YHRj9GGINC00L4g0LLRi9GH0LXRgtCwINC90LDQu9C%2B0LPQvtCyIiwicHJvdmlkZXJDb2RlIjoiaGgiLCJlbnRpdHkiOnsiaWQiOiIzMjM3NDkwNTEzNDIwOTYzIiwidHlwZSI6ImJyYW5jaCJ9LCJvcmciOiIzMjM3NDk5MTAzMTg2NjM5In0sImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cHM6Ly9rcmFzbm9kYXIuaGgucnUvdmFjYW5jeS8xMzY1MzEwMTI%2FdXRtX2NhbXBhaWduPWRtX3J1X3BhaWRfZml4X2FwcGxpY2FudF9mZWVkJnV0bV9jb250ZW50PTQxNjQ3NDUmdXRtX21lZGl1bT1wcGMmdXRtX3NvdXJjZT0yZ2lzJnV0bV92YWNhbmN5PTEzNjUzMTAxMiJ9LCJwcm9kdWN0V2lkZ2V0Ijp7ImFkc0hpZ2hsaWdodCI6dHJ1ZSwid2hlcmUiOiJjYXJkQ29udGFjdHMifSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjExLCJwYXJlbnRUYWJJZCI6ImIzMTlkMTM3LWMzODgtNDdhOS1iMDA0LTBiNGFjMTEzYzllZSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                    - generic [ref=f5e466]:
+                      - generic [ref=f5e471]:
+                        - generic [ref=f5e472]: Вопросы о месте
+                        - generic [ref=f5e473]: Отвечает ИИ-помощник
+                      - generic [ref=f5e474]:
+                        - generic [ref=f5e475] [cursor=pointer]: Расскажи о ветеринарной клинике
+                        - generic [ref=f5e481] [cursor=pointer]: Какие услуги оказывают животным?
+                        - generic [ref=f5e487] [cursor=pointer]: Сколько стоит приём врача?
+                        - generic [ref=f5e493] [cursor=pointer]: Как записаться на приём с питомцем?
+                        - generic [ref=f5e499] [cursor=pointer]: Какая здесь загруженность и время ожидания?
+                        - generic [ref=f5e505] [cursor=pointer]: Расскажи о вакансиях
+                      - button "Задать свой вопрос" [ref=f5e512] [cursor=pointer]
+                    - generic [ref=f5e515]:
+                      - button "Нашли ошибку в данных?" [ref=f5e518] [cursor=pointer]
+                      - generic [ref=f5e520]:
+                        - link "Это моя компания" [ref=f5e522] [cursor=pointer]:
+                          - /url: https://redirect.2gis.com/account/?language=ru&id=23&firmId=3237499103186639&utm_source=online&utm_medium=product&utm_campaign=firmcard
+                        - generic [ref=f5e523]:
+                          - text: •
+                          - link "Реклама в 2ГИС ↗" [ref=f5e524] [cursor=pointer]:
+                            - /url: http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=23&calculate_for=3237490513420963&utm_source=online&utm_medium=product&utm_campaign=firmcard
+                      - generic [ref=f5e526]:
+                        - link "2ГИС для Android" [ref=f5e528] [cursor=pointer]:
+                          - /url: https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.ru/krasnodar/firm/3237490513420963&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://
+                        - generic [ref=f5e529]:
+                          - text: •
+                          - link "2ГИС для iOS" [ref=f5e530] [cursor=pointer]:
+                            - /url: https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.ru/krasnodar/firm/3237490513420963&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://
+                      - generic [ref=f5e531]: Добавить заметку
+            - generic [ref=f5e534]:
+              - link "Карта" [ref=f5e536] [cursor=pointer]:
+                - /url: /
+              - generic [ref=f5e538]:
+                - generic [aria-hidden] [ref=f5e539]: ·
+                - link "Краснодар" [ref=f5e540] [cursor=pointer]:
+                  - /url: /krasnodar
+              - generic [ref=f5e542]:
+                - generic [aria-hidden] [ref=f5e543]: ·
+                - link "Ветеринарные клиники" [ref=f5e544] [cursor=pointer]:
+                  - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/rubricId/205
+        - generic:
+          - generic [ref=f5e560]:
+            - link [ref=f5e561] [cursor=pointer]:
+              - /url: https://dev.2gis.ru
+            - link "Лицензионное соглашение" [ref=f5e565] [cursor=pointer]:
+              - /url: http://law.2gis.ru/licensing-agreement/?utm_medium=map-footer&utm_campaign=2gis5
+            - text: ","
+            - link "политика конфиденциальности" [ref=f5e566] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy?utm_medium=map-footer&utm_campaign=2gis5
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link "Премия 2ГИС 2026" [ref=f5e569] [cursor=pointer]:
+                    - /url: /krasnodar/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1%202026
+                  - navigation [ref=f5e574] [cursor=pointer]:
+                    - list [ref=f5e575]:
+                      - listitem [ref=f5e576]:
+                        - link [ref=f5e577]:
+                          - /url: /krasnodar/realty
+                      - listitem [ref=f5e581]:
+                        - button [ref=f5e582]
+                      - listitem [ref=f5e589]:
+                        - button [ref=f5e590]
+                      - listitem [ref=f5e595]:
+                        - button [ref=f5e596]
+                      - listitem [ref=f5e600]:
+                        - button [ref=f5e601]
+                  - link [ref=f5e606] [cursor=pointer]:
+                    - /url: /krasnodar?traffic
+                    - button "Пробки" [ref=f5e607]: "1"
+                  - generic [ref=f5e608]: Войти
+            - generic [ref=f5e616]:
+              - generic [ref=f5e618]:
+                - button "Линейка" [ref=f5e621] [cursor=pointer]
+                - generic "Моё местоположение" [ref=f5e625]:
+                  - button [ref=f5e626] [cursor=pointer]
+                - generic [ref=f5e631]:
+                  - button "Изменить масштаб" [ref=f5e632] [cursor=pointer]
+                  - button "Изменить масштаб" [ref=f5e635] [cursor=pointer]
+              - generic [ref=f5e639]:
+                - generic [ref=f5e647] [cursor=pointer]
+                - generic [ref=f5e660] [cursor=pointer]
+              - button "Включи иммерсивные дороги и освещение" [ref=f5e663] [cursor=pointer]
+            - generic:
+              - button "Поделиться" [ref=f5e668] [cursor=pointer]
+              - generic [ref=f5e671]: Обратная связь
+          - generic [ref=f5e679] [cursor=pointer]:
+            - button [ref=f5e681]
+            - img "Рекламный баннер" [ref=f5e686]
+          - generic [ref=f5e687] [cursor=pointer]
+          - button "Меню" [ref=f5e688] [cursor=pointer]
+        - generic [ref=f5e694]:
+          - generic [ref=f5e695]: 🍪
+          - generic [ref=f5e696]:
+            - text: Используем
+            - link "cookies" [ref=f5e697] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy/cookie
+            - text: и
+            - link "рекомендательные технологии" [ref=f5e698] [cursor=pointer]:
+              - /url: https://law.2gis.ru/recommendation-services
+          - generic [ref=f5e699] [cursor=pointer]

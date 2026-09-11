@@ -1,0 +1,8 @@
+[    2004ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://esir.gov.spb.ru/static/widget/js/widget.js:0
+[   10947ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://pos.gosuslugi.ru/bin/script.min.js:0
+[   11026ms] ReferenceError: Widget is not defined
+    at https://www.spbvet.ru/contacts/contact/?3:2075:9
+[   21106ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://pos.gosuslugi.ru/bin/banner-fluid/3/banner-fluid-bg-3-small.svg:0
+[   30882ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://bitrix.info/ba.js:0
+[   31352ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://hdrc.yandex.net/:0
+[   31417ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://mdd.yandex.net/:0

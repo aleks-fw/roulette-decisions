@@ -1,0 +1,124 @@
+- generic [active] [ref=f27e1]:
+  - generic [ref=f27e3]:
+    - generic [ref=f27e5]:
+      - generic [ref=f27e6]:
+        - link [ref=f27e7] [cursor=pointer]:
+          - /url: /
+          - img "Logo111" [ref=f27e9]
+        - generic [ref=f27e10]:
+          - generic [ref=f27e11]: сеть государственных ветеринарных клиник
+          - link "ГБУ \"Ветуправление города Краснодара\"" [ref=f27e13] [cursor=pointer]:
+            - /url: /
+      - generic [ref=f27e15]:
+        - generic [ref=f27e17]:
+          - generic [ref=f27e18]: С 8:00 до 20:00Без выходных
+          - link "+7(861)202-96-56" [ref=f27e22] [cursor=pointer]:
+            - /url: tel:+78612029656
+        - generic [ref=f27e25]:
+          - link "ул. Карасунская, 110, КВО" [ref=f27e27] [cursor=pointer]:
+            - /url: https://yandex.ru/maps/org/krasnodarskaya_gosudarstvennaya_stantsiya_po_borbe_s_boleznyami_zhivotnykh_g_krasnodara/1244291096/
+          - link "ул. 1 Мая, 319" [ref=f27e30] [cursor=pointer]:
+            - /url: https://yandex.ru/maps/org/uchastkovaya_veterinarnaya_lechebnitsa_kalininskaya/219618215811/
+          - link "ул. Калинина, 15/1" [ref=f27e33] [cursor=pointer]:
+            - /url: https://yandex.ru/maps/org/uchastkovaya_veterinarnaya_lechebnitsa_tsentralnaya/1126790874/
+          - link "ст. Елизаветинская" [ref=f27e36] [cursor=pointer]:
+            - /url: https://yandex.ru/maps/org/yelizavetinskiy_veterinarny_uchastok/1331259242/
+          - link "ст. Старокорсунская" [ref=f27e39] [cursor=pointer]:
+            - /url: https://yandex.ru/maps/org/uchastkovaya_veterinarnaya_lechebnitsa_starokorsunskaya/26788113740/
+        - generic [ref=f27e41]:
+          - link [ref=f27e43] [cursor=pointer]:
+            - /url: https://vk.com/gos_vet_krd
+          - link [ref=f27e48] [cursor=pointer]:
+            - /url: https://ok.ru/group/57368480514262
+          - link [ref=f27e54] [cursor=pointer]:
+            - /url: https://t.me/G_B_U_K
+        - link "записаться на прием" [ref=f27e58] [cursor=pointer]:
+          - /url: "#iuyvk02v6_0"
+    - generic [ref=f27e62]:
+      - generic [ref=f27e63]:
+        - link "Главная" [ref=f27e64] [cursor=pointer]:
+          - /url: /
+        - text: /
+        - generic [ref=f27e65]: Контакты
+      - heading "Контакты" [level=1] [ref=f27e66]
+      - generic [ref=f27e69]:
+        - generic [ref=f27e78]:
+          - paragraph [ref=f27e80]: Телефон для справок
+          - generic [ref=f27e81]:
+            - link "+7 (861) 202-96-56" [ref=f27e82] [cursor=pointer]:
+              - /url: tel:+78612029656
+            - generic [ref=f27e83]: С 8:00 до 20:00 Без выходных
+        - generic [ref=f27e90]:
+          - paragraph [ref=f27e92]: Вакансии
+          - generic [ref=f27e93]:
+            - paragraph [ref=f27e94]: Заведующий УВЛ "Старокорсунская" от 85 000 + премиальные
+            - paragraph [ref=f27e95]: опыт работы не менее 3 лет
+            - paragraph [ref=f27e96]
+            - paragraph [ref=f27e97]: с расположением места работы можно ознакомиться на карте ниже
+            - paragraph [ref=f27e98]:
+              - text: с требованиями к вакансии можно ознакомиться на сайте
+              - link "krasnodarvet.ru" [ref=f27e99] [cursor=pointer]:
+                - /url: https://krasnodarvet.ru/staff/vacancy
+        - generic [ref=f27e110]:
+          - link [ref=f27e111] [cursor=pointer]:
+            - /url: https://t.me/+78612029656
+            - img "f3a0752c-34f5-4678-b850-77011e682fef" [ref=f27e114]
+            - paragraph [ref=f27e116]: МАКС
+          - link "fgs16_vk-cl-bg ВКонтакте" [ref=f27e117] [cursor=pointer]:
+            - /url: https://vk.com/gos_vet_krd
+            - img "fgs16_vk-cl-bg" [ref=f27e120]
+            - generic [ref=f27e121]: ВКонтакте
+          - link "fgs16_ok-cl-bg Одноклассники" [ref=f27e122] [cursor=pointer]:
+            - /url: https://ok.ru/group/57368480514262
+            - img "fgs16_ok-cl-bg" [ref=f27e125]
+            - generic [ref=f27e126]: Одноклассники
+        - generic [ref=f27e136]:
+          - generic [ref=f27e137]:
+            - generic [ref=f27e138] [cursor=pointer]:
+              - generic [ref=f27e139]: городская станция по борьбе с болезнями животных "Краснодарская"
+              - paragraph [ref=f27e141]: ул. Карасунская, 110, Пашковский жилой массив тер.
+            - link "+7 (861) 202-96-56" [ref=f27e145] [cursor=pointer]:
+              - /url: tel:+7 (861) 202-96-56
+          - generic [ref=f27e146]:
+            - generic [ref=f27e147] [cursor=pointer]:
+              - generic [ref=f27e148]: участковая ветеринарная лечебница "Калининская"
+              - paragraph [ref=f27e150]: ул. 1 Мая, 319
+            - link "+7 (861) 202-97-46" [ref=f27e154] [cursor=pointer]:
+              - /url: tel:+7 (861) 202-97-46
+          - generic [ref=f27e155]:
+            - generic [ref=f27e156] [cursor=pointer]:
+              - generic [ref=f27e157]: участковая ветеринарная лечебница "Центральная"
+              - paragraph [ref=f27e159]: ул. Калинина, 15/1
+            - link "+7 (861) 213-06-53" [ref=f27e163] [cursor=pointer]:
+              - /url: tel:+7 (861) 213-06-53
+          - generic [ref=f27e164]:
+            - generic [ref=f27e165] [cursor=pointer]:
+              - generic [ref=f27e166]: ветеринарный участок "Елизаветинский"
+              - paragraph [ref=f27e168]: ст. Елизаветинская, Северная ул., 289/1
+            - link "+7 (861) 202-96-14" [ref=f27e172] [cursor=pointer]:
+              - /url: tel:+7 (861) 202-96-14
+          - generic [ref=f27e173]:
+            - generic [ref=f27e174] [cursor=pointer]:
+              - generic [ref=f27e175]: участковая ветеринарная лечебница "Старокорсунская"
+              - paragraph [ref=f27e177]: ст. Старокорсунская, Мельничный пер., 3
+            - link "+7 (861) 202-96-82" [ref=f27e181] [cursor=pointer]:
+              - /url: tel:+7 (861) 202-96-82
+    - generic [ref=f27e186]:
+      - generic [ref=f27e187]:
+        - generic [ref=f27e188]: Copyright © 2024 - 2026
+        - generic [ref=f27e190]: Сеть ветеринарных клиник ГБУ "Ветуправление города Краснодара"
+      - link "Политика конфиденциальности" [ref=f27e192] [cursor=pointer]:
+        - /url: /politika-konfidencialnosti
+      - link "Согласие на обработку персональных данных" [ref=f27e197] [cursor=pointer]:
+        - /url: /user-reg/agreement
+      - generic [ref=f27e203]:
+        - text: Этот сайт использует файлы cookie и метаданные. Продолжая просматривать его, Вы выражаете свое согласие на обработку персональных данных с использованием метрической программы Яндекс.Метрика в соответствии с
+        - link "Политикой обработки файлов cookie" [ref=f27e204] [cursor=pointer]:
+          - /url: /politika-obrabotki-fajlov-cookie
+        - generic [ref=f27e205] [cursor=pointer]: Продолжить
+      - generic [ref=f27e206]:
+        - link "Заказ, разработка, создание сайтов в студии Мегагрупп." [ref=f27e209] [cursor=pointer]:
+          - /url: https://megagroup.ru/catalog/design?referer=ag10821
+        - button [ref=f27e210] [cursor=pointer]
+    - generic [ref=f27e214] [cursor=pointer]
+  - iframe [ref=f27e219]

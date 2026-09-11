@@ -1,0 +1,17 @@
+[    1131ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://visor.sberbank.ru/get:0
+[    1239ms] Uncaught (in promise) TypeError: Failed to fetch
+    at st (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:34037)
+    at Q (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:32087)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37780)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:37467)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40023)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40034)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:40040)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:157)
+    at <anonymous> (https://d-assets.2gis.ru/clickstream/cs-0.8.9.js:0:222)
+[    5671ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    5674ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[    5678ms] [WARNING] [WebGL] Generating mipmaps for texture after subImage update @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   12378ms] [WARNING] performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback. @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   13110ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://d-assets.2gis.ru/rarity-3d.94c5df70771ab4f81e1f.js:0
+[   15582ms] [WARNING] The resource https://id.sber.ru/sdk/web/assets/SBSansUI-Regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://2gis.ru/krasnodar/firm/70000001023165431:0

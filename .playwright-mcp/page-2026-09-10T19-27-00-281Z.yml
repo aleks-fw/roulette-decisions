@@ -1,0 +1,476 @@
+- generic [active]:
+  - generic: ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. ............................................................................. .............................................................................
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f11e1]:
+          - generic [ref=f11e2]:
+            - link "Поиск" [ref=f11e7]:
+              - /url: /krasnodar
+            - link "Маршруты" [ref=f11e12]:
+              - /url: /krasnodar/directions
+            - link "Афиша" [ref=f11e17]:
+              - /url: /krasnodar/afisha
+            - link "Друзья" [ref=f11e25]:
+              - /url: /krasnodar/friendsList
+            - link "Гид" [ref=f11e31]:
+              - /url: /krasnodar/guide
+            - link "Жильё" [ref=f11e36]:
+              - /url: /krasnodar/realty
+          - generic [ref=f11e40]:
+            - generic [ref=f11e42] [cursor=pointer]
+            - generic [ref=f11e46] [cursor=pointer]
+          - generic [ref=f11e52]:
+            - generic [ref=f11e58]:
+              - link [ref=f11e60] [cursor=pointer]:
+                - /url: /
+              - generic [ref=f11e65]:
+                - textbox "Поиск в 2ГИС" [ref=f11e66]: Государственные ветеринарные клиники
+                - heading "Государственные ветеринарные клиники" [level=1]
+                - button "Очистить локальное поле поиска" [ref=f11e68] [cursor=pointer]
+            - generic [ref=f11e74]:
+              - banner [ref=f11e76]:
+                - generic [ref=f11e81]:
+                  - button "Фильтры" [ref=f11e83] [cursor=pointer]
+                  - heading [level=2] [ref=f11e91]:
+                    - link "Места 138" [ref=f11e92]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - text: Места
+                      - generic [ref=f11e93]: "138"
+              - generic [ref=f11e95]:
+                - list [ref=f11e109]:
+                  - listitem [ref=f11e110]:
+                    - generic [ref=f11e113]:
+                      - textbox "Сортировка" [ref=f11e114]
+                      - generic [ref=f11e115] [cursor=pointer]
+                  - listitem [ref=f11e116]:
+                    - list [ref=f11e117]:
+                      - listitem [ref=f11e118]:
+                        - generic "С ценами" [ref=f11e119] [cursor=pointer]
+                      - listitem [ref=f11e124]:
+                        - generic "Были друзья" [ref=f11e125] [cursor=pointer]
+                      - listitem [ref=f11e127]:
+                        - generic "На карте" [ref=f11e128] [cursor=pointer]
+                      - listitem [ref=f11e130]:
+                        - generic "С сайтом" [ref=f11e131] [cursor=pointer]
+                      - listitem [ref=f11e133]:
+                        - generic "С фото" [ref=f11e134] [cursor=pointer]
+                      - listitem [ref=f11e136]:
+                        - generic "Расчёт по картам" [ref=f11e137] [cursor=pointer]
+                      - listitem [ref=f11e139]:
+                        - generic "Онлайн-услуги" [ref=f11e140] [cursor=pointer]
+                  - listitem [ref=f11e142]:
+                    - generic [ref=f11e145]:
+                      - textbox "Район" [ref=f11e146]
+                      - generic [ref=f11e147] [cursor=pointer]
+                  - listitem [ref=f11e148]:
+                    - generic [ref=f11e149]:
+                      - heading "Время работы" [level=3] [ref=f11e151]
+                      - list [ref=f11e153]:
+                        - listitem [ref=f11e154]:
+                          - generic "Открыто сейчас" [ref=f11e155] [cursor=pointer]
+                        - listitem [ref=f11e157]:
+                          - generic "Круглосуточно" [ref=f11e158] [cursor=pointer]
+                        - listitem [ref=f11e160]:
+                          - generic "В указанное время" [ref=f11e161] [cursor=pointer]
+                      - generic [ref=f11e163] [cursor=pointer]:
+                        - generic [ref=f11e164]: 22:00
+                        - generic [ref=f11e166]: Чт
+                  - listitem [ref=f11e168]:
+                    - generic [ref=f11e169]:
+                      - heading "Рейтинг" [level=3] [ref=f11e171]
+                      - list [ref=f11e173]:
+                        - listitem [ref=f11e174]:
+                          - generic "от 4,9" [ref=f11e175] [cursor=pointer]
+                        - listitem [ref=f11e180]:
+                          - generic "от 4,5" [ref=f11e181] [cursor=pointer]
+                        - listitem [ref=f11e186]:
+                          - generic "от 4" [ref=f11e187] [cursor=pointer]
+                        - listitem [ref=f11e192]:
+                          - generic "от 3,5" [ref=f11e193] [cursor=pointer]
+                        - listitem [ref=f11e198]:
+                          - generic "от 3" [ref=f11e199] [cursor=pointer]
+                  - listitem [ref=f11e204]:
+                    - generic [ref=f11e205]:
+                      - heading "Ветеринарные услуги" [level=3] [ref=f11e208]
+                      - list [ref=f11e209]:
+                        - listitem [ref=f11e210]:
+                          - generic "Рентген" [ref=f11e211] [cursor=pointer]
+                        - listitem [ref=f11e213]:
+                          - generic "УЗИ" [ref=f11e214] [cursor=pointer]
+                        - listitem [ref=f11e216]:
+                          - generic "МРТ" [ref=f11e217] [cursor=pointer]
+                  - listitem [ref=f11e219]:
+                    - generic [ref=f11e220]:
+                      - heading "Доступная среда" [level=3] [ref=f11e223]
+                      - list [ref=f11e224]:
+                        - listitem [ref=f11e225]:
+                          - generic "Для людей с инвалидностью" [ref=f11e226] [cursor=pointer]
+                - generic [ref=f11e232]:
+                  - generic [ref=f11e234]:
+                    - generic [ref=f11e236] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e238]:
+                        - /url: /n_novgorod/firm/2674540563082816?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiMjY3NDU0MDU2MzA4MjgxNiIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIxOSJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo0My45MzkxOTQsImxhdCI6NTYuMzI5MDU2fSwiaHlicmlkRW50aXRpZXMiOlt7ImlkIjoiMjY3NDY0NzkzMzk0MTg3NiIsInR5cGUiOiJidWlsZGluZyJ9XSwicmVsZXZhbmNlIjozLjg0NzcwMjk1NjI1MDAzMmUtOCwiYWRzU2VhcmNoIjpmYWxzZSwibWFpblJ1YnJpYyI6IjIwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjI2NzQ1NDkxNTAyMDM0MjkiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOnRydWUsInJlc3VsdENsYXNzIjoxLCJwb3NpdGlvbiI6MX19
+                      - generic [ref=f11e243]:
+                        - link "Станция по борьбе с болезнями животных Канавинского района":
+                          - /url: /krasnodar/search/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5%20%D1%81%20%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8F%D0%BC%D0%B8%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0
+                      - generic [ref=f11e245]:
+                        - generic [ref=f11e264]: "3.9"
+                        - generic [ref=f11e265]: 89 оценок
+                      - generic [ref=f11e267]:
+                        - generic [ref=f11e268]: Гордеевская улица, 139Б к2, Нижний Новгород
+                        - generic [ref=f11e269]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e270]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e271]: Закрыто до завтра
+                      - generic [ref=f11e273]:
+                        - generic [ref=f11e274]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e279]:
+                          - generic [ref=f11e280]: Реклама
+                          - generic [ref=f11e281]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e282]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e284]
+                        - link "Перейти на сайт" [ref=f11e288]:
+                          - /url: https://link.2gis.ru/4.2/072922C1/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI2MzkxODA3MS1lYmQ5LTQ0NzUtYjRjNC04NGEyNmNmMDJmZDUiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwNjAsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjMzMjg2NjI3LTVkNDMtNDgwMi04MTk4LWY4Y2I1MDc1ODFiOSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvNzgxQTYwRDYvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS8yNjc0NTQwNTYzMDgyODE2L251bGwva2xmN2R1ODk4NjMwNGQ3STM5MEIxMUozSUgzSGNpenJBdWowMDRkZWQtMzM3OEoyODFKM0oyOTljaGQtNzBCNTg1RzRHMkI5MTc4NTMwQjM4MzhINzRpZkI2ZmY1ZUE4ZDY5MTI1SjdINDU0MDU3NEhINDVKSEpJSEcySTQ0P2h0dHA6Ly9tYXgucnUvaWQ1MjYyMTIyMDkwX2dvcz91dG1fc291cmNlPTJnaXMmdXRtX21lZGl1bT1saW5rJnV0bV9jYW1wYWlnbj1hdXRvX2dlbmVyYXRlZF9jdGEifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjI2NzQ1NDA1NjMwODI4MTYiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTM5MTk0LCJsYXQiOjU2LjMyOTA1Nn0sImh5YnJpZEVudGl0aWVzIjpbeyJpZCI6IjI2NzQ2NDc5MzM5NDE4NzYiLCJ0eXBlIjoiYnVpbGRpbmcifV0sInJlbGV2YW5jZSI6My44NDc3MDI5NTYyNTAwMzJlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjF9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1MWJlNzhlNC1jMTFlLTQ5MDYtYWE3OS1hYjJhY2UxZDRkMDkifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=f11e294] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e296]:
+                        - /url: /n_novgorod/firm/70000001043388117?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDMzODgxMTciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTkzNDU0LCJsYXQiOjU2LjMwMjQ4Nn0sInJlbGV2YW5jZSI6My4xMzQ4NDA2NTM3MjkwNDNlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjJ9fQ%3D%3D
+                      - generic [ref=f11e301]:
+                        - link "Кабинет скорой ветеринарной помощи Нижнего Новгорода":
+                          - /url: /krasnodar/search/%D0%9A%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0
+                      - generic [ref=f11e303]:
+                        - generic [ref=f11e325]: "3.3"
+                        - generic [ref=f11e326]: 73 оценки
+                      - generic [ref=f11e328]:
+                        - generic [ref=f11e329]: Ветеринарная улица, 4, Нижний Новгород
+                        - generic [ref=f11e330]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e331]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e333]:
+                        - generic [ref=f11e334]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e339]:
+                          - generic [ref=f11e340]: Реклама
+                          - generic [ref=f11e341]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e342]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e344]
+                        - link "Перейти на сайт" [ref=f11e348]:
+                          - /url: https://link.2gis.ru/4.2/2B964C7B/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJjYmYzZTAwZi00NGY0LTQ3YzQtODg0Ni1hZmFkMDRhODk5MDIiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwNjUsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjQyOTVkMzA5LTYwMTUtNGI5MS05NzUwLTcyYTQzMWU5Njc5ZCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvM0NFQzlEMzQvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA0MzM4ODExNy9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUg0SjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzMzY5ODMzODc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTVISEk0NkhKSUhHSTJHQWY%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDMzODgxMTciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTkzNDU0LCJsYXQiOjU2LjMwMjQ4Nn0sInJlbGV2YW5jZSI6My4xMzQ4NDA2NTM3MjkwNDNlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjJ9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1MWJlNzhlNC1jMTFlLTQ5MDYtYWE3OS1hYjJhY2UxZDRkMDkifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=f11e354] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e356]:
+                        - /url: /n_novgorod/firm/70000001047576713?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjN9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDc1NzY3MTMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODcwMTE0LCJsYXQiOjU2LjIzNTE2NH0sInJlbGV2YW5jZSI6Mi44OTk1Njc1MTk0MjA5OThlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjN9fQ%3D%3D
+                      - generic [ref=f11e361]:
+                        - link "Государственный ветеринарный кабинет Автозаводского района":
+                          - /url: /krasnodar/search/%E2%80%8B%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0
+                      - generic [ref=f11e363]:
+                        - generic [ref=f11e381]: "4.9"
+                        - generic [ref=f11e382]: 43 оценки
+                      - generic [ref=f11e384]:
+                        - generic [ref=f11e385]: Улица Веденяпина, 8, Нижний Новгород
+                        - generic [ref=f11e386]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e387]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e388]: Закрыто до завтра
+                      - generic [ref=f11e390]:
+                        - generic [ref=f11e391]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e396]:
+                          - generic [ref=f11e397]: Реклама
+                          - generic [ref=f11e398]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e399]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e401]
+                        - link "Перейти на сайт" [ref=f11e405]:
+                          - /url: https://link.2gis.ru/4.2/3956FECA/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI1ODY5YjI1Zi1kZDE1LTQ0ZWYtYjhmNi0xMWVhMDJlN2JhZmEiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwNjgsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImM4YzdlNTBlLTNjYWQtNDM4Yi04Nzc4LTk5ZDQ4N2Y3YjAwYSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvMUFCRDdBMDgvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA0NzU3NjcxMy9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUg1SjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzNzg4NjkzNDc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTVISEk0NkhKSUhHSTJHZzQ%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDc1NzY3MTMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODcwMTE0LCJsYXQiOjU2LjIzNTE2NH0sInJlbGV2YW5jZSI6Mi44OTk1Njc1MTk0MjA5OThlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjN9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1MWJlNzhlNC1jMTFlLTQ5MDYtYWE3OS1hYjJhY2UxZDRkMDkifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=f11e411] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e413]:
+                        - /url: /n_novgorod/firm/70000001066596425?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjR9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY1OTY0MjUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODk2NTI1LCJsYXQiOjU2LjI2MjQ4MX0sInJlbGV2YW5jZSI6Mi43OTU4MzUzODU0MjczODFlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjR9fQ%3D%3D
+                      - generic [ref=f11e418]:
+                        - link "Государственный ветеринарный кабинет Автозаводского района":
+                          - /url: /krasnodar/search/%E2%80%8B%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0
+                      - generic [ref=f11e420]:
+                        - generic [ref=f11e438]: "5"
+                        - generic [ref=f11e439]: 24 оценки
+                      - generic [ref=f11e441]:
+                        - generic [ref=f11e442]: Проспект Бусыгина, 9, Нижний Новгород
+                        - generic [ref=f11e443]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e444]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e445]: Закрыто до завтра
+                      - generic [ref=f11e447]:
+                        - generic [ref=f11e448]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e453]:
+                          - generic [ref=f11e454]: Реклама
+                          - generic [ref=f11e455]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e456]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e458]
+                        - link "Перейти на сайт" [ref=f11e462]:
+                          - /url: https://link.2gis.ru/4.2/D9023B0E/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiIxMGI1MWJhMi04MmMxLTQ0YzctODk4Mi01OWM5YTNjY2M4NzEiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwNzMsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImFmY2E4ZjRkLTg4MTMtNDAyNC1iOGI5LWNhNzExNTNiNjQyYyIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvNkIxMDVDNzgvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA2NjU5NjQyNS9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUg2SjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzNjhBNjY0Njc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTdISEk0NkhKSUhHSTJHZGY%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjY1OTY0MjUiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODk2NTI1LCJsYXQiOjU2LjI2MjQ4MX0sInJlbGV2YW5jZSI6Mi43OTU4MzUzODU0MjczODFlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjR9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1MWJlNzhlNC1jMTFlLTQ5MDYtYWE3OS1hYjJhY2UxZDRkMDkifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=f11e468] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e470]:
+                        - /url: /n_novgorod/firm/70000001064071800?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjV9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjQwNzE4MDAiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODc2Mzc1LCJsYXQiOjU2LjMxNDMwM30sInJlbGV2YW5jZSI6Mi43MTExNjgzNTY0ODM5OTVlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjV9fQ%3D%3D
+                      - generic [ref=f11e475]:
+                        - link "Государственный ветеринарный кабинет Московского района":
+                          - /url: /krasnodar/search/%E2%80%8B%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0
+                      - generic [ref=f11e477]:
+                        - generic [ref=f11e496]: "4.2"
+                        - generic [ref=f11e497]: 32 оценки
+                      - generic [ref=f11e499]:
+                        - generic [ref=f11e500]: Московское шоссе, 185, Нижний Новгород
+                        - generic [ref=f11e501]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e502]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e503]: Закрыто до завтра
+                      - generic [ref=f11e505]:
+                        - generic [ref=f11e506]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e511]:
+                          - generic [ref=f11e512]: Реклама
+                          - generic [ref=f11e513]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e514]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e516]
+                        - link "Перейти на сайт" [ref=f11e520]:
+                          - /url: https://link.2gis.ru/4.2/B5182541/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI5NWRkNjAzOS1hYzYxLTRkNDMtOTM1OC03N2E0YjAwN2U5NGEiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwNzYsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjIzZjY4ZmE2LWEyZjMtNDk5Mi1iMmUyLTk3Y2YzYjhhMWM5MSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvNEI0NzFEQzIvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA2NDA3MTgwMC9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUg3SjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzNDM4MUEyMTc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTdISEk0NkhKSUhHSTJHZWI%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjQwNzE4MDAiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODc2Mzc1LCJsYXQiOjU2LjMxNDMwM30sInJlbGV2YW5jZSI6Mi43MTExNjgzNTY0ODM5OTVlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjV9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1MWJlNzhlNC1jMTFlLTQ5MDYtYWE3OS1hYjJhY2UxZDRkMDkifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=f11e526] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e528]:
+                        - /url: /n_novgorod/firm/70000001054410468?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjZ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNTQ0MTA0NjgiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTc5MjY5LCJsYXQiOjU2LjI2NDQ4NH0sInJlbGV2YW5jZSI6Mi41MDYwMTk1Njk2MzY5MTkyZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMjY3NDU0OTE1MDIwMzQyOSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjEsInBvc2l0aW9uIjo2fX0%3D
+                      - generic [ref=f11e533]:
+                        - link "Ветеринарные клиники":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f11e535]:
+                        - generic [ref=f11e536]: Улица Углова, 1Б к1, Нижний Новгород
+                        - generic [ref=f11e537]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e538]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e539]: Закрыто до завтра
+                      - generic [ref=f11e541]:
+                        - generic [ref=f11e542]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e547]:
+                          - generic [ref=f11e548]: Реклама
+                          - generic [ref=f11e549]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e550]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e552]
+                        - link "Перейти на сайт" [ref=f11e556]:
+                          - /url: https://link.2gis.ru/4.2/22CF6B26/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiIzY2FjZDc0MC05MjExLTQxNjUtYTc1ZS1iMWMzZWYwMDg2NTIiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwNzgsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjMzMGVhZGE2LTRlNWEtNDM5NC05MDcyLTc5NWQ0MGUzZDZiYSIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvQUQ4QTZDQTAvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA1NDQxMDQ2OC9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUg4SjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzNDcyMDY4OTc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTZISEk0NkhKSUhHSTJHN2I%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNTQ0MTA0NjgiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTc5MjY5LCJsYXQiOjU2LjI2NDQ4NH0sInJlbGV2YW5jZSI6Mi41MDYwMTk1Njk2MzY5MTkyZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMjY3NDU0OTE1MDIwMzQyOSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjEsInBvc2l0aW9uIjo2fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNTFiZTc4ZTQtYzExZS00OTA2LWFhNzktYWIyYWNlMWQ0ZDA5In19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NzUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=f11e562] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e564]:
+                        - /url: /n_novgorod/firm/70000001052637318?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjd9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNTI2MzczMTgiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTI0Mzg2LCJsYXQiOjU2LjI4MjA3M30sInJlbGV2YW5jZSI6Mi40OTA0ODAzNTUyNzcyMTM3ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMjY3NDU0OTE1MDIwMzQyOSIsImhhc01vZGVsIjpmYWxzZSwicmVzdWx0Q2xhc3MiOjEsInBvc2l0aW9uIjo3fX0%3D
+                      - generic [ref=f11e569]:
+                        - link "Государственный ветеринарный кабинет Ленинского района":
+                          - /url: /krasnodar/search/%E2%80%8B%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0
+                      - generic [ref=f11e571]:
+                        - generic [ref=f11e590]: "3.8"
+                        - generic [ref=f11e591]: 42 оценки
+                      - generic [ref=f11e593]:
+                        - generic [ref=f11e594]: Проспект Ленина, 45, Нижний Новгород
+                        - generic [ref=f11e595]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e596]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e597]: Закрыто до завтра
+                      - generic [ref=f11e599]:
+                        - generic [ref=f11e600]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e605]:
+                          - generic [ref=f11e606]: Реклама
+                          - generic [ref=f11e607]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e608]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e610]
+                        - link "Перейти на сайт" [ref=f11e614]:
+                          - /url: https://link.2gis.ru/4.2/C8C6DE4B/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJjNjVkYzc4ZC0zNDQyLTRiNjItOTA0Ni1lZTcwYzAwZjM1YmYiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwODAsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjE5MWNmMTAyLTIzNWEtNDY4OC1hZTFlLTIwNjNkMTE1NGYzZiIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvQ0U5OTQzRkIvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA1MjYzNzMxOC9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUg5SjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzMjk0NzUzOTc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTZISEk0NkhKSUhHSTJHZjI%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNTI2MzczMTgiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTI0Mzg2LCJsYXQiOjU2LjI4MjA3M30sInJlbGV2YW5jZSI6Mi40OTA0ODAzNTUyNzcyMTM3ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMjY3NDU0OTE1MDIwMzQyOSIsImhhc01vZGVsIjpmYWxzZSwicmVzdWx0Q2xhc3MiOjEsInBvc2l0aW9uIjo3fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNTFiZTc4ZTQtYzExZS00OTA2LWFhNzktYWIyYWNlMWQ0ZDA5In19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NzUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=f11e620] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e622]:
+                        - /url: /n_novgorod/firm/70000001063377216?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjh9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjMzNzcyMTYiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODE1NjUsImxhdCI6NTYuMzYzMjUzfSwicmVsZXZhbmNlIjoyLjMzNzg3MTk0MDQ4MzE4MjdlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjh9fQ%3D%3D
+                      - generic [ref=f11e627]:
+                        - link "Государственный ветеринарный кабинет Сормовского района":
+                          - /url: /krasnodar/search/%E2%80%8B%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%A1%D0%BE%D1%80%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0
+                      - generic [ref=f11e629]:
+                        - generic [ref=f11e651]: "2.6"
+                        - generic [ref=f11e652]: 6 оценок
+                      - generic [ref=f11e654]:
+                        - generic [ref=f11e655]: Улица Героев Космоса, 52, Нижний Новгород
+                        - generic [ref=f11e656]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e657]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e658]: Закрыто до завтра
+                      - generic [ref=f11e660]:
+                        - generic [ref=f11e661]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e666]:
+                          - generic [ref=f11e667]: Реклама
+                          - generic [ref=f11e668]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e669]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e671]
+                        - link "Перейти на сайт" [ref=f11e675]:
+                          - /url: https://link.2gis.ru/4.2/477643D4/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJmMzQ0ZTg5ZC0yOTgzLTQ0ZTktODg1Yi0yZGJjODZlODYxZjYiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcwODQsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjU2YjJmYTQ0LTFmN2EtNGMzNS1iNGQyLTM5ZDdlNWUwNTc0YyIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvODlGQkE0Mzkvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA2MzM3NzIxNi9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUhBSjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzMzY4NzQzNzc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTdISEk0NkhKSUhHSTJHNGM%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjMzNzcyMTYiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODE1NjUsImxhdCI6NTYuMzYzMjUzfSwicmVsZXZhbmNlIjoyLjMzNzg3MTk0MDQ4MzE4MjdlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiIyNjc0NTQ5MTUwMjAzNDI5IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MSwicG9zaXRpb24iOjh9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6MiwicGFyZW50VGFiSWQiOiI1MWJlNzhlNC1jMTFlLTQ5MDYtYWE3OS1hYjJhY2UxZDRkMDkifX0sImFiVGVzdCI6W3sibmFtZSI6Im1hcmtlcnNSRExhYmVsTWFyZ2luIiwidmFsdWUiOiJSRExhYmVsTWFyZ2luXzIifSx7Im5hbWUiOiJyZWFsdHlEaXN0cmljdHMiLCJ2YWx1ZSI6InJlYWx0eURpc3RyaWN0c0Rpc2FibGVkXzEifSx7Im5hbWUiOiJyZWFsdHlOZXdPZmZlcnMiLCJ2YWx1ZSI6InJlYWx0eU5ld09mZmVyc0VuYWJsZWRfMSJ9LHsibmFtZSI6ImRhc2hib2FyZFJlZGVzaWduIiwidmFsdWUiOiJyZWRlc2lnbkdyb3VwXzEifSx7Im5hbWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaVNlcnZpY2VzQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoiZ3VpZGVNYXJrZXJzIiwidmFsdWUiOiJ3aXRoUGhvdG9zXzEifSx7Im5hbWUiOiJhaVJlY292ZXJ5QWdlbnRFbnRyeVBvaW50IiwidmFsdWUiOiJhaUFnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Im1hcmtlckFuYWx5dGljcyIsInZhbHVlIjoid2l0aEFuYWx5dGljc18xIn1dLCJzY3JlZW5TdGF0ZSI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJzY3JlZW5SZXNvbHV0aW9uIjp7IndpZHRoIjoxNTM2LCJoZWlnaHQiOjg2NH0sIndpbmRvd1Jlc29sdXRpb24iOnsid2lkdGgiOjY1MiwiaGVpZ2h0Ijo3NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d
+                    - generic [ref=f11e681] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа" [ref=f11e683]:
+                        - /url: /n_novgorod/firm/70000001043388070?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjl9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDMzODgwNzAiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTkzNDU0LCJsYXQiOjU2LjMwMjQ4Nn0sInJlbGV2YW5jZSI6Mi4zMjI2MDE0ODg5MTMyNzg0ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMjY3NDU0OTE1MDIwMzQyOSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjEsInBvc2l0aW9uIjo5fX0%3D
+                      - generic [ref=f11e688]:
+                        - link "Противоэпизоотический отряд":
+                          - /url: /krasnodar/search/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%82%D1%80%D1%8F%D0%B4
+                      - generic [ref=f11e690]:
+                        - generic [ref=f11e709]: "2.1"
+                        - generic [ref=f11e710]: 11 оценок
+                      - generic [ref=f11e712]:
+                        - generic [ref=f11e713]: Ветеринарная улица, 4, Нижний Новгород
+                        - generic [ref=f11e714]:
+                          - text: •
+                          - link "17 филиалов" [ref=f11e715]:
+                            - /url: /krasnodar/branches/2674549150203429
+                      - generic [ref=f11e717]:
+                        - generic [ref=f11e718]: Государственная ветеринарная клиника. Круглосуточно к вашим услугам!
+                        - generic [ref=f11e723]:
+                          - generic [ref=f11e724]: Реклама
+                          - generic [ref=f11e725]: • ГБУ Госветуправление ГО г. Н. Новгород
+                          - generic [ref=f11e726]:
+                            - text: •
+                            - generic "Есть противопоказания, проконсультируйтесь с врачом." [ref=f11e728]
+                        - link "Перейти на сайт" [ref=f11e732]:
+                          - /url: https://link.2gis.ru/4.2/BAC8DD0E/aHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiI0ZjhkYWU2Ni1jNGMzLTQ0YjQtODMzOS1lNWRhNGZkOWFjYjAiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcxMTIsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjRjNjhhMzQxLTIyY2ItNGE0My1hMGFjLTVlYmFkMzI3YzJiNCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvMkEzNTRERUMvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTA0MzM4ODA3MC9udWxsL2tsZjdkdTg5ODYzMDRkN0kzOTBCMUhCSjJISTJjaXpyQXVqMDA0ZGVkLTMzNzhKMjgxSjNKNzMyY2hkLTcwQjU4NUc0RzJCOTE3ODUzMzY5ODI5MTc0aWZCNmZmNWVBOGQ2OTEyNUo3SDAwMDAxMTVISEk0NkhKSUhHSTJHYjQ%2FaHR0cDovL21heC5ydS9pZDUyNjIxMjIwOTBfZ29zP3V0bV9zb3VyY2U9MmdpcyZ1dG1fbWVkaXVtPWxpbmsmdXRtX2NhbXBhaWduPWF1dG9fZ2VuZXJhdGVkX2N0YSJ9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNDMzODgwNzAiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuOTkzNDU0LCJsYXQiOjU2LjMwMjQ4Nn0sInJlbGV2YW5jZSI6Mi4zMjI2MDE0ODg5MTMyNzg0ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiMjY3NDU0OTE1MDIwMzQyOSIsImhhc01vZGVsIjpmYWxzZSwicmVsZXZhbmNlRGF0YSI6dHJ1ZSwicmVzdWx0Q2xhc3MiOjEsInBvc2l0aW9uIjo5fSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjIsInBhcmVudFRhYklkIjoiNTFiZTc4ZTQtYzExZS00OTA2LWFhNzktYWIyYWNlMWQ0ZDA5In19LCJhYlRlc3QiOlt7Im5hbWUiOiJtYXJrZXJzUkRMYWJlbE1hcmdpbiIsInZhbHVlIjoiUkRMYWJlbE1hcmdpbl8yIn0seyJuYW1lIjoicmVhbHR5RGlzdHJpY3RzIiwidmFsdWUiOiJyZWFsdHlEaXN0cmljdHNEaXNhYmxlZF8xIn0seyJuYW1lIjoicmVhbHR5TmV3T2ZmZXJzIiwidmFsdWUiOiJyZWFsdHlOZXdPZmZlcnNFbmFibGVkXzEifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8xIn0seyJuYW1lIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlTZXJ2aWNlc0FnZW50RW50cnlQb2ludEVuYWJsZWRfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18xIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMSJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTUzNiwiaGVpZ2h0Ijo4NjR9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NzUwfX0sInVzZXJTZXR0aW5ncyI6eyJtYXAiOnsiZWZmZWN0c0xldmVsIjoiZGVmYXVsdCIsIjNkTWFwIjp0cnVlfX19XQ%3D%3D
+                    - generic [ref=f11e738] [cursor=pointer]:
+                      - link "Верный друг" [ref=f11e740]:
+                        - /url: /arzamas/firm/70000001052950890?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjEwfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1MTY1NDI0MzQzNDAxMDg4MCIsImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDUyOTUwODkwIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjE5In19LCJiZXN0S2V5d29yZCI6ItCS0LXRgtC10YDQuNC90LDRgNC90YvQtSDQutC70LjQvdC40LrQuCIsImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuODE0NjI0LCJsYXQiOjU1LjM4MzQwN30sInJlbGV2YW5jZSI6Mi4yNjMzOTMzODM4Mjc4NjA4ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwNTI5NTA4ODkiLCJjb250ZXh0UnVicmljIjoiMjA1IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjp0cnVlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjEwfX0%3D
+                      - generic [ref=f11e745]:
+                        - link "Государственный ветеринарный кабинет":
+                          - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82
+                      - generic [ref=f11e747]:
+                        - generic [ref=f11e765]: "5"
+                        - generic [ref=f11e766]: 2 оценки
+                      - generic [ref=f11e767]: Улица Ленина, 18, Арзамас, Нижегородская область
+                      - generic [ref=f11e768]: Ветеринарные клиники
+                      - generic [ref=f11e770]: Закрыто до завтра
+                    - generic [ref=f11e772] [cursor=pointer]:
+                      - link "Госветуправление Балахнинского муниципального округа" [ref=f11e774]:
+                        - /url: /balahna/firm/70000001080562083?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjExfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI1NTQyNzYwOTYyMzE2MzY0OCIsImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDgwNTYyMDgzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9SVSIsInNlZ21lbnRJZCI6IjE5In19LCJiZXN0S2V5d29yZCI6ItCS0LXRgtC10YDQuNC90LDRgNC90YvQtSDQutC70LjQvdC40LrQuCIsImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuNTUyNDc4LCJsYXQiOjU2LjUyNjM3NX0sInJlbGV2YW5jZSI6MS43ODUxOTYzNDYzMDQ0NzRlLTgsImFkc1NlYXJjaCI6ZmFsc2UsIm1haW5SdWJyaWMiOiIyMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTA4MDU2MjA4MiIsImNvbnRleHRSdWJyaWMiOiIyMDUiLCJoYXNNb2RlbCI6ZmFsc2UsInJlbGV2YW5jZURhdGEiOmZhbHNlLCJyZXN1bHRDbGFzcyI6MiwicG9zaXRpb24iOjExfX0%3D
+                      - generic [ref=f11e776]:
+                        - link "Государственный ветеринарный кабинет":
+                          - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82
+                      - generic [ref=f11e777]: Проспект Дзержинского, 44, Балахна, Нижегородская область
+                      - generic [ref=f11e778]: Ветеринарные клиники
+                      - generic [ref=f11e780]: Закрыто до завтра
+                      - generic [ref=f11e782]:
+                        - generic [ref=f11e783]: Не уходите со страницы без бонуса
+                        - generic [ref=f11e786]:
+                          - generic [ref=f11e787]: Реклама
+                          - generic [ref=f11e788]:
+                            - text: •
+                            - generic "ООО «Платформа»." [ref=f11e790]
+                        - link [ref=f11e794]:
+                          - /url: https://link.2gis.ru/4.2/B2F3ED30/aHR0cHM6Ly9nby5jaGVja3NjYW4ucnUvZ28vOTVjNDRhM2UwY2RhMmRlNApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMDktMDktMDkiLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9SVSIsInVzZXIiOiIzOGNmNDljNS03ZDMwLTRiMGUtOWNlMy1hNmNiN2RiMzkxMDMiLCJpcCI6IjE5NS4xOC4xOC45MSIsInNlc3Npb25JZCI6IjBhMzA5ODM5LTZkNTMtNDg1YS04ODQ2LTRkODQxMjRjZWE0YSIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiJiMGU2NDFlNi1mNTkwLTQ0MTUtYWI3Ny1iMmQ2YjU0MTNmMWMiLCJ0aW1lc3RhbXAiOjE3ODkwNjg0MTcxMTQsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6IjNlOTAwMTA2LWVkZTktNDg0ZS1iZDM2LThjMTFmYTZiYmUxNyIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoicGxhY2VDYXJkTWluaSIsImZyYW1lVXVpZCI6IjkwOWY0YzYxLTJjYmQtNDEyNi1hMTdhLWMwMzlkNzkzYzZmYyJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvOUZBMkI1QjIvb25saW5lLzIwMjYwOTAxL3Byb2plY3QxOS83MDAwMDAwMTExMzA5NTcyMC9udWxsL2Y3ZHU4NzRpZkE4ZDY1ODVHNDIwMDAxMTI0MDkzSkdKR0ozSWNpenJBdWprbDg2MzA0ZGY1ZTM5MEIxOTEyNUkzMjZIM0lJSkIwMDRkZWQtOUI5MTc4NTM3SUo3SEc0SUEwMzA0MEIwNzY1MEI2ZmNoZC03MEcyMzM3OEoyOEM2NzQySDFKNDM2STgwMjIwMTg5P2h0dHBzOi8vZ28uY2hlY2tzY2FuLnJ1L2dvLzk1YzQ0YTNlMGNkYTJkZTQiLCJjb250ZW50T3duZXIiOnsib3JnIjoiNzAwMDAwMDExMTMwOTU3MTkiLCJhZHNQb3NpdGlvbiI6ImJ1eUhlcmUiLCJhZHNJZCI6IjEyNTU0Mjc2MDk2MjMxNjM2NDgifX0sInBsYWNlSXRlbSI6eyJhZHNJZCI6IjEyNTU0Mjc2MDk2MjMxNjM2NDgiLCJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA4MDU2MjA4MyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfUlUiLCJzZWdtZW50SWQiOiIxOSJ9fSwiYmVzdEtleXdvcmQiOiLQktC10YLQtdGA0LjQvdCw0YDQvdGL0LUg0LrQu9C40L3QuNC60LgiLCJnZW9Qb3NpdGlvbiI6eyJsb24iOjQzLjU1MjQ3OCwibGF0Ijo1Ni41MjYzNzV9LCJyZWxldmFuY2UiOjEuNzg1MTk2MzQ2MzA0NDc0ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwODA1NjIwODIiLCJjb250ZXh0UnVicmljIjoiMjA1IiwiaGFzTW9kZWwiOmZhbHNlLCJyZWxldmFuY2VEYXRhIjpmYWxzZSwicmVzdWx0Q2xhc3MiOjIsInBvc2l0aW9uIjoxMX0sImV4dGVybmFsTGluayI6eyJmb3JrRXZlbnRPcmRpbmFsIjoyLCJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSJ9fSwiYWJUZXN0IjpbeyJuYW1lIjoibWFya2Vyc1JETGFiZWxNYXJnaW4iLCJ2YWx1ZSI6IlJETGFiZWxNYXJnaW5fMiJ9LHsibmFtZSI6InJlYWx0eURpc3RyaWN0cyIsInZhbHVlIjoicmVhbHR5RGlzdHJpY3RzRGlzYWJsZWRfMSJ9LHsibmFtZSI6InJlYWx0eU5ld09mZmVycyIsInZhbHVlIjoicmVhbHR5TmV3T2ZmZXJzRW5hYmxlZF8xIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMSJ9LHsibmFtZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpU2VydmljZXNBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMSJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8xIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzEifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0fSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjc1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D
+                          - generic [ref=f11e795]:
+                            - img "Логотип" [ref=f11e798]
+                            - text: Получить кешбэк 750 ₽
+                    - generic [ref=f11e800] [cursor=pointer]:
+                      - link "Государственное ветеринарное управление городского округа г. Дзержинск" [ref=f11e802]:
+                        - /url: /dzerzhinsk/firm/2674540563318400?stat=eyJwYXJlbnRUYWJJZCI6IjUxYmU3OGU0LWMxMWUtNDkwNi1hYTc5LWFiMmFjZTFkNGQwOSIsImZvcmtFdmVudE9yZGluYWwiOjIsInVpRWxlbWVudCI6eyJuYW1lIjoicGxhY2VDYXJkTWluaSIsIm93bmVyTmFtZSI6InNlYXJjaFJlc3VsdHNMaXN0IiwicG9zaXRpb24iOjEyfSwicGxhY2VJdGVtIjp7ImFkc0lkIjoiMTI0OTI0NDgzOTcwNzgwMjYyNCIsImVudGl0eSI6eyJpZCI6IjI2NzQ1NDA1NjMzMTg0MDAiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X1JVIiwic2VnbWVudElkIjoiMTkifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NDMuNDE5ODIzLCJsYXQiOjU2LjI0OTg5Mn0sImh5YnJpZEVudGl0aWVzIjpbeyJpZCI6IjI2NzQ2NDc5MzM5NjE1NTAiLCJ0eXBlIjoiYnVpbGRpbmcifV0sInJlbGV2YW5jZSI6MS4wNDg2Mjc5NDAwMzY3OTQ4ZS04LCJhZHNTZWFyY2giOmZhbHNlLCJtYWluUnVicmljIjoiMjA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDEwMjcxMTM4NjAiLCJoYXNNb2RlbCI6ZmFsc2UsInJlc3VsdENsYXNzIjoxLCJwb3NpdGlvbiI6MTJ9fQ%3D%3D
+                      - generic [ref=f11e804]:
+                        - link "Ветеринарные клиники":
+                          - /url: /krasnodar/search/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8
+                      - generic [ref=f11e806]:
+                        - generic [ref=f11e828]: "3.3"
+                        - generic [ref=f11e829]: 25 оценок
+                      - generic [ref=f11e831]:
+                        - generic [ref=f11e832]: Красноармейская улица, 21а к2, Дзержинск, Нижегородская область
+                        - generic [ref=f11e833]:
+                          - text: •
+                          - link "3 филиала" [ref=f11e834]:
+                            - /url: /krasnodar/branches/70000001027113860
+                      - generic [ref=f11e835]: Закрыто до завтра
+                  - generic [ref=f11e837]:
+                    - generic [ref=f11e838]: "1"
+                    - link "2" [ref=f11e839] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/page/2
+                    - link "3" [ref=f11e840] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/page/3
+                    - link "4" [ref=f11e841] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/page/4
+                    - link "5" [ref=f11e842] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/page/5
+                    - link "6" [ref=f11e843] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/page/6
+                    - link "7" [ref=f11e844] [cursor=pointer]:
+                      - /url: /krasnodar/search/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/page/7
+                  - generic [ref=f11e852]: Результаты поиска по запросу Государственные ветеринарные клиники на карте в Краснодаре.
+        - generic:
+          - generic [ref=f11e862]:
+            - generic:
+              - generic [ref=f11e866] [cursor=pointer]
+              - generic [ref=f11e872]: Ветклиника
+              - generic [ref=f11e879] [cursor=pointer]
+              - generic [ref=f11e883] [cursor=pointer]
+              - generic [ref=f11e887] [cursor=pointer]
+              - generic [ref=f11e891] [cursor=pointer]
+              - generic [ref=f11e895] [cursor=pointer]
+              - generic [ref=f11e897]: Верный друг
+              - generic [ref=f11e904] [cursor=pointer]
+              - generic [ref=f11e906]: Ветеринар
+              - generic [ref=f11e913] [cursor=pointer]
+              - generic [ref=f11e917] [cursor=pointer]
+          - generic [ref=f11e919]:
+            - link [ref=f11e920] [cursor=pointer]:
+              - /url: https://dev.2gis.ru
+            - link "Лицензионное соглашение" [ref=f11e924] [cursor=pointer]:
+              - /url: http://law.2gis.ru/licensing-agreement/?utm_medium=map-footer&utm_campaign=2gis5
+            - text: ","
+            - link "политика конфиденциальности" [ref=f11e925] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy?utm_medium=map-footer&utm_campaign=2gis5
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link "Премия 2ГИС 2026" [ref=f11e928] [cursor=pointer]:
+                    - /url: /krasnodar/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1%202026
+                  - navigation [ref=f11e933] [cursor=pointer]:
+                    - list [ref=f11e934]:
+                      - listitem [ref=f11e935]:
+                        - link [ref=f11e936]:
+                          - /url: /krasnodar/realty
+                      - listitem [ref=f11e940]:
+                        - button [ref=f11e941]
+                      - listitem [ref=f11e948]:
+                        - button [ref=f11e949]
+                      - listitem [ref=f11e954]:
+                        - button [ref=f11e955]
+                      - listitem [ref=f11e959]:
+                        - button [ref=f11e960]
+                  - link [ref=f11e965] [cursor=pointer]:
+                    - /url: /krasnodar?traffic
+                    - button "Пробки" [ref=f11e966]: "1"
+                  - generic [ref=f11e967]: Войти
+            - generic [ref=f11e975]:
+              - generic [ref=f11e977]:
+                - button "Линейка" [ref=f11e980] [cursor=pointer]
+                - generic "Моё местоположение" [ref=f11e984]:
+                  - button [ref=f11e985] [cursor=pointer]
+                - generic [ref=f11e990]:
+                  - button "Изменить масштаб" [ref=f11e991] [cursor=pointer]
+                  - button "Изменить масштаб" [ref=f11e994] [cursor=pointer]
+              - generic [ref=f11e998]:
+                - generic [ref=f11e1006] [cursor=pointer]
+                - generic [ref=f11e1019] [cursor=pointer]
+              - button "Включи иммерсивные дороги и освещение" [ref=f11e1022] [cursor=pointer]
+            - generic:
+              - button "Поделиться" [ref=f11e1027] [cursor=pointer]
+              - generic [ref=f11e1030]: Обратная связь
+          - generic [ref=f11e1037] [cursor=pointer]
+          - button "Меню" [ref=f11e1038] [cursor=pointer]
+        - generic [ref=f11e1044]:
+          - generic [ref=f11e1045]: 🍪
+          - generic [ref=f11e1046]:
+            - text: Используем
+            - link "cookies" [ref=f11e1047] [cursor=pointer]:
+              - /url: https://law.2gis.ru/privacy/cookie
+            - text: и
+            - link "рекомендательные технологии" [ref=f11e1048] [cursor=pointer]:
+              - /url: https://law.2gis.ru/recommendation-services
+          - generic [ref=f11e1049] [cursor=pointer]
