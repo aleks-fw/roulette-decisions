@@ -1,0 +1,166 @@
+- generic [ref=e4]:
+  - generic:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7]: До 12.5 млн токенов на тест ИИ-агента
+        - button "Попробовать" [ref=e9] [cursor=pointer]
+      - generic [ref=e11] [cursor=pointer]
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19] [cursor=pointer]
+        - link [ref=e23] [cursor=pointer]:
+          - /url: /
+      - heading "Вход / Регистрация" [level=5] [ref=e29]:
+        - link "Вход" [ref=e30] [cursor=pointer]:
+          - /url: /my
+        - generic [ref=e31]: /
+        - generic [ref=e32] [cursor=pointer]: Регистрация
+  - contentinfo [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - link [ref=e44] [cursor=pointer]:
+          - /url: https://github.com/timeweb-cloud
+        - link [ref=e48] [cursor=pointer]:
+          - /url: https://telegram.me/timewebru
+        - link [ref=e53] [cursor=pointer]:
+          - /url: https://vk.com/timeweb
+        - link [ref=e57] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCTSnrzx_YKQOzTR1Y6OxxSQ?sub_confirmation=1
+        - link [ref=e61] [cursor=pointer]:
+          - /url: https://habr.com/ru/company/timeweb/profile/
+        - link [ref=e65] [cursor=pointer]:
+          - /url: https://vc.ru/id66957
+        - link [ref=e73] [cursor=pointer]:
+          - /url: https://dzen.ru/timewebcloud
+        - link [ref=e77] [cursor=pointer]:
+          - /url: https://pikabu.ru/@Timeweb.Cloud
+        - link [ref=e81] [cursor=pointer]:
+          - /url: https://tenchat.ru/timewebcloud
+      - button "Подписаться на рассылку" [ref=e86] [cursor=pointer]
+    - generic [ref=e89]:
+      - generic [ref=e91]:
+        - link [ref=e92] [cursor=pointer]:
+          - /url: /sales
+        - link [ref=e99] [cursor=pointer]:
+          - /url: tel:+78007003292
+        - link [ref=e105] [cursor=pointer]:
+          - /url: https://telegram.me/twcloud_chat
+        - button "Подписаться на рассылку" [ref=e112] [cursor=pointer]
+      - generic [ref=e115]:
+        - generic [ref=e117]:
+          - heading "Сервисы" [level=5] [ref=e119] [cursor=pointer]
+          - generic [ref=e120]:
+            - link "Облачные серверы" [ref=e121] [cursor=pointer]:
+              - /url: /services/cloud-servers
+            - link "VDS и VPS" [ref=e122] [cursor=pointer]:
+              - /url: /services/vds-vps
+            - link "Выделенные серверы" [ref=e123] [cursor=pointer]:
+              - /url: /services/dedicated-server
+            - link "Облачные базы данных" [ref=e124] [cursor=pointer]:
+              - /url: /services/dbaas
+            - link "Kubernetes" [ref=e125] [cursor=pointer]:
+              - /url: /services/k8s
+            - link "Балансировщики" [ref=e126] [cursor=pointer]:
+              - /url: /services/load-balancer
+            - link "Объектное хранилище S3" [ref=e127] [cursor=pointer]:
+              - /url: /services/s3-storage
+            - link "Защита от DDoS" [ref=e128] [cursor=pointer]:
+              - /url: /services/ddos
+            - link "Маркетплейс" [ref=e129] [cursor=pointer]:
+              - /url: /marketplace
+            - link "Все сервисы" [ref=e130] [cursor=pointer]:
+              - /url: /services
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - heading "Решения" [level=5] [ref=e134] [cursor=pointer]
+            - generic [ref=e135]:
+              - link "Соответствие 152-ФЗ" [ref=e136] [cursor=pointer]:
+                - /url: /solutions/152fz
+              - link "Миграция в облако" [ref=e137] [cursor=pointer]:
+                - /url: /solutions/cloud-migration
+              - link "Корпоративная почта" [ref=e138] [cursor=pointer]:
+                - /url: /solutions/mail
+              - link "Все решения" [ref=e139] [cursor=pointer]:
+                - /url: /solutions
+          - generic [ref=e140]:
+            - heading "Инструменты" [level=5] [ref=e142] [cursor=pointer]
+            - generic [ref=e143]:
+              - link "API" [ref=e144] [cursor=pointer]:
+                - /url: /api-docs
+              - link "CLI" [ref=e145] [cursor=pointer]:
+                - /url: /docs/twc-cli
+              - link "Terraform" [ref=e146] [cursor=pointer]:
+                - /url: /docs/terraform
+              - link "Cloud-init" [ref=e147] [cursor=pointer]:
+                - /url: /docs/cloud-servers/manage-servers/cloud-init
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - heading "Партнерам" [level=5] [ref=e151] [cursor=pointer]
+            - generic [ref=e152]:
+              - link "Программа реселлинга" [ref=e153] [cursor=pointer]:
+                - /url: /partners/reseller
+              - link "Все программы" [ref=e154] [cursor=pointer]:
+                - /url: /partners
+          - generic [ref=e155]:
+            - heading "Поддержка" [level=5] [ref=e157] [cursor=pointer]
+            - generic [ref=e158]:
+              - link "Бухгалтерам" [ref=e159] [cursor=pointer]:
+                - /url: https://timeweb.com/ru/documents/
+              - link "Документы" [ref=e160] [cursor=pointer]:
+                - /url: /records
+              - link "Техподдержка" [ref=e161] [cursor=pointer]:
+                - /url: /my/support/help-question
+              - link "Документация" [ref=e162] [cursor=pointer]:
+                - /url: /docs
+              - link "FAQ" [ref=e163] [cursor=pointer]:
+                - /url: /faq
+              - link "Предложить идею" [ref=e164] [cursor=pointer]:
+                - /url: /my/ideas
+              - link "Карта сайта" [ref=e165] [cursor=pointer]:
+                - /url: /sitemap
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - heading "Компания" [level=5] [ref=e169] [cursor=pointer]
+            - generic [ref=e170]:
+              - link "О нас" [ref=e171] [cursor=pointer]:
+                - /url: /about
+              - link "Гранты" [ref=e172] [cursor=pointer]:
+                - /url: /grant
+              - link "Кейсы" [ref=e173] [cursor=pointer]:
+                - /url: /success-story
+              - link "Мероприятия" [ref=e174] [cursor=pointer]:
+                - /url: /events
+              - link "Блог" [ref=e175] [cursor=pointer]:
+                - /url: /blog
+              - link "Стать автором" [ref=e176] [cursor=pointer]:
+                - /url: /blog/pishi-pomogaj-poluchaj-dengi-prihodite-k-nam-pisat-gajdy-po-devopsu-i-razrabotke
+              - link "Отзывы" [ref=e177] [cursor=pointer]:
+                - /url: /reviews
+          - generic [ref=e178]:
+            - heading "Контакты" [level=5] [ref=e180] [cursor=pointer]
+            - generic [ref=e181]:
+              - link "Отдел продаж" [ref=e182] [cursor=pointer]:
+                - /url: /sales
+              - link "Пригласить на тендер" [ref=e183] [cursor=pointer]:
+                - /url: "#"
+              - link "Контакты" [ref=e184] [cursor=pointer]:
+                - /url: /contacts
+    - generic [ref=e185]:
+      - generic [ref=e186]:
+        - link [ref=e187] [cursor=pointer]:
+          - /url: https://reestr.digital.gov.ru/reestr/1182621/
+        - generic [ref=e216]:
+          - 'link "Рейтинг провайдеров IaaS 2024: 6 место" [ref=e217] [cursor=pointer]':
+            - /url: https://www.cnews.ru/reviews/rejting_provajderov_iaas_enterprise_2024/review_table/f8416a38f3e27d69c005f7be8c1220363676bbf6
+          - 'link "Лучший SLA IaaS 2023: 6 место" [ref=e218] [cursor=pointer]':
+            - /url: https://www.cnews.ru/reviews/sla_iaas2023/review_table/afb390f3c6232ae351d06c8ea5fe26857293a275
+          - 'link "Рейтинг провайдеров DBaaS 2026: 4 место" [ref=e219] [cursor=pointer]':
+            - /url: https://www.cnews.ru/reviews/provajdery_oblachnyh_baz_dannyh_dbaas/review_table/f5b156cc74767070346095dd895313097533bba8
+      - generic [ref=e220]:
+        - text: © 2026 ООО «ТАЙМВЭБ.КЛАУД». Все права защищены.
+        - link "Политика ООО «ТАЙМВЭБ.КЛАУД» в отношении обработки персональных данных." [ref=e222] [cursor=pointer]:
+          - /url: https://s3.twcstorage.ru/tw-cloud-static/legal-info/personal-data-policy.pdf
+        - generic [ref=e223]:
+          - text: ПО "Платформа "ТАЙМВЭБ.КЛАУД" включено в Единый реестр российских программ для электронных вычислительных машин и баз данных.
+          - link "Запись в реестре №15725 от 05.12.2022 г." [ref=e224] [cursor=pointer]:
+            - /url: https://reestr.digital.gov.ru/reestr/1182621/

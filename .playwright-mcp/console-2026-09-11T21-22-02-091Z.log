@@ -1,0 +1,31 @@
+[     592ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://timeweb.cloud/api-docs:0
+[    6254ms] [LOG] 
+%c                                                                     
+%c  ████████╗██╗███╗   ███╗███████╗██╗    ██╗███████╗██████╗   %c██╗     
+%c  ╚══██╔══╝██║████╗ ████║██╔════╝██║    ██║██╔════╝██╔══██╗  %c╚██╗    
+%c     ██║   ██║██╔████╔██║█████╗  ██║ █╗ ██║█████╗  ██████╔╝  %c ╚██╗   
+%c     ██║   ██║██║╚██╔╝██║██╔══╝  ██║███╗██║██╔══╝  ██╔══██╗  %c ██╔╝   
+%c     ██║   ██║██║ ╚═╝ ██║███████╗╚███╔███╔╝███████╗██████╔╝  %c██╔╝    
+%c     ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝╚═════╝   %c╚═╝     
+%c                                                                     
+%c   ██████╗██╗      ██████╗ ██╗   ██╗██████╗                          
+%c  ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗                         
+%c  ██║     ██║     ██║   ██║██║   ██║██║  ██║                         
+%c  ██║     ██║     ██║   ██║██║   ██║██║  ██║                         
+%c  ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝                         
+%c   ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝                          
+%c
+Приходи в нашу команду! https://timeweb.com/ru/team/
+ background-color: #26325c; color: #fff; background-color: #26325c; color: #454cee; background-color: #26325c; color: #fff; background-color: #26325c; color: #454cee; background-color: #26325c; color: #fff; background-color: #26325c; color: #454cee; background-color: #26325c; color: #fff; background-color: #26325c; color: #454cee; background-color: #26325c; color: #fff; background-color: #26325c; color: #454cee; background-color: #26325c; color: #fff; background-color: #26325c; color: #454cee; background-color: #26325c; background-color: #26325c; color: #454cee; background-color: #26325c; color: #454cee; background-color: #26325c; color: #454cee; background-color: #26325c; color: #454cee; background-color: #26325c; color: #454cee; background-color: #26325c; color: #454cee; background-color: #26325c; background-color: initial; color: initial; @ https://timeweb.cloud/ascii.js:42
+[    6912ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://mc.yandex.ru/metrika/tag.js:238
+[    6915ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://mc.yandex.ru/metrika/tag.js:238
+[    7197ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://timeweb.cloud/_nuxt/t0YJt_sC.js:3
+[    7199ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://timeweb.cloud/_nuxt/t0YJt_sC.js:3
+[    7364ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://timeweb.cloud/_nuxt/t0YJt_sC.js:3
+[   11422ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' contains 'worker-src' as a source expression. Did you want to add it as a directive and forget a semicolon? @ https://mc.yandex.ru/metrika/tag.js:238
+[   11856ms] [ERROR] Hydration completed but contains mismatches. @ https://timeweb.cloud/_nuxt/BnUlpzTb.js:0
+[   12944ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://hdrc.yandex.net/:0
+[   12962ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://mdd.yandex.net/:0
+[   13246ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api.timeweb.cloud/api/v1/auth/update-token:0
+[   37028ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://sentry.timeweb.cloud/api/127/envelope/?sentry_version=7&sentry_key=f3dc3c5f8c444bae870c73b7386b9ec1&sentry_client=sentry.javascript.nuxt%2F10.32.1:0
+[   62361ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://sentry.timeweb.cloud/api/127/envelope/?sentry_version=7&sentry_key=f3dc3c5f8c444bae870c73b7386b9ec1&sentry_client=sentry.javascript.nuxt%2F10.32.1:0
