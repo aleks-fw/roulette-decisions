@@ -1,0 +1,100 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - link "Анна Светлова" [ref=f2e4] [cursor=pointer]:
+        - /url: "#top"
+      - navigation [ref=f2e5]:
+        - link "Чем помогаю" [ref=f2e6] [cursor=pointer]:
+          - /url: "#help"
+        - link "Как проходит работа" [ref=f2e7] [cursor=pointer]:
+          - /url: "#process"
+        - link "Формат и стоимость" [ref=f2e8] [cursor=pointer]:
+          - /url: "#pricing"
+        - link "Отзывы" [ref=f2e9] [cursor=pointer]:
+          - /url: "#reviews"
+      - button "Записаться на консультацию" [ref=f2e10]
+  - main [ref=f2e11]:
+    - generic [ref=f2e13]:
+      - generic [ref=f2e14]:
+        - heading "Разобраться в отношениях, не теряя близости" [level=1] [ref=f2e15]
+        - paragraph [ref=f2e16]: Индивидуальные и семейные консультации для тех, кто хочет пройти трудный период вместе, а не поодиночке.
+        - button "Записаться на консультацию" [ref=f2e17]
+      - img "Тёплый разговор в семье" [ref=f2e19]
+    - generic [ref=f2e21]:
+      - heading "С чем я работаю" [level=2] [ref=f2e22]
+      - generic [ref=f2e23]:
+        - article [ref=f2e24]:
+          - img "Пара разговаривает" [ref=f2e25]
+          - generic [ref=f2e26]:
+            - heading "Конфликты в паре" [level=3] [ref=f2e27]
+            - paragraph [ref=f2e28]: Повторяющиеся ссоры, обиды, которые копятся и не находят выхода.
+        - article [ref=f2e29]:
+          - heading "Отношения теряют тепло" [level=3] [ref=f2e30]
+          - paragraph [ref=f2e31]: Когда близость постепенно уходит, а разговоры сводятся к бытовым делам.
+        - article [ref=f2e32]:
+          - heading "Кризисы" [level=3] [ref=f2e33]
+          - paragraph [ref=f2e34]: "Развод, переезд, рождение ребёнка, потеря: моменты, которые меняют семью."
+        - article [ref=f2e35]:
+          - heading "Сложности в общении" [level=3] [ref=f2e36]
+          - paragraph [ref=f2e37]: Когда близкие люди перестают слышать друг друга и разговор превращается в спор.
+    - generic [ref=f2e39]:
+      - heading "Как проходит работа" [level=2] [ref=f2e40]
+      - generic [ref=f2e41]:
+        - generic [ref=f2e42]:
+          - generic [ref=f2e43]: "01"
+          - heading "Знакомство" [level=3] [ref=f2e44]
+          - paragraph [ref=f2e45]: Первая встреча, на которой мы знакомимся, и вы рассказываете, что привело вас на консультацию.
+        - generic [ref=f2e46]:
+          - generic [ref=f2e47]: "02"
+          - heading "Обсуждение ситуации" [level=3] [ref=f2e48]
+          - paragraph [ref=f2e49]: Разбираем, как именно устроен конфликт или кризис, и что стоит за трудностями в общении.
+        - generic [ref=f2e50]:
+          - generic [ref=f2e51]: "03"
+          - heading "Работа над проблемой" [level=3] [ref=f2e52]
+          - paragraph [ref=f2e53]: Двигаемся к изменениям постепенно, шаг за шагом, в комфортном для вас темпе.
+    - generic [ref=f2e55]:
+      - img "Спокойная атмосфера работы с текстом" [ref=f2e57]
+      - generic [ref=f2e58]:
+        - heading "О специалисте" [level=2] [ref=f2e59]
+        - paragraph [ref=f2e60]: Меня зовут Анна Светлова, я семейный психолог с восьмилетней практикой. Работаю с парами и семьями, которые проходят через конфликты, кризисы и периоды отдаления.
+        - paragraph [ref=f2e61]: "В работе сочетаю системную семейную терапию и когнитивно-поведенческий подход: смотрю не только на то, что происходит между вами сейчас, но и на то, откуда берутся привычные способы реагировать друг на друга."
+    - generic [ref=f2e63]:
+      - heading "Формат и стоимость" [level=2] [ref=f2e64]
+      - generic [ref=f2e65]:
+        - article [ref=f2e66]:
+          - heading "Индивидуальная консультация" [level=3] [ref=f2e67]
+          - paragraph [ref=f2e68]: Личная встреча один на один, если хочется разобраться в своей роли в отношениях или пережить трудный период.
+          - generic [ref=f2e69]:
+            - generic [ref=f2e70]: 60 минут
+            - generic [ref=f2e71]:
+              - text: 3 200 ₽
+              - emphasis [ref=f2e72]: демо-цена
+        - article [ref=f2e73]:
+          - heading "Семейная консультация" [level=3] [ref=f2e74]
+          - paragraph [ref=f2e75]: Встреча для пары или семьи целиком, когда важно услышать друг друга в присутствии третьей стороны.
+          - generic [ref=f2e76]:
+            - generic [ref=f2e77]: 90 минут
+            - generic [ref=f2e78]:
+              - text: 4 800 ₽
+              - emphasis [ref=f2e79]: демо-цена
+    - generic [ref=f2e81]:
+      - heading "Отзывы" [level=2] [ref=f2e82]
+      - generic [ref=f2e83]:
+        - blockquote [ref=f2e84]:
+          - paragraph [ref=f2e85]: Мы с мужем были на грани развода. После нескольких встреч начали снова разговаривать, а не только выяснять, кто виноват.
+          - text: Марина и Олег, в браке 9 лет
+        - blockquote [ref=f2e86]:
+          - paragraph [ref=f2e87]: Помогло понять, что мои реакции на детей связаны не с ними, а с моей собственной усталостью. Стало легче дома.
+          - text: Светлана, мама двоих детей
+        - blockquote [ref=f2e88]:
+          - paragraph [ref=f2e89]: Пошёл на консультации после развода, чтобы не срываться на ребёнка. Разговор с Анной расставил многое по местам.
+          - text: Денис, 41 год
+    - generic [ref=f2e91]:
+      - heading "Хотите разобраться в ситуации?" [level=2] [ref=f2e92]
+      - paragraph [ref=f2e93]: Запишитесь на консультацию, и мы вместе найдём, с чего начать.
+      - button "Записаться на консультацию" [ref=f2e94]
+  - contentinfo [ref=f2e95]:
+    - generic [ref=f2e96]:
+      - generic [ref=f2e97]: Анна Светлова, семейный психолог
+      - generic [ref=f2e98]: demo@annasvetlova.example · +7 (900) 000-00-00
+      - generic [ref=f2e99]: Демонстрационный проект для портфолио. Не является публичной офертой.
