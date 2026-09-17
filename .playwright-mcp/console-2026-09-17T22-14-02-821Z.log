@@ -1,0 +1,10 @@
+[    2008ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/catalog/__next.catalog.__PAGE__.txt?_rsc=xAGq0MVd7wQqVE8E:0
+[    2370ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/cart/__next.cart.__PAGE__.txt?_rsc=tv1EpzyQCJ26ZvsT:0
+[   30784ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/catalog/__next.catalog.__PAGE__.txt?_rsc=xAGq0MVd7wQqVE8E:0
+[   30890ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/cart/__next.cart.__PAGE__.txt?_rsc=qNFqyQ6pwpStYEmZ:0
+[   31975ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/product/base-tee/__next.product.$d$id.__PAGE__.txt?_rsc=HbqsojJududOCxxX:0
+[   31999ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/product/scan-tee/__next.product.$d$id.__PAGE__.txt?_rsc=HbqsojJududOCxxX:0
+[   32198ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/product/long-sleeve-tee/__next.product.$d$id.__PAGE__.txt?_rsc=HbqsojJududOCxxX:0
+[   32217ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/product/core-hoodie/__next.product.$d$id.__PAGE__.txt?_rsc=HbqsojJududOCxxX:0
+[   32405ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/product/halftone-hoodie/__next.product.$d$id.__PAGE__.txt?_rsc=HbqsojJududOCxxX:0
+[   32408ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://aleks-fw.github.io/market/product/crew-sweatshirt/__next.product.$d$id.__PAGE__.txt?_rsc=HbqsojJududOCxxX:0

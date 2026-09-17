@@ -1,0 +1,218 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Athlete training with a barbell in a dark gym" [ref=e4]
+      - generic [ref=e8]:
+        - generic [ref=e9]: Forge
+        - navigation [ref=e10]:
+          - link "Programs" [ref=e11] [cursor=pointer]:
+            - /url: "#programs"
+          - link "Personal Training" [ref=e12] [cursor=pointer]:
+            - /url: "#training"
+          - link "Community" [ref=e13] [cursor=pointer]:
+            - /url: "#stats"
+          - link "Contact" [ref=e14] [cursor=pointer]:
+            - /url: "#contact"
+        - link "Join now" [ref=e15] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e16]:
+        - paragraph [ref=e17]: Strength · Conditioning · Recovery
+        - heading "Train like the work actually matters" [level=1] [ref=e18]
+        - paragraph [ref=e19]: FORGE Athletic Club pairs real coaching with a members-only floor — strength, conditioning, boxing and recovery, all under one roof.
+        - generic [ref=e20]:
+          - link "Book a personal trainer" [ref=e21] [cursor=pointer]:
+            - /url: "#training"
+          - link "See programs" [ref=e22] [cursor=pointer]:
+            - /url: "#programs"
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - paragraph [ref=e26]: About the club
+        - heading "Built for people who train on purpose" [level=2] [ref=e27]
+        - paragraph [ref=e28]: "FORGE opened as a single strength room in 2016 and grew into a full-floor facility without losing the thing that made it work: coaches who actually watch your reps. No franchise playbook, no crowded machine rows — just equipment that gets used and staff who know your name."
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - term [ref=e31]: Founded
+          - definition [ref=e32]: "2016"
+        - generic [ref=e33]:
+          - term [ref=e34]: Floor space
+          - definition [ref=e35]: 1,200 m²
+        - generic [ref=e36]:
+          - term [ref=e37]: Coaching staff
+          - definition [ref=e38]: "14"
+        - generic [ref=e39]:
+          - term [ref=e40]: Open
+          - definition [ref=e41]: 05:00 – 23:00
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - paragraph [ref=e46]: Programs
+          - heading "Pick a direction, not a schedule" [level=2] [ref=e47]
+        - paragraph [ref=e48]: Every program includes open-floor access. Switch between them as your goals change — no re-enrollment needed.
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: All Levels
+            - generic [ref=e53]: 3x / week
+          - heading "Strength & Conditioning" [level=3] [ref=e54]
+          - paragraph [ref=e55]: Barbell-first programming built around squat, press and pull. Progressive overload tracked every week.
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]: All Levels
+            - generic [ref=e59]: 4x / week
+          - heading "HIIT Circuit" [level=3] [ref=e60]
+          - paragraph [ref=e61]: 45-minute metabolic circuits mixing kettlebells, sleds and bodyweight work. Built to torch, not to bore.
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e64]: Beginner
+            - generic [ref=e65]: 2x / week
+          - heading "Boxing & Combat" [level=3] [ref=e66]
+          - paragraph [ref=e67]: Pad work, bag rounds and technical sparring drills led by former amateur competitors.
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - generic [ref=e70]: Advanced
+            - generic [ref=e71]: 4x / week
+          - heading "Powerlifting Club" [level=3] [ref=e72]
+          - paragraph [ref=e73]: Competition-focused block periodization for lifters chasing a total. Meet prep included.
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]: Beginner
+            - generic [ref=e77]: 2x / week
+          - heading "Mobility & Recovery" [level=3] [ref=e78]
+          - paragraph [ref=e79]: Slow, deliberate movement work to keep the rest of your training age-proof.
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e82]: Advanced
+            - generic [ref=e83]: 3x / week
+          - heading "Athletic Performance" [level=3] [ref=e84]
+          - paragraph [ref=e85]: Speed, plyometrics and change-of-direction work for competitive athletes in-season and off.
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: Personal training
+        - heading "Coaches with a waitlist for a reason" [level=2] [ref=e90]
+        - paragraph [ref=e91]: Book a single session or a standing weekly slot. Rates below are per session — packages available at checkout.
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - img "Marcus Reyes" [ref=e95]
+            - generic [ref=e96]:
+              - generic [ref=e97]: ★ 4.9
+              - generic [ref=e98]: $65/session
+          - generic [ref=e99]:
+            - heading "Marcus Reyes" [level=3] [ref=e100]
+            - paragraph [ref=e101]: Strength & Powerlifting
+            - paragraph [ref=e102]: Ex-competitive powerlifter, 9 years coaching. Builds programs around your actual numbers, not templates.
+            - generic [ref=e103]:
+              - generic [ref=e104]: 22 active clients
+              - generic [ref=e105]: 96 sessions / mo
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - img "Elena Kovac" [ref=e108]
+            - generic [ref=e109]:
+              - generic [ref=e110]: ★ 4.8
+              - generic [ref=e111]: $55/session
+          - generic [ref=e112]:
+            - heading "Elena Kovac" [level=3] [ref=e113]
+            - paragraph [ref=e114]: HIIT & Fat Loss
+            - paragraph [ref=e115]: Runs the busiest circuit slots in the building. High energy, no fluff, measurable results.
+            - generic [ref=e116]:
+              - generic [ref=e117]: 31 active clients
+              - generic [ref=e118]: 124 sessions / mo
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - img "Dante Okafor" [ref=e121]
+            - generic [ref=e122]:
+              - generic [ref=e123]: ★ 4.9
+              - generic [ref=e124]: $60/session
+          - generic [ref=e125]:
+            - heading "Dante Okafor" [level=3] [ref=e126]
+            - paragraph [ref=e127]: Boxing & Combat
+            - paragraph [ref=e128]: Former amateur boxer turned coach. Technical, patient, and merciless on pad work.
+            - generic [ref=e129]:
+              - generic [ref=e130]: 18 active clients
+              - generic [ref=e131]: 74 sessions / mo
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - img "Sofia Marchetti" [ref=e134]
+            - generic [ref=e135]:
+              - generic [ref=e136]: ★ 5
+              - generic [ref=e137]: $50/session
+          - generic [ref=e138]:
+            - heading "Sofia Marchetti" [level=3] [ref=e139]
+            - paragraph [ref=e140]: Mobility & Recovery
+            - paragraph [ref=e141]: Physio background. The person every other trainer sends their injured clients to.
+            - generic [ref=e142]:
+              - generic [ref=e143]: 15 active clients
+              - generic [ref=e144]: 58 sessions / mo
+    - generic [ref=e146]:
+      - paragraph [ref=e147]: The numbers
+      - heading "What the floor looked like this month" [level=2] [ref=e148]
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e152]: 3,140
+            - generic [ref=e153]: Monthly visits
+            - generic [ref=e154]: Unique check-ins in the last 30 days
+          - generic [ref=e155]:
+            - generic [ref=e156]: "812"
+            - generic [ref=e157]: Active members
+            - generic [ref=e158]: Holding a current membership
+          - generic [ref=e159]:
+            - generic [ref=e160]: "352"
+            - generic [ref=e161]: PT sessions sold
+            - generic [ref=e162]: Personal training sessions booked this month
+          - generic [ref=e163]:
+            - generic [ref=e164]: 91%
+            - generic [ref=e165]: Member retention
+            - generic [ref=e166]: Members still active after 6 months
+        - generic [ref=e167]:
+          - generic [ref=e168]: Top trainers by sessions sold
+          - generic [ref=e169]: This month, all locations
+          - list [ref=e170]:
+            - listitem [ref=e171]:
+              - generic [ref=e172]:
+                - generic [ref=e173]: Elena Kovac
+                - generic [ref=e174]: 124 sessions
+            - listitem [ref=e177]:
+              - generic [ref=e178]:
+                - generic [ref=e179]: Marcus Reyes
+                - generic [ref=e180]: 96 sessions
+            - listitem [ref=e183]:
+              - generic [ref=e184]:
+                - generic [ref=e185]: Dante Okafor
+                - generic [ref=e186]: 74 sessions
+            - listitem [ref=e189]:
+              - generic [ref=e190]:
+                - generic [ref=e191]: Sofia Marchetti
+                - generic [ref=e192]: 58 sessions
+    - generic [ref=e196]:
+      - paragraph [ref=e197]: Members
+      - heading "What it's like once you're in" [level=2] [ref=e198]
+      - generic [ref=e199]:
+        - figure "James Whitfield Member since 2023" [ref=e200]:
+          - blockquote [ref=e201]: “Ran three other gyms in this city before landing here. The coaching is the difference — nobody just watches you lift.”
+          - generic [ref=e202]:
+            - generic [ref=e203]: James Whitfield
+            - generic [ref=e204]: Member since 2023
+        - figure "Priya Anand Member since 2024" [ref=e205]:
+          - blockquote [ref=e206]: “Booked one session with Elena to try it out. Six months later I train with her twice a week and haven't missed a check-in.”
+          - generic [ref=e207]:
+            - generic [ref=e208]: Priya Anand
+            - generic [ref=e209]: Member since 2024
+        - figure "Tomas Vidak Member since 2022" [ref=e210]:
+          - blockquote [ref=e211]: “Sofia fixed a shoulder issue two physios couldn't. This place treats recovery as seriously as it treats lifting.”
+          - generic [ref=e212]:
+            - generic [ref=e213]: Tomas Vidak
+            - generic [ref=e214]: Member since 2022
+    - generic [ref=e216]:
+      - generic [ref=e217]:
+        - heading "First session is on us" [level=2] [ref=e218]
+        - paragraph [ref=e219]: Come see the floor, meet a coach, and book your first personal training session — free.
+        - generic [ref=e220]:
+          - link "hello@forgeathletic.club" [ref=e221] [cursor=pointer]:
+            - /url: mailto:hello@forgeathletic.club
+          - link "+1 (555) 123-4567" [ref=e222] [cursor=pointer]:
+            - /url: tel:+15551234567
+      - generic [ref=e223]:
+        - generic [ref=e224]: © 2026 FORGE Athletic Club
+        - generic [ref=e225]: 412 Ironwood Ave, Portland, OR
+  - alert [ref=e226]

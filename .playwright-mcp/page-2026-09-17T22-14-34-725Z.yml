@@ -1,0 +1,330 @@
+- generic [ref=f50e1]:
+  - banner [ref=f50e2]:
+    - generic [ref=f50e3]:
+      - link "NOVA." [ref=f50e4] [cursor=pointer]:
+        - /url: /market
+      - navigation [ref=f50e5]:
+        - link "Каталог" [active] [ref=f50e6] [cursor=pointer]:
+          - /url: /market/catalog
+        - link "Худи" [ref=f50e7] [cursor=pointer]:
+          - /url: /market/catalog?category=Худи+и+свитшоты
+        - link "Куртки" [ref=f50e8] [cursor=pointer]:
+          - /url: /market/catalog?category=Куртки
+        - link "Новинки" [ref=f50e9] [cursor=pointer]:
+          - /url: /market/catalog?isNew=1
+      - searchbox "Поиск товаров" [ref=f50e15]
+      - link "Корзина" [ref=f50e16] [cursor=pointer]:
+        - /url: /market/cart
+  - main [ref=f50e17]:
+    - generic [ref=f50e270]:
+      - generic [ref=f50e271]:
+        - generic [ref=f50e272]:
+          - heading "Каталог" [level=1] [ref=f50e273]
+          - paragraph [ref=f50e274]: 18 товаров найдено
+        - generic [ref=f50e275]:
+          - searchbox "Поиск по каталогу" [ref=f50e280]
+          - combobox [ref=f50e281]:
+            - option "По популярности" [selected]
+            - option "Сначала дешевле"
+            - option "Сначала дороже"
+            - option "Сначала новинки"
+      - generic [ref=f50e282]:
+        - complementary [ref=f50e283]:
+          - heading "Фильтры" [level=2] [ref=f50e285]
+          - generic [ref=f50e286]:
+            - paragraph [ref=f50e287]: Категория
+            - generic [ref=f50e288]:
+              - generic [ref=f50e289]:
+                - checkbox "Футболки" [ref=f50e290]
+                - text: Футболки
+              - generic [ref=f50e291]:
+                - checkbox "Худи и свитшоты" [ref=f50e292]
+                - text: Худи и свитшоты
+              - generic [ref=f50e293]:
+                - checkbox "Куртки" [ref=f50e294]
+                - text: Куртки
+              - generic [ref=f50e295]:
+                - checkbox "Брюки" [ref=f50e296]
+                - text: Брюки
+              - generic [ref=f50e297]:
+                - checkbox "Платья" [ref=f50e298]
+                - text: Платья
+              - generic [ref=f50e299]:
+                - checkbox "Аксессуары" [ref=f50e300]
+                - text: Аксессуары
+          - generic [ref=f50e301]:
+            - paragraph [ref=f50e302]: Размер
+            - generic [ref=f50e303]:
+              - button "one size" [ref=f50e304]
+              - button "XS" [ref=f50e305]
+              - button "S" [ref=f50e306]
+              - button "M" [ref=f50e307]
+              - button "L" [ref=f50e308]
+              - button "XL" [ref=f50e309]
+              - button "XXL" [ref=f50e310]
+          - generic [ref=f50e311]:
+            - paragraph [ref=f50e312]: Цвет
+            - generic [ref=f50e313]:
+              - button "Чёрный" [ref=f50e314]
+              - button "Молочный" [ref=f50e315]
+              - button "Мятный" [ref=f50e316]
+              - button "Тёмно-синий" [ref=f50e317]
+              - button "Камень" [ref=f50e318]
+              - button "Песочный" [ref=f50e319]
+              - button "Ржавчина" [ref=f50e320]
+          - generic [ref=f50e321]:
+            - paragraph [ref=f50e322]: Цена до 11 990 ₽
+            - slider [ref=f50e323]: "11900"
+          - generic [ref=f50e324]:
+            - generic [ref=f50e325]:
+              - checkbox "Только новинки" [ref=f50e326]
+              - text: Только новинки
+            - generic [ref=f50e327]:
+              - checkbox "Только в наличии" [ref=f50e328]
+              - text: Только в наличии
+        - generic [ref=f50e330]:
+          - link "Модель в белой футболке Футболки Base Tee 2 490 ₽ Чёрный Молочный Мятный" [ref=f50e332] [cursor=pointer]:
+            - /url: /market/product/base-tee
+            - img "Модель в белой футболке" [ref=f50e334]
+            - generic [ref=f50e335]:
+              - paragraph [ref=f50e336]: Футболки
+              - heading "Base Tee" [level=3] [ref=f50e337]
+              - generic [ref=f50e338]:
+                - generic [ref=f50e339]: 2 490 ₽
+                - generic [ref=f50e341]:
+                  - generic "Чёрный" [ref=f50e342]
+                  - generic "Молочный" [ref=f50e343]
+                  - generic "Мятный" [ref=f50e344]
+          - link "Новинка Модель в футболке Футболки Scan Tee 2 890 ₽ Чёрный Мятный" [ref=f50e346] [cursor=pointer]:
+            - /url: /market/product/scan-tee
+            - generic [ref=f50e347]:
+              - generic [ref=f50e348]: Новинка
+              - img "Модель в футболке" [ref=f50e349]
+            - generic [ref=f50e350]:
+              - paragraph [ref=f50e351]: Футболки
+              - heading "Scan Tee" [level=3] [ref=f50e352]
+              - generic [ref=f50e353]:
+                - generic [ref=f50e354]: 2 890 ₽
+                - generic [ref=f50e356]:
+                  - generic "Чёрный" [ref=f50e357]
+                  - generic "Мятный" [ref=f50e358]
+          - link "Модель в футболке с длинным рукавом Футболки Long Sleeve Tee 3 190 ₽ Молочный Тёмно-синий Чёрный" [ref=f50e360] [cursor=pointer]:
+            - /url: /market/product/long-sleeve-tee
+            - img "Модель в футболке с длинным рукавом" [ref=f50e362]
+            - generic [ref=f50e363]:
+              - paragraph [ref=f50e364]: Футболки
+              - heading "Long Sleeve Tee" [level=3] [ref=f50e365]
+              - generic [ref=f50e366]:
+                - generic [ref=f50e367]: 3 190 ₽
+                - generic [ref=f50e369]:
+                  - generic "Молочный" [ref=f50e370]
+                  - generic "Тёмно-синий" [ref=f50e371]
+                  - generic "Чёрный" [ref=f50e372]
+          - link "Модель в худи Худи и свитшоты Core Hoodie 5 490 ₽ 6 490 ₽ Чёрный Камень Тёмно-синий" [ref=f50e374] [cursor=pointer]:
+            - /url: /market/product/core-hoodie
+            - img "Модель в худи" [ref=f50e376]
+            - generic [ref=f50e377]:
+              - paragraph [ref=f50e378]: Худи и свитшоты
+              - heading "Core Hoodie" [level=3] [ref=f50e379]
+              - generic [ref=f50e380]:
+                - generic [ref=f50e381]:
+                  - generic [ref=f50e382]: 5 490 ₽
+                  - generic [ref=f50e383]: 6 490 ₽
+                - generic [ref=f50e384]:
+                  - generic "Чёрный" [ref=f50e385]
+                  - generic "Камень" [ref=f50e386]
+                  - generic "Тёмно-синий" [ref=f50e387]
+          - link "Новинка Модель в худи у стены Худи и свитшоты Halftone Hoodie 5 990 ₽ Чёрный Мятный" [ref=f50e389] [cursor=pointer]:
+            - /url: /market/product/halftone-hoodie
+            - generic [ref=f50e390]:
+              - generic [ref=f50e391]: Новинка
+              - img "Модель в худи у стены" [ref=f50e392]
+            - generic [ref=f50e393]:
+              - paragraph [ref=f50e394]: Худи и свитшоты
+              - heading "Halftone Hoodie" [level=3] [ref=f50e395]
+              - generic [ref=f50e396]:
+                - generic [ref=f50e397]: 5 990 ₽
+                - generic [ref=f50e399]:
+                  - generic "Чёрный" [ref=f50e400]
+                  - generic "Мятный" [ref=f50e401]
+          - link "Модель в вязаном свитере Худи и свитшоты Crew Sweatshirt 4 590 ₽ Молочный Песочный Чёрный" [ref=f50e403] [cursor=pointer]:
+            - /url: /market/product/crew-sweatshirt
+            - img "Модель в вязаном свитере" [ref=f50e405]
+            - generic [ref=f50e406]:
+              - paragraph [ref=f50e407]: Худи и свитшоты
+              - heading "Crew Sweatshirt" [level=3] [ref=f50e408]
+              - generic [ref=f50e409]:
+                - generic [ref=f50e410]: 4 590 ₽
+                - generic [ref=f50e412]:
+                  - generic "Молочный" [ref=f50e413]
+                  - generic "Песочный" [ref=f50e414]
+                  - generic "Чёрный" [ref=f50e415]
+          - link "Модель в куртке Куртки Recon Jacket 8 990 ₽ Чёрный Камень" [ref=f50e417] [cursor=pointer]:
+            - /url: /market/product/recon-jacket
+            - img "Модель в куртке" [ref=f50e419]
+            - generic [ref=f50e420]:
+              - paragraph [ref=f50e421]: Куртки
+              - heading "Recon Jacket" [level=3] [ref=f50e422]
+              - generic [ref=f50e423]:
+                - generic [ref=f50e424]: 8 990 ₽
+                - generic [ref=f50e426]:
+                  - generic "Чёрный" [ref=f50e427]
+                  - generic "Камень" [ref=f50e428]
+          - link "Нет в наличии Модель в джинсовой куртке Куртки Denim Overshirt 6 790 ₽ Тёмно-синий Ржавчина" [ref=f50e430] [cursor=pointer]:
+            - /url: /market/product/denim-overshirt
+            - generic [ref=f50e431]:
+              - generic [ref=f50e432]: Нет в наличии
+              - img "Модель в джинсовой куртке" [ref=f50e433]
+            - generic [ref=f50e434]:
+              - paragraph [ref=f50e435]: Куртки
+              - heading "Denim Overshirt" [level=3] [ref=f50e436]
+              - generic [ref=f50e437]:
+                - generic [ref=f50e438]: 6 790 ₽
+                - generic [ref=f50e440]:
+                  - generic "Тёмно-синий" [ref=f50e441]
+                  - generic "Ржавчина" [ref=f50e442]
+          - link "Новинка Модель в парке Куртки Shell Parka 11 990 ₽ Чёрный Тёмно-синий" [ref=f50e444] [cursor=pointer]:
+            - /url: /market/product/shell-parka
+            - generic [ref=f50e445]:
+              - generic [ref=f50e446]: Новинка
+              - img "Модель в парке" [ref=f50e447]
+            - generic [ref=f50e448]:
+              - paragraph [ref=f50e449]: Куртки
+              - heading "Shell Parka" [level=3] [ref=f50e450]
+              - generic [ref=f50e451]:
+                - generic [ref=f50e452]: 11 990 ₽
+                - generic [ref=f50e454]:
+                  - generic "Чёрный" [ref=f50e455]
+                  - generic "Тёмно-синий" [ref=f50e456]
+          - link "Модель в брюках карго Брюки Utility Pants 4 290 ₽ Чёрный Камень Песочный" [ref=f50e458] [cursor=pointer]:
+            - /url: /market/product/utility-pants
+            - img "Модель в брюках карго" [ref=f50e460]
+            - generic [ref=f50e461]:
+              - paragraph [ref=f50e462]: Брюки
+              - heading "Utility Pants" [level=3] [ref=f50e463]
+              - generic [ref=f50e464]:
+                - generic [ref=f50e465]: 4 290 ₽
+                - generic [ref=f50e467]:
+                  - generic "Чёрный" [ref=f50e468]
+                  - generic "Камень" [ref=f50e469]
+                  - generic "Песочный" [ref=f50e470]
+          - link "Модель в зауженных брюках Брюки Tapered Trousers 3 990 ₽ Чёрный Тёмно-синий" [ref=f50e472] [cursor=pointer]:
+            - /url: /market/product/tapered-trousers
+            - img "Модель в зауженных брюках" [ref=f50e474]
+            - generic [ref=f50e475]:
+              - paragraph [ref=f50e476]: Брюки
+              - heading "Tapered Trousers" [level=3] [ref=f50e477]
+              - generic [ref=f50e478]:
+                - generic [ref=f50e479]: 3 990 ₽
+                - generic [ref=f50e481]:
+                  - generic "Чёрный" [ref=f50e482]
+                  - generic "Тёмно-синий" [ref=f50e483]
+          - link "Модель в спортивных брюках Брюки Track Pants 3 490 ₽ Чёрный Мятный Молочный" [ref=f50e485] [cursor=pointer]:
+            - /url: /market/product/track-pants
+            - img "Модель в спортивных брюках" [ref=f50e487]
+            - generic [ref=f50e488]:
+              - paragraph [ref=f50e489]: Брюки
+              - heading "Track Pants" [level=3] [ref=f50e490]
+              - generic [ref=f50e491]:
+                - generic [ref=f50e492]: 3 490 ₽
+                - generic [ref=f50e494]:
+                  - generic "Чёрный" [ref=f50e495]
+                  - generic "Мятный" [ref=f50e496]
+                  - generic "Молочный" [ref=f50e497]
+          - link "Новинка Модель в белом платье Платья Column Dress 6 290 ₽ Чёрный Молочный" [ref=f50e499] [cursor=pointer]:
+            - /url: /market/product/column-dress
+            - generic [ref=f50e500]:
+              - generic [ref=f50e501]: Новинка
+              - img "Модель в белом платье" [ref=f50e502]
+            - generic [ref=f50e503]:
+              - paragraph [ref=f50e504]: Платья
+              - heading "Column Dress" [level=3] [ref=f50e505]
+              - generic [ref=f50e506]:
+                - generic [ref=f50e507]: 6 290 ₽
+                - generic [ref=f50e509]:
+                  - generic "Чёрный" [ref=f50e510]
+                  - generic "Молочный" [ref=f50e511]
+          - link "Модель в платье на запах Платья Wrap Dress 5 790 ₽ Ржавчина Тёмно-синий" [ref=f50e513] [cursor=pointer]:
+            - /url: /market/product/wrap-dress
+            - img "Модель в платье на запах" [ref=f50e515]
+            - generic [ref=f50e516]:
+              - paragraph [ref=f50e517]: Платья
+              - heading "Wrap Dress" [level=3] [ref=f50e518]
+              - generic [ref=f50e519]:
+                - generic [ref=f50e520]: 5 790 ₽
+                - generic [ref=f50e522]:
+                  - generic "Ржавчина" [ref=f50e523]
+                  - generic "Тёмно-синий" [ref=f50e524]
+          - link "Модель в юбке Платья Pleated Skirt 4 190 ₽ Молочный Песочный" [ref=f50e526] [cursor=pointer]:
+            - /url: /market/product/pleated-skirt
+            - img "Модель в юбке" [ref=f50e528]
+            - generic [ref=f50e529]:
+              - paragraph [ref=f50e530]: Платья
+              - heading "Pleated Skirt" [level=3] [ref=f50e531]
+              - generic [ref=f50e532]:
+                - generic [ref=f50e533]: 4 190 ₽
+                - generic [ref=f50e535]:
+                  - generic "Молочный" [ref=f50e536]
+                  - generic "Песочный" [ref=f50e537]
+          - link "Кепка на нейтральном фоне Аксессуары Signal Cap 1 890 ₽ Чёрный Мятный Молочный" [ref=f50e539] [cursor=pointer]:
+            - /url: /market/product/signal-cap
+            - img "Кепка на нейтральном фоне" [ref=f50e541]
+            - generic [ref=f50e542]:
+              - paragraph [ref=f50e543]: Аксессуары
+              - heading "Signal Cap" [level=3] [ref=f50e544]
+              - generic [ref=f50e545]:
+                - generic [ref=f50e546]: 1 890 ₽
+                - generic [ref=f50e548]:
+                  - generic "Чёрный" [ref=f50e549]
+                  - generic "Мятный" [ref=f50e550]
+                  - generic "Молочный" [ref=f50e551]
+          - link "Новинка Модель в кепке Аксессуары Grid Beanie 1 490 ₽ Чёрный Камень" [ref=f50e553] [cursor=pointer]:
+            - /url: /market/product/grid-beanie
+            - generic [ref=f50e554]:
+              - generic [ref=f50e555]: Новинка
+              - img "Модель в кепке" [ref=f50e556]
+            - generic [ref=f50e557]:
+              - paragraph [ref=f50e558]: Аксессуары
+              - heading "Grid Beanie" [level=3] [ref=f50e559]
+              - generic [ref=f50e560]:
+                - generic [ref=f50e561]: 1 490 ₽
+                - generic [ref=f50e563]:
+                  - generic "Чёрный" [ref=f50e564]
+                  - generic "Камень" [ref=f50e565]
+          - link "Нет в наличии Модель в лёгком худи Худи и свитшоты Essential Hoodie Lite 4 290 ₽ Молочный Мятный" [ref=f50e567] [cursor=pointer]:
+            - /url: /market/product/essential-hoodie-kids
+            - generic [ref=f50e568]:
+              - generic [ref=f50e569]: Нет в наличии
+              - img "Модель в лёгком худи" [ref=f50e570]
+            - generic [ref=f50e571]:
+              - paragraph [ref=f50e572]: Худи и свитшоты
+              - heading "Essential Hoodie Lite" [level=3] [ref=f50e573]
+              - generic [ref=f50e574]:
+                - generic [ref=f50e575]: 4 290 ₽
+                - generic [ref=f50e577]:
+                  - generic "Молочный" [ref=f50e578]
+                  - generic "Мятный" [ref=f50e579]
+  - contentinfo [ref=f50e246]:
+    - generic [ref=f50e247]:
+      - generic [ref=f50e248]:
+        - generic [ref=f50e249]:
+          - paragraph [ref=f50e250]: NOVA.
+          - paragraph [ref=f50e251]: Учебный демо-магазин одежды. Все товары, отзывы и статистика на сайте вымышлены и созданы для портфолио.
+        - generic [ref=f50e252]:
+          - paragraph [ref=f50e253]: Каталог
+          - list [ref=f50e254]:
+            - listitem [ref=f50e255]: Футболки
+            - listitem [ref=f50e256]: Худи и свитшоты
+            - listitem [ref=f50e257]: Куртки
+            - listitem [ref=f50e258]: Аксессуары
+        - generic [ref=f50e259]:
+          - paragraph [ref=f50e260]: Покупателям
+          - list [ref=f50e261]:
+            - listitem [ref=f50e262]: Доставка (демо)
+            - listitem [ref=f50e263]: Возврат (демо)
+            - listitem [ref=f50e264]: Размерная сетка
+        - generic [ref=f50e265]:
+          - paragraph [ref=f50e266]: О проекте
+          - paragraph [ref=f50e267]: "Сайт разработан как учебный проект для демонстрации фронтенд-навыков: Next.js, TypeScript, Tailwind CSS."
+      - paragraph [ref=f50e268]: © 2026 NOVA — демо-проект, не является действующим магазином.
+  - alert [ref=f50e269]

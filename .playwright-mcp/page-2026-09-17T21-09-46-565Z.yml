@@ -1,0 +1,108 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - generic [ref=f8e3]:
+      - link "NOVA." [ref=f8e4] [cursor=pointer]:
+        - /url: /
+      - link "Корзина" [ref=f8e5] [cursor=pointer]:
+        - /url: /cart
+  - main [ref=f8e6]:
+    - generic [ref=f8e7]:
+      - generic [ref=f8e8]:
+        - img "Иллюстрация товара" [ref=f8e15]
+        - generic [ref=f8e18]:
+          - paragraph [ref=f8e19]: Худи и свитшоты
+          - heading "Core Hoodie" [level=1] [ref=f8e20]
+          - generic [ref=f8e21]:
+            - generic [ref=f8e22]: ★ 4.9
+            - generic [ref=f8e23]: · 341 отзывов
+          - generic [ref=f8e24]:
+            - generic [ref=f8e25]: 5 490 ₽
+            - generic [ref=f8e26]: 6 490 ₽
+          - paragraph [ref=f8e27]: Плотное худи с флисовой изнанкой и накладным карманом. Один из бестселлеров.
+          - generic [ref=f8e28]:
+            - paragraph [ref=f8e29]: "Цвет: Чёрный"
+            - generic [ref=f8e30]:
+              - button "Чёрный" [ref=f8e31]
+              - button "Камень" [ref=f8e32]
+              - button "Тёмно-синий" [ref=f8e33]
+          - generic [ref=f8e34]:
+            - paragraph [ref=f8e35]: Размер
+            - generic [ref=f8e36]:
+              - button "S" [ref=f8e37]
+              - button "M" [ref=f8e38]
+              - button "L" [ref=f8e39]
+              - button "XL" [ref=f8e40]
+              - button "XXL" [ref=f8e41]
+          - generic [ref=f8e42]:
+            - generic [ref=f8e43]:
+              - button "Уменьшить количество" [ref=f8e44]: −
+              - generic [ref=f8e45]: "1"
+              - button "Увеличить количество" [ref=f8e46]: +
+            - button "Добавить в корзину" [ref=f8e47]
+          - group [ref=f8e48]:
+            - generic "Состав и уход" [ref=f8e49] [cursor=pointer]
+      - generic [ref=f8e50]:
+        - heading "Похожие товары" [level=2] [ref=f8e51]
+        - generic [ref=f8e52]:
+          - link "Новинка Иллюстрация товара Худи и свитшоты Halftone Hoodie 5 990 ₽ Чёрный Мятный" [ref=f8e53] [cursor=pointer]:
+            - /url: /product/halftone-hoodie
+            - generic [ref=f8e54]:
+              - generic [ref=f8e55]: Новинка
+              - img "Иллюстрация товара" [ref=f8e56]
+            - generic [ref=f8e59]:
+              - paragraph [ref=f8e60]: Худи и свитшоты
+              - heading "Halftone Hoodie" [level=3] [ref=f8e61]
+              - generic [ref=f8e62]:
+                - generic [ref=f8e63]: 5 990 ₽
+                - generic [ref=f8e65]:
+                  - generic "Чёрный" [ref=f8e66]
+                  - generic "Мятный" [ref=f8e67]
+          - link "Иллюстрация товара Худи и свитшоты Crew Sweatshirt 4 590 ₽ Молочный Песочный Чёрный" [ref=f8e68] [cursor=pointer]:
+            - /url: /product/crew-sweatshirt
+            - img "Иллюстрация товара" [ref=f8e70]
+            - generic [ref=f8e73]:
+              - paragraph [ref=f8e74]: Худи и свитшоты
+              - heading "Crew Sweatshirt" [level=3] [ref=f8e75]
+              - generic [ref=f8e76]:
+                - generic [ref=f8e77]: 4 590 ₽
+                - generic [ref=f8e79]:
+                  - generic "Молочный" [ref=f8e80]
+                  - generic "Песочный" [ref=f8e81]
+                  - generic "Чёрный" [ref=f8e82]
+          - link "Нет в наличии Иллюстрация товара Худи и свитшоты Essential Hoodie Lite 4 290 ₽ Молочный Мятный" [ref=f8e83] [cursor=pointer]:
+            - /url: /product/essential-hoodie-kids
+            - generic [ref=f8e84]:
+              - generic [ref=f8e85]: Нет в наличии
+              - img "Иллюстрация товара" [ref=f8e86]
+            - generic [ref=f8e89]:
+              - paragraph [ref=f8e90]: Худи и свитшоты
+              - heading "Essential Hoodie Lite" [level=3] [ref=f8e91]
+              - generic [ref=f8e92]:
+                - generic [ref=f8e93]: 4 290 ₽
+                - generic [ref=f8e95]:
+                  - generic "Молочный" [ref=f8e96]
+                  - generic "Мятный" [ref=f8e97]
+  - contentinfo [ref=f8e98]:
+    - generic [ref=f8e99]:
+      - generic [ref=f8e100]:
+        - generic [ref=f8e101]:
+          - paragraph [ref=f8e102]: NOVA.
+          - paragraph [ref=f8e103]: Учебный демо-магазин одежды. Все товары, отзывы и статистика на сайте вымышлены и созданы для портфолио.
+        - generic [ref=f8e104]:
+          - paragraph [ref=f8e105]: Каталог
+          - list [ref=f8e106]:
+            - listitem [ref=f8e107]: Футболки
+            - listitem [ref=f8e108]: Худи и свитшоты
+            - listitem [ref=f8e109]: Куртки
+            - listitem [ref=f8e110]: Аксессуары
+        - generic [ref=f8e111]:
+          - paragraph [ref=f8e112]: Покупателям
+          - list [ref=f8e113]:
+            - listitem [ref=f8e114]: Доставка (демо)
+            - listitem [ref=f8e115]: Возврат (демо)
+            - listitem [ref=f8e116]: Размерная сетка
+        - generic [ref=f8e117]:
+          - paragraph [ref=f8e118]: О проекте
+          - paragraph [ref=f8e119]: "Сайт разработан как учебный проект для демонстрации фронтенд-навыков: Next.js, TypeScript, Tailwind CSS."
+      - paragraph [ref=f8e120]: © 2026 NOVA — демо-проект, не является действующим магазином.
+  - button "Open Next.js Dev Tools" [ref=f8e126] [cursor=pointer]

@@ -1,0 +1,37 @@
+- generic [active] [ref=f9e1]:
+  - banner [ref=f9e2]:
+    - generic [ref=f9e3]:
+      - link "NOVA." [ref=f9e4] [cursor=pointer]:
+        - /url: /
+      - link "Корзина" [ref=f9e5] [cursor=pointer]:
+        - /url: /cart
+  - main [ref=f9e6]:
+    - generic [ref=f9e7]:
+      - heading "Корзина пуста" [level=1] [ref=f9e8]
+      - paragraph [ref=f9e9]: Добавьте что-нибудь из каталога.
+      - link "В каталог" [ref=f9e10] [cursor=pointer]:
+        - /url: /catalog
+  - contentinfo [ref=f9e11]:
+    - generic [ref=f9e12]:
+      - generic [ref=f9e13]:
+        - generic [ref=f9e14]:
+          - paragraph [ref=f9e15]: NOVA.
+          - paragraph [ref=f9e16]: Учебный демо-магазин одежды. Все товары, отзывы и статистика на сайте вымышлены и созданы для портфолио.
+        - generic [ref=f9e17]:
+          - paragraph [ref=f9e18]: Каталог
+          - list [ref=f9e19]:
+            - listitem [ref=f9e20]: Футболки
+            - listitem [ref=f9e21]: Худи и свитшоты
+            - listitem [ref=f9e22]: Куртки
+            - listitem [ref=f9e23]: Аксессуары
+        - generic [ref=f9e24]:
+          - paragraph [ref=f9e25]: Покупателям
+          - list [ref=f9e26]:
+            - listitem [ref=f9e27]: Доставка (демо)
+            - listitem [ref=f9e28]: Возврат (демо)
+            - listitem [ref=f9e29]: Размерная сетка
+        - generic [ref=f9e30]:
+          - paragraph [ref=f9e31]: О проекте
+          - paragraph [ref=f9e32]: "Сайт разработан как учебный проект для демонстрации фронтенд-навыков: Next.js, TypeScript, Tailwind CSS."
+      - paragraph [ref=f9e33]: © 2026 NOVA — демо-проект, не является действующим магазином.
+  - button "Open Next.js Dev Tools" [ref=f9e39] [cursor=pointer]

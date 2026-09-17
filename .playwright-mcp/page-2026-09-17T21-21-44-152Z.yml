@@ -1,0 +1,47 @@
+- generic [active] [ref=f16e1]:
+  - banner [ref=f16e2]:
+    - generic [ref=f16e3]:
+      - link "NOVA." [ref=f16e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f16e5]:
+        - link "Каталог" [ref=f16e6] [cursor=pointer]:
+          - /url: /catalog
+        - link "Худи" [ref=f16e7] [cursor=pointer]:
+          - /url: /catalog?category=Худи+и+свитшоты
+        - link "Куртки" [ref=f16e8] [cursor=pointer]:
+          - /url: /catalog?category=Куртки
+        - link "Новинки" [ref=f16e9] [cursor=pointer]:
+          - /url: /catalog?isNew=1
+      - searchbox "Поиск товаров" [ref=f16e15]
+      - link "Корзина" [ref=f16e16] [cursor=pointer]:
+        - /url: /cart
+  - main [ref=f16e17]:
+    - generic [ref=f16e18]:
+      - heading "Корзина пуста" [level=1] [ref=f16e19]
+      - paragraph [ref=f16e20]: Добавьте что-нибудь из каталога.
+      - link "В каталог" [ref=f16e21] [cursor=pointer]:
+        - /url: /catalog
+  - contentinfo [ref=f16e22]:
+    - generic [ref=f16e23]:
+      - generic [ref=f16e24]:
+        - generic [ref=f16e25]:
+          - paragraph [ref=f16e26]: NOVA.
+          - paragraph [ref=f16e27]: Учебный демо-магазин одежды. Все товары, отзывы и статистика на сайте вымышлены и созданы для портфолио.
+        - generic [ref=f16e28]:
+          - paragraph [ref=f16e29]: Каталог
+          - list [ref=f16e30]:
+            - listitem [ref=f16e31]: Футболки
+            - listitem [ref=f16e32]: Худи и свитшоты
+            - listitem [ref=f16e33]: Куртки
+            - listitem [ref=f16e34]: Аксессуары
+        - generic [ref=f16e35]:
+          - paragraph [ref=f16e36]: Покупателям
+          - list [ref=f16e37]:
+            - listitem [ref=f16e38]: Доставка (демо)
+            - listitem [ref=f16e39]: Возврат (демо)
+            - listitem [ref=f16e40]: Размерная сетка
+        - generic [ref=f16e41]:
+          - paragraph [ref=f16e42]: О проекте
+          - paragraph [ref=f16e43]: "Сайт разработан как учебный проект для демонстрации фронтенд-навыков: Next.js, TypeScript, Tailwind CSS."
+      - paragraph [ref=f16e44]: © 2026 NOVA — демо-проект, не является действующим магазином.
+  - button "Open Next.js Dev Tools" [ref=f16e50] [cursor=pointer]

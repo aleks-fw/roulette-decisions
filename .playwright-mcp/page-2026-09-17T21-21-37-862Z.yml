@@ -1,0 +1,121 @@
+- generic [ref=f15e1]:
+  - banner [ref=f15e2]:
+    - generic [ref=f15e3]:
+      - link "NOVA." [ref=f15e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f15e5]:
+        - link "Каталог" [ref=f15e6] [cursor=pointer]:
+          - /url: /catalog
+        - link "Худи" [ref=f15e7] [cursor=pointer]:
+          - /url: /catalog?category=Худи+и+свитшоты
+        - link "Куртки" [ref=f15e8] [cursor=pointer]:
+          - /url: /catalog?category=Куртки
+        - link "Новинки" [ref=f15e9] [cursor=pointer]:
+          - /url: /catalog?isNew=1
+      - searchbox "Поиск товаров" [ref=f15e15]
+      - link "Корзина 1" [ref=f15e133] [cursor=pointer]:
+        - /url: /cart
+        - text: Корзина
+        - generic [ref=f15e134]: "1"
+  - main [ref=f15e17]:
+    - generic [ref=f15e18]:
+      - generic [ref=f15e19]:
+        - img "Модель в худи" [ref=f15e26]
+        - generic [ref=f15e27]:
+          - paragraph [ref=f15e28]: Худи и свитшоты
+          - heading "Core Hoodie" [level=1] [ref=f15e29]
+          - generic [ref=f15e30]:
+            - generic [ref=f15e31]: ★ 4.9
+            - generic [ref=f15e32]: · 341 отзывов
+          - generic [ref=f15e33]:
+            - generic [ref=f15e34]: 5 490 ₽
+            - generic [ref=f15e35]: 6 490 ₽
+          - paragraph [ref=f15e36]: Плотное худи с флисовой изнанкой и накладным карманом. Один из бестселлеров.
+          - generic [ref=f15e37]:
+            - paragraph [ref=f15e38]: "Цвет: Чёрный"
+            - generic [ref=f15e39]:
+              - button "Чёрный" [ref=f15e40]
+              - button "Камень" [ref=f15e41]
+              - button "Тёмно-синий" [ref=f15e42]
+          - generic [ref=f15e43]:
+            - paragraph [ref=f15e44]: Размер
+            - generic [ref=f15e45]:
+              - button "S" [ref=f15e46]
+              - button "M" [ref=f15e47]
+              - button "L" [ref=f15e48]
+              - button "XL" [ref=f15e49]
+              - button "XXL" [ref=f15e50]
+          - generic [ref=f15e51]:
+            - generic [ref=f15e52]:
+              - button "Уменьшить количество" [ref=f15e53]: −
+              - generic [ref=f15e54]: "1"
+              - button "Увеличить количество" [ref=f15e55]: +
+            - button "Добавлено в корзину ✓" [active] [ref=f15e135]
+          - group [ref=f15e57]:
+            - generic "Состав и уход" [ref=f15e58] [cursor=pointer]
+      - generic [ref=f15e59]:
+        - heading "Похожие товары" [level=2] [ref=f15e60]
+        - generic [ref=f15e61]:
+          - link "Новинка Модель в худи Худи и свитшоты Halftone Hoodie 5 990 ₽ Чёрный Мятный" [ref=f15e62] [cursor=pointer]:
+            - /url: /product/halftone-hoodie
+            - generic [ref=f15e63]:
+              - generic [ref=f15e64]: Новинка
+              - img "Модель в худи" [ref=f15e65]
+            - generic [ref=f15e66]:
+              - paragraph [ref=f15e67]: Худи и свитшоты
+              - heading "Halftone Hoodie" [level=3] [ref=f15e68]
+              - generic [ref=f15e69]:
+                - generic [ref=f15e70]: 5 990 ₽
+                - generic [ref=f15e72]:
+                  - generic "Чёрный" [ref=f15e73]
+                  - generic "Мятный" [ref=f15e74]
+          - link "Модель в вязаном свитере Худи и свитшоты Crew Sweatshirt 4 590 ₽ Молочный Песочный Чёрный" [ref=f15e75] [cursor=pointer]:
+            - /url: /product/crew-sweatshirt
+            - img "Модель в вязаном свитере" [ref=f15e77]
+            - generic [ref=f15e78]:
+              - paragraph [ref=f15e79]: Худи и свитшоты
+              - heading "Crew Sweatshirt" [level=3] [ref=f15e80]
+              - generic [ref=f15e81]:
+                - generic [ref=f15e82]: 4 590 ₽
+                - generic [ref=f15e84]:
+                  - generic "Молочный" [ref=f15e85]
+                  - generic "Песочный" [ref=f15e86]
+                  - generic "Чёрный" [ref=f15e87]
+          - link "Нет в наличии Модель в худи Худи и свитшоты Essential Hoodie Lite 4 290 ₽ Молочный Мятный" [ref=f15e88] [cursor=pointer]:
+            - /url: /product/essential-hoodie-kids
+            - generic [ref=f15e89]:
+              - generic [ref=f15e90]: Нет в наличии
+              - img "Модель в худи" [ref=f15e91]
+            - generic [ref=f15e92]:
+              - paragraph [ref=f15e93]: Худи и свитшоты
+              - heading "Essential Hoodie Lite" [level=3] [ref=f15e94]
+              - generic [ref=f15e95]:
+                - generic [ref=f15e96]: 4 290 ₽
+                - generic [ref=f15e98]:
+                  - generic "Молочный" [ref=f15e99]
+                  - generic "Мятный" [ref=f15e100]
+  - contentinfo [ref=f15e101]:
+    - generic [ref=f15e102]:
+      - generic [ref=f15e103]:
+        - generic [ref=f15e104]:
+          - paragraph [ref=f15e105]: NOVA.
+          - paragraph [ref=f15e106]: Учебный демо-магазин одежды. Все товары, отзывы и статистика на сайте вымышлены и созданы для портфолио.
+        - generic [ref=f15e107]:
+          - paragraph [ref=f15e108]: Каталог
+          - list [ref=f15e109]:
+            - listitem [ref=f15e110]: Футболки
+            - listitem [ref=f15e111]: Худи и свитшоты
+            - listitem [ref=f15e112]: Куртки
+            - listitem [ref=f15e113]: Аксессуары
+        - generic [ref=f15e114]:
+          - paragraph [ref=f15e115]: Покупателям
+          - list [ref=f15e116]:
+            - listitem [ref=f15e117]: Доставка (демо)
+            - listitem [ref=f15e118]: Возврат (демо)
+            - listitem [ref=f15e119]: Размерная сетка
+        - generic [ref=f15e120]:
+          - paragraph [ref=f15e121]: О проекте
+          - paragraph [ref=f15e122]: "Сайт разработан как учебный проект для демонстрации фронтенд-навыков: Next.js, TypeScript, Tailwind CSS."
+      - paragraph [ref=f15e123]: © 2026 NOVA — демо-проект, не является действующим магазином.
+  - button "Open Next.js Dev Tools" [ref=f15e129] [cursor=pointer]
+  - alert [ref=f15e136]

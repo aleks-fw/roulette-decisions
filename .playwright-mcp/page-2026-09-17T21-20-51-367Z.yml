@@ -1,0 +1,164 @@
+- generic [active] [ref=f14e1]:
+  - banner [ref=f14e2]:
+    - generic [ref=f14e3]:
+      - link "NOVA." [ref=f14e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f14e5]:
+        - link "Каталог" [ref=f14e6] [cursor=pointer]:
+          - /url: /catalog
+        - link "Худи" [ref=f14e7] [cursor=pointer]:
+          - /url: /catalog?category=Худи+и+свитшоты
+        - link "Куртки" [ref=f14e8] [cursor=pointer]:
+          - /url: /catalog?category=Куртки
+        - link "Новинки" [ref=f14e9] [cursor=pointer]:
+          - /url: /catalog?isNew=1
+      - searchbox "Поиск товаров" [ref=f14e15]
+      - link "Корзина" [ref=f14e16] [cursor=pointer]:
+        - /url: /cart
+  - main [ref=f14e17]:
+    - generic [ref=f14e18]:
+      - generic [ref=f14e19]:
+        - generic [ref=f14e20]:
+          - heading "Каталог" [level=1] [ref=f14e21]
+          - paragraph [ref=f14e22]: 4 товаров найдено
+        - generic [ref=f14e23]:
+          - searchbox "Поиск по каталогу" [ref=f14e28]
+          - combobox [ref=f14e29]:
+            - option "По популярности" [selected]
+            - option "Сначала дешевле"
+            - option "Сначала дороже"
+            - option "Сначала новинки"
+      - generic [ref=f14e30]:
+        - complementary [ref=f14e31]:
+          - generic [ref=f14e32]:
+            - heading "Фильтры" [level=2] [ref=f14e33]
+            - button "Сбросить" [ref=f14e34]
+          - generic [ref=f14e35]:
+            - paragraph [ref=f14e36]: Категория
+            - generic [ref=f14e37]:
+              - generic [ref=f14e38]:
+                - checkbox "Футболки" [ref=f14e39]
+                - text: Футболки
+              - generic [ref=f14e40]:
+                - checkbox "Худи и свитшоты" [checked] [ref=f14e41]
+                - text: Худи и свитшоты
+              - generic [ref=f14e42]:
+                - checkbox "Куртки" [ref=f14e43]
+                - text: Куртки
+              - generic [ref=f14e44]:
+                - checkbox "Брюки" [ref=f14e45]
+                - text: Брюки
+              - generic [ref=f14e46]:
+                - checkbox "Платья" [ref=f14e47]
+                - text: Платья
+              - generic [ref=f14e48]:
+                - checkbox "Аксессуары" [ref=f14e49]
+                - text: Аксессуары
+          - generic [ref=f14e50]:
+            - paragraph [ref=f14e51]: Размер
+            - generic [ref=f14e52]:
+              - button "one size" [ref=f14e53]
+              - button "XS" [ref=f14e54]
+              - button "S" [ref=f14e55]
+              - button "M" [ref=f14e56]
+              - button "L" [ref=f14e57]
+              - button "XL" [ref=f14e58]
+              - button "XXL" [ref=f14e59]
+          - generic [ref=f14e60]:
+            - paragraph [ref=f14e61]: Цвет
+            - generic [ref=f14e62]:
+              - button "Чёрный" [ref=f14e63]
+              - button "Молочный" [ref=f14e64]
+              - button "Мятный" [ref=f14e65]
+              - button "Тёмно-синий" [ref=f14e66]
+              - button "Камень" [ref=f14e67]
+              - button "Песочный" [ref=f14e68]
+              - button "Ржавчина" [ref=f14e69]
+          - generic [ref=f14e70]:
+            - paragraph [ref=f14e71]: Цена до 11 990 ₽
+            - slider [ref=f14e72]: "11900"
+          - generic [ref=f14e73]:
+            - generic [ref=f14e74]:
+              - checkbox "Только новинки" [ref=f14e75]
+              - text: Только новинки
+            - generic [ref=f14e76]:
+              - checkbox "Только в наличии" [ref=f14e77]
+              - text: Только в наличии
+        - generic [ref=f14e79]:
+          - link "Модель в худи Худи и свитшоты Core Hoodie 5 490 ₽ 6 490 ₽ Чёрный Камень Тёмно-синий" [ref=f14e80] [cursor=pointer]:
+            - /url: /product/core-hoodie
+            - img "Модель в худи" [ref=f14e82]
+            - generic [ref=f14e83]:
+              - paragraph [ref=f14e84]: Худи и свитшоты
+              - heading "Core Hoodie" [level=3] [ref=f14e85]
+              - generic [ref=f14e86]:
+                - generic [ref=f14e87]:
+                  - generic [ref=f14e88]: 5 490 ₽
+                  - generic [ref=f14e89]: 6 490 ₽
+                - generic [ref=f14e90]:
+                  - generic "Чёрный" [ref=f14e91]
+                  - generic "Камень" [ref=f14e92]
+                  - generic "Тёмно-синий" [ref=f14e93]
+          - link "Новинка Модель в худи Худи и свитшоты Halftone Hoodie 5 990 ₽ Чёрный Мятный" [ref=f14e94] [cursor=pointer]:
+            - /url: /product/halftone-hoodie
+            - generic [ref=f14e95]:
+              - generic [ref=f14e96]: Новинка
+              - img "Модель в худи" [ref=f14e97]
+            - generic [ref=f14e98]:
+              - paragraph [ref=f14e99]: Худи и свитшоты
+              - heading "Halftone Hoodie" [level=3] [ref=f14e100]
+              - generic [ref=f14e101]:
+                - generic [ref=f14e102]: 5 990 ₽
+                - generic [ref=f14e104]:
+                  - generic "Чёрный" [ref=f14e105]
+                  - generic "Мятный" [ref=f14e106]
+          - link "Модель в вязаном свитере Худи и свитшоты Crew Sweatshirt 4 590 ₽ Молочный Песочный Чёрный" [ref=f14e107] [cursor=pointer]:
+            - /url: /product/crew-sweatshirt
+            - img "Модель в вязаном свитере" [ref=f14e109]
+            - generic [ref=f14e110]:
+              - paragraph [ref=f14e111]: Худи и свитшоты
+              - heading "Crew Sweatshirt" [level=3] [ref=f14e112]
+              - generic [ref=f14e113]:
+                - generic [ref=f14e114]: 4 590 ₽
+                - generic [ref=f14e116]:
+                  - generic "Молочный" [ref=f14e117]
+                  - generic "Песочный" [ref=f14e118]
+                  - generic "Чёрный" [ref=f14e119]
+          - link "Нет в наличии Модель в худи Худи и свитшоты Essential Hoodie Lite 4 290 ₽ Молочный Мятный" [ref=f14e120] [cursor=pointer]:
+            - /url: /product/essential-hoodie-kids
+            - generic [ref=f14e121]:
+              - generic [ref=f14e122]: Нет в наличии
+              - img "Модель в худи" [ref=f14e123]
+            - generic [ref=f14e124]:
+              - paragraph [ref=f14e125]: Худи и свитшоты
+              - heading "Essential Hoodie Lite" [level=3] [ref=f14e126]
+              - generic [ref=f14e127]:
+                - generic [ref=f14e128]: 4 290 ₽
+                - generic [ref=f14e130]:
+                  - generic "Молочный" [ref=f14e131]
+                  - generic "Мятный" [ref=f14e132]
+  - contentinfo [ref=f14e133]:
+    - generic [ref=f14e134]:
+      - generic [ref=f14e135]:
+        - generic [ref=f14e136]:
+          - paragraph [ref=f14e137]: NOVA.
+          - paragraph [ref=f14e138]: Учебный демо-магазин одежды. Все товары, отзывы и статистика на сайте вымышлены и созданы для портфолио.
+        - generic [ref=f14e139]:
+          - paragraph [ref=f14e140]: Каталог
+          - list [ref=f14e141]:
+            - listitem [ref=f14e142]: Футболки
+            - listitem [ref=f14e143]: Худи и свитшоты
+            - listitem [ref=f14e144]: Куртки
+            - listitem [ref=f14e145]: Аксессуары
+        - generic [ref=f14e146]:
+          - paragraph [ref=f14e147]: Покупателям
+          - list [ref=f14e148]:
+            - listitem [ref=f14e149]: Доставка (демо)
+            - listitem [ref=f14e150]: Возврат (демо)
+            - listitem [ref=f14e151]: Размерная сетка
+        - generic [ref=f14e152]:
+          - paragraph [ref=f14e153]: О проекте
+          - paragraph [ref=f14e154]: "Сайт разработан как учебный проект для демонстрации фронтенд-навыков: Next.js, TypeScript, Tailwind CSS."
+      - paragraph [ref=f14e155]: © 2026 NOVA — демо-проект, не является действующим магазином.
+  - button "Open Next.js Dev Tools" [ref=f14e161] [cursor=pointer]
+  - alert [ref=f14e165]
