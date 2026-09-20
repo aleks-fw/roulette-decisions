@@ -1,0 +1,20 @@
+- generic [ref=f7e3]:
+  - paragraph [ref=f7e5]: "03"
+  - paragraph [ref=f7e6]: Основные компоненты сканера
+  - heading "Из чего состоит 3D-сканер" [level=2] [ref=f7e7]
+  - paragraph [ref=f7e10]: "01"
+  - paragraph [ref=f7e11]: Излучатель
+  - paragraph [ref=f7e12]: Посылает на объект лазер или световую сетку
+  - paragraph [ref=f7e14]: "02"
+  - paragraph [ref=f7e15]: Сенсоры-камеры
+  - paragraph [ref=f7e16]: Фиксируют отражённый от поверхности свет
+  - paragraph [ref=f7e18]: "03"
+  - paragraph [ref=f7e19]: Вычислительный блок
+  - paragraph [ref=f7e20]: Рассчитывает координаты каждой точки
+  - paragraph [ref=f7e22]: "04"
+  - paragraph [ref=f7e23]: Программное обеспечение
+  - paragraph [ref=f7e24]: Собирает точки в готовую 3D-модель
+  - img "Схема устройства сканера" [ref=f7e26]
+  - paragraph [ref=f7e33]: Схема устройства
+  - paragraph [ref=f7e34]: 3D-сканер · Принцип работы
+  - paragraph [ref=f7e35]: "04"

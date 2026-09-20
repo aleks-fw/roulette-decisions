@@ -1,0 +1,18 @@
+- generic [ref=f9e3]:
+  - paragraph [ref=f9e5]: "04"
+  - paragraph [ref=f9e6]: Как происходит сканирование
+  - heading "Путь от предмета до 3D-модели — 4 шага" [level=2] [ref=f9e7]
+  - paragraph [ref=f9e12]: "1"
+  - paragraph [ref=f9e13]: Подготовка объекта
+  - paragraph [ref=f9e14]: предмет ставят перед сканером, иногда наносят матовое покрытие
+  - paragraph [ref=f9e16]: "2"
+  - paragraph [ref=f9e17]: Излучение
+  - paragraph [ref=f9e18]: сканер направляет на объект лазер или световую сетку
+  - paragraph [ref=f9e20]: "3"
+  - paragraph [ref=f9e21]: Считывание отражения
+  - paragraph [ref=f9e22]: камеры фиксируют, как свет отразился от поверхности
+  - paragraph [ref=f9e24]: "4"
+  - paragraph [ref=f9e25]: Построение точек
+  - paragraph [ref=f9e26]: компьютер вычисляет координаты и создаёт облако точек
+  - paragraph [ref=f9e27]: 3D-сканер · Принцип работы
+  - paragraph [ref=f9e28]: "05"

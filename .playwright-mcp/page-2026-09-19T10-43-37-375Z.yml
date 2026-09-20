@@ -1,0 +1,64 @@
+- generic [ref=f3e2]:
+  - list [ref=f3e6]:
+    - listitem [ref=f3e7]:
+      - link "Home" [ref=f3e8] [cursor=pointer]:
+        - /url: //telegram.org/
+    - listitem [ref=f3e9]:
+      - link "FAQ" [ref=f3e10] [cursor=pointer]:
+        - /url: //telegram.org/faq
+    - listitem [ref=f3e11]:
+      - link "Apps" [ref=f3e12] [cursor=pointer]:
+        - /url: //telegram.org/apps
+    - listitem [ref=f3e13]:
+      - link "API" [ref=f3e14] [cursor=pointer]:
+        - /url: //core.telegram.org/api
+    - listitem [ref=f3e15]:
+      - link "Protocol" [ref=f3e16] [cursor=pointer]:
+        - /url: //core.telegram.org/mtproto
+  - generic [ref=f3e20]:
+    - heading "Create new application" [level=2] [ref=f3e21]
+    - generic [ref=f3e22]:
+      - generic [ref=f3e23]: "App title:"
+      - textbox "App title:" [ref=f3e25]
+    - generic [ref=f3e26]:
+      - generic [ref=f3e27]: "Short name:"
+      - generic [ref=f3e28]:
+        - textbox "Short name:" [ref=f3e29]
+        - paragraph [ref=f3e30]: alphanumeric, 5-32 characters
+    - generic [ref=f3e31]:
+      - generic [ref=f3e32]: "URL:"
+      - textbox "URL:" [ref=f3e34]
+    - generic [ref=f3e35]:
+      - generic [ref=f3e36]: "Platform:"
+      - generic [ref=f3e37]:
+        - generic [ref=f3e39] [cursor=pointer]:
+          - radio "Android" [checked] [ref=f3e40]
+          - text: Android
+        - generic [ref=f3e42] [cursor=pointer]:
+          - radio "iOS" [ref=f3e43]
+          - text: iOS
+        - generic [ref=f3e45] [cursor=pointer]:
+          - radio "Windows Phone" [ref=f3e46]
+          - text: Windows Phone
+        - generic [ref=f3e48] [cursor=pointer]:
+          - radio "BlackBerry" [ref=f3e49]
+          - text: BlackBerry
+        - generic [ref=f3e51] [cursor=pointer]:
+          - radio "Desktop" [ref=f3e52]
+          - text: Desktop
+        - generic [ref=f3e54] [cursor=pointer]:
+          - radio "Web" [ref=f3e55]
+          - text: Web
+        - generic [ref=f3e57] [cursor=pointer]:
+          - radio "Ubuntu phone" [ref=f3e58]
+          - text: Ubuntu phone
+        - generic [ref=f3e60] [cursor=pointer]:
+          - radio "Other (specify in description)" [ref=f3e61]
+          - text: Other (specify in description)
+    - generic [ref=f3e62]:
+      - generic [ref=f3e63]: "Description:"
+      - textbox "Description:" [ref=f3e65]
+    - generic [ref=f3e67]:
+      - button "Create application" [ref=f3e68] [cursor=pointer]
+      - link "Cancel" [ref=f3e69] [cursor=pointer]:
+        - /url: /

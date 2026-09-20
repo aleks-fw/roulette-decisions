@@ -1,0 +1,29 @@
+- generic [ref=f2e2]:
+  - list [ref=f2e6]:
+    - listitem [ref=f2e7]:
+      - link "Home" [ref=f2e8] [cursor=pointer]:
+        - /url: //telegram.org/
+    - listitem [ref=f2e9]:
+      - link "FAQ" [ref=f2e10] [cursor=pointer]:
+        - /url: //telegram.org/faq
+    - listitem [ref=f2e11]:
+      - link "Apps" [ref=f2e12] [cursor=pointer]:
+        - /url: //telegram.org/apps
+    - listitem [ref=f2e13]:
+      - link "API" [ref=f2e14] [cursor=pointer]:
+        - /url: //core.telegram.org/api
+    - listitem [ref=f2e15]:
+      - link "Protocol" [ref=f2e16] [cursor=pointer]:
+        - /url: //core.telegram.org/mtproto
+  - generic [ref=f2e24]:
+    - heading "Your Telegram Core" [level=1] [ref=f2e25]
+    - list [ref=f2e26]:
+      - listitem [ref=f2e27]:
+        - link "API development tools" [ref=f2e28] [cursor=pointer]:
+          - /url: /apps
+      - listitem [ref=f2e29]:
+        - link "Delete account" [ref=f2e30] [cursor=pointer]:
+          - /url: /delete
+      - listitem [ref=f2e31]:
+        - link "Log out" [ref=f2e32] [cursor=pointer]:
+          - /url: /auth/logout

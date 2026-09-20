@@ -1,0 +1,15 @@
+- generic [ref=f10e2]:
+  - generic:
+    - paragraph [ref=f10e4]: "06"
+    - paragraph [ref=f10e5]: Создание цифровой модели
+    - heading "От облака точек до готовой 3D-модели" [level=2] [ref=f10e6]
+    - img "Полигональная сетка из точек" [ref=f10e22]
+    - img "Готовая 3D-модель со сглаженной поверхностью" [ref=f10e44]
+    - paragraph [ref=f10e49]: Облако точек
+    - paragraph [ref=f10e50]: тысячи отдельных точек с координатами X, Y, Z
+    - paragraph [ref=f10e51]: Полигональная сетка
+    - paragraph [ref=f10e52]: точки соединяются линиями в сплошную поверхность
+    - paragraph [ref=f10e53]: Готовая 3D-модель
+    - paragraph [ref=f10e54]: на сетку накладывается текстура и цвет
+    - paragraph [ref=f10e55]: 3D-сканер · Принцип работы
+    - paragraph [ref=f10e56]: "07"

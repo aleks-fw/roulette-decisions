@@ -1,0 +1,31 @@
+- generic [ref=f16e2]:
+  - generic:
+    - paragraph [ref=f16e4]: "02"
+    - paragraph [ref=f16e5]: Основные типы сканеров
+    - heading "Разные способы «увидеть» форму объекта" [level=2] [ref=f16e6]
+    - generic [ref=f16e7]:
+      - paragraph [ref=f16e9]: Лазерный
+      - paragraph [ref=f16e10]: Луч лазера скользит по объекту, камера считывает отражение
+      - generic [ref=f16e12]:
+        - paragraph [ref=f16e13]: Точность
+        - paragraph [ref=f16e14]: 75%
+    - generic [ref=f16e17]:
+      - paragraph [ref=f16e19]: Структурированный свет
+      - paragraph [ref=f16e20]: Проектор рисует сетку света, её искажение выдаёт форму
+      - generic [ref=f16e22]:
+        - paragraph [ref=f16e23]: Точность
+        - paragraph [ref=f16e24]: 95%
+    - generic [ref=f16e27]:
+      - paragraph [ref=f16e29]: Фотограмметрия
+      - paragraph [ref=f16e30]: Программа «сшивает» в 3D-модель множество обычных фото
+      - generic [ref=f16e32]:
+        - paragraph [ref=f16e33]: Точность
+        - paragraph [ref=f16e34]: 60%
+    - generic [ref=f16e37]:
+      - paragraph [ref=f16e39]: Контактный (щуповой)
+      - paragraph [ref=f16e40]: Щуп физически касается точек на поверхности объекта
+      - generic [ref=f16e42]:
+        - paragraph [ref=f16e43]: Точность
+        - paragraph [ref=f16e44]: 100%
+    - paragraph [ref=f16e47]: 3D-сканер · Принцип работы
+    - paragraph [ref=f16e48]: "03"

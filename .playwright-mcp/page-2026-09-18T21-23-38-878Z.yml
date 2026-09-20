@@ -1,0 +1,10 @@
+- generic [ref=f14e2]:
+  - generic:
+    - paragraph [ref=f14e4]: 10 КЛАСС
+    - paragraph [ref=f14e5]: Технологии
+    - heading "ПРИНЦИП РАБОТЫ 3D-СКАНЕРА" [level=1] [ref=f14e6]: ПРИНЦИПРАБОТЫ3D-СКАНЕРА
+    - paragraph [ref=f14e7]: Как устройство «видит» форму реального предмета и превращает её в цифровую 3D-модель
+    - img "Каркасная модель сканируемого объекта" [ref=f14e18]
+    - separator [ref=f14e43]
+    - paragraph [ref=f14e44]: Объект сканирования
+    - paragraph [ref=f14e45]: "01"

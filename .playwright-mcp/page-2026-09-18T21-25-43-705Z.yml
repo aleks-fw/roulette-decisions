@@ -1,0 +1,18 @@
+- generic [ref=f19e3]:
+  - paragraph [ref=f19e5]: "05"
+  - paragraph [ref=f19e6]: Как сканер видит форму
+  - heading "Свет, отражение и простая геометрия" [level=2] [ref=f19e7]
+  - paragraph [ref=f19e9]: точка на поверхности
+  - paragraph [ref=f19e12]: известное расстояние
+  - paragraph [ref=f19e15]: Излучатель
+  - paragraph [ref=f19e18]: Сенсор
+  - paragraph [ref=f19e19]: "01"
+  - paragraph [ref=f19e20]: Сканер посылает луч света на объект.
+  - paragraph [ref=f19e21]: "02"
+  - paragraph [ref=f19e22]: Свет отражается от поверхности под определённым углом.
+  - paragraph [ref=f19e23]: "03"
+  - paragraph [ref=f19e24]: Сенсор ловит отражение и «видит» этот угол.
+  - paragraph [ref=f19e25]: "04"
+  - paragraph [ref=f19e26]: Зная углы и расстояние между излучателем и сенсором, компьютер вычисляет точные координаты точки.
+  - paragraph [ref=f19e27]: 3D-сканер · Принцип работы
+  - paragraph [ref=f19e28]: "06"
