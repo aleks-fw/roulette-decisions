@@ -1,0 +1,26 @@
+- generic [active] [ref=f1e1]:
+  - main [ref=f1e2]:
+    - 'region "2 из 5: Что это" [ref=f1e50]':
+      - generic [ref=f1e51]:
+        - generic [ref=f1e52]: Основы
+        - heading "Что такое обеспечение мобильных устройств" [level=2] [ref=f1e56]
+    - generic:
+      - generic: Mobile
+      - generic: 02 / 05
+    - navigation "Навигация по слайдам" [ref=f1e22]:
+      - generic [ref=f1e24]:
+        - button "Предыдущий слайд" [ref=f1e57]
+        - list [ref=f1e25]:
+          - listitem [ref=f1e26]:
+            - 'button "Слайд 1: Титул" [ref=f1e27]'
+          - listitem [ref=f1e30]:
+            - 'button "Слайд 2: Что это" [ref=f1e31]'
+          - listitem [ref=f1e33]:
+            - 'button "Слайд 3: Компоненты" [ref=f1e34]'
+          - listitem [ref=f1e36]:
+            - 'button "Слайд 4: Безопасность" [ref=f1e37]'
+          - listitem [ref=f1e39]:
+            - 'button "Слайд 5: Итог" [ref=f1e40]'
+        - button "Следующий слайд" [ref=f1e42]
+    - paragraph [ref=f1e45]: "Слайд 2 из 5: Что это"
+  - alert [ref=f1e46]

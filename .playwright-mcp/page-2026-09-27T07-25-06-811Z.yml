@@ -1,0 +1,53 @@
+- generic [active] [ref=f13e1]:
+  - link "Перейти к содержанию" [ref=f13e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f13e3]:
+    - generic [ref=f13e4]:
+      - link "Здрасьте, гости — на главную" [ref=f13e5] [cursor=pointer]:
+        - /url: index.html#top
+        - img "Здрасьте, гости — семейное кафе" [ref=f13e6]
+      - navigation "Основная навигация" [ref=f13e7]:
+        - link "Меню" [ref=f13e8] [cursor=pointer]:
+          - /url: menu.html
+        - link "Отзывы" [ref=f13e9] [cursor=pointer]:
+          - /url: index.html#trust
+        - link "Удобства" [ref=f13e10] [cursor=pointer]:
+          - /url: index.html#amenities
+        - link "Контакты" [ref=f13e11] [cursor=pointer]:
+          - /url: index.html#contact
+      - generic [ref=f13e12]:
+        - link "На карте" [ref=f13e13] [cursor=pointer]:
+          - /url: index.html#contact
+        - 'link "Позвонить: +7 978 523-01-45" [ref=f13e14] [cursor=pointer]':
+          - /url: tel:+79785230145
+          - generic [aria-hidden] [ref=f13e17]: +7 978 523-01-45
+  - main [ref=f13e18]:
+    - generic [ref=f13e19]:
+      - generic [aria-hidden] [ref=f13e20]: ✓
+      - heading "Спасибо, заказ оплачен!" [level=1] [ref=f13e21]: Спасибо,заказ оплачен!
+      - paragraph [ref=f13e22]: Заказ № ZG-ABC123
+      - paragraph [ref=f13e23]: Мы уже готовим. Если нужно что-то уточнить — позвоним по указанному номеру.
+      - link "Вернуться в меню" [ref=f13e24] [cursor=pointer]:
+        - /url: menu.html
+  - contentinfo [ref=f13e25]:
+    - generic [ref=f13e26]:
+      - generic [ref=f13e27]: Здрасьте,гости
+      - generic [ref=f13e28]:
+        - generic [ref=f13e29]:
+          - heading "Контакты" [level=3] [ref=f13e30]
+          - paragraph [ref=f13e31]:
+            - link "+7 978 523-01-45" [ref=f13e32] [cursor=pointer]:
+              - /url: tel:+79785230145
+          - paragraph [ref=f13e33]: ул. Калинина, 11, Джанкой,1 этаж, Республика Крым
+        - generic [ref=f13e34]:
+          - heading "Часы" [level=3] [ref=f13e35]
+          - paragraph [ref=f13e36]: Ежедневно 8:00–21:00
+          - paragraph [ref=f13e37]: "Завтраки: 9:00–12:00"
+        - generic [ref=f13e38]:
+          - heading "На карте" [level=3] [ref=f13e39]
+          - paragraph [ref=f13e40]:
+            - link "Яндекс.Карты →" [ref=f13e41] [cursor=pointer]:
+              - /url: https://yandex.ru/maps/org/zdraste_gosti/145250516033/
+    - generic [ref=f13e42]:
+      - generic [ref=f13e43]: © 2026 «Здрасьте, гости»
+      - generic [ref=f13e44]: Хорошее место 2026

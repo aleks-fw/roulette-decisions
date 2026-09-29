@@ -1,0 +1,907 @@
+- generic [active] [ref=f4e1]:
+  - link "Перейти к содержанию" [ref=f4e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - link "Здрасьте, гости — на главную" [ref=f4e5] [cursor=pointer]:
+        - /url: index.html#top
+        - img "Здрасьте, гости — семейное кафе" [ref=f4e6]
+      - navigation "Основная навигация" [ref=f4e7]:
+        - link "Меню" [ref=f4e8] [cursor=pointer]:
+          - /url: menu.html
+        - link "Отзывы" [ref=f4e9] [cursor=pointer]:
+          - /url: index.html#trust
+        - link "Удобства" [ref=f4e10] [cursor=pointer]:
+          - /url: index.html#amenities
+        - link "Контакты" [ref=f4e11] [cursor=pointer]:
+          - /url: index.html#contact
+      - generic [ref=f4e12]:
+        - link "На карте" [ref=f4e13] [cursor=pointer]:
+          - /url: index.html#contact
+        - 'link "Позвонить: +7 978 523-01-45" [ref=f4e14] [cursor=pointer]':
+          - /url: tel:+79785230145
+          - generic [aria-hidden] [ref=f4e17]: +7 978 523-01-45
+  - main [ref=f4e18]:
+    - generic [ref=f4e20]:
+      - link "← На главную" [ref=f4e21] [cursor=pointer]:
+        - /url: index.html
+      - heading "Меню хорошего настроения" [level=1] [ref=f4e22]: Меню хорошегонастроения
+      - paragraph [ref=f4e23]:
+        - text: Встречаем с улыбкой, готовим с любовью! Бронь и предзаказ —
+        - link "+7 978 523 01 45" [ref=f4e24] [cursor=pointer]:
+          - /url: tel:+79785230145
+      - paragraph [ref=f4e25]: Демо-сайт · все цены 1 ₽
+      - paragraph [ref=f4e26]: Дорогие гости, убедительная просьба при наличии какой-либо пищевой аллергии сообщить официанту. Заранее спасибо!
+    - navigation "Разделы меню" [ref=f4e27]:
+      - generic [ref=f4e28]:
+        - link "Завтраки" [ref=f4e29] [cursor=pointer]:
+          - /url: "#breakfast"
+        - link "Блины" [ref=f4e30] [cursor=pointer]:
+          - /url: "#pancakes"
+        - link "Первые блюда" [ref=f4e31] [cursor=pointer]:
+          - /url: "#soups"
+        - link "Салаты" [ref=f4e32] [cursor=pointer]:
+          - /url: "#salads"
+        - link "Холодные закуски" [ref=f4e33] [cursor=pointer]:
+          - /url: "#cold-snacks"
+        - link "Горячие закуски" [ref=f4e34] [cursor=pointer]:
+          - /url: "#hot-snacks"
+        - link "Вторые блюда" [ref=f4e35] [cursor=pointer]:
+          - /url: "#mains"
+        - link "Пасты" [ref=f4e36] [cursor=pointer]:
+          - /url: "#pasta"
+        - link "Пицца" [ref=f4e37] [cursor=pointer]:
+          - /url: "#pizza"
+        - link "Сладкая пицца" [ref=f4e38] [cursor=pointer]:
+          - /url: "#sweet-pizza"
+        - link "Гарниры" [ref=f4e39] [cursor=pointer]:
+          - /url: "#sides"
+        - link "Детское меню" [ref=f4e40] [cursor=pointer]:
+          - /url: "#kids"
+    - generic [ref=f4e42]:
+      - generic [ref=f4e43]:
+        - heading "Завтраки с 9:00 до 12:00" [level=2] [ref=f4e44]:
+          - text: Завтраки
+          - generic [ref=f4e45]: с 9:00 до 12:00
+        - list [ref=f4e46]:
+          - listitem [ref=f4e47]:
+            - generic [ref=f4e48]:
+              - generic [ref=f4e49]:
+                - text: Омлет с лососем и икрой тобико
+                - emphasis [ref=f4e50]: Новинка
+              - generic [ref=f4e52]: 1 руб.
+              - generic [ref=f4e54]:
+                - 'button "Убрать одну порцию: Омлет с лососем и икрой тобико" [ref=f4e55] [cursor=pointer]': −
+                - status [ref=f4e56]: "1"
+                - 'button "Добавить ещё: Омлет с лососем и икрой тобико" [ref=f4e57] [cursor=pointer]': +
+            - generic [ref=f4e58]:
+              - paragraph [ref=f4e59]: яйца кур, молоко, лосось с/с, лук зеленый, кунжут, икра тобико
+              - generic [ref=f4e60]: 200 г
+          - listitem [ref=f4e61]:
+            - generic [ref=f4e62]:
+              - generic [ref=f4e63]:
+                - text: Омлет с томленой говядиной
+                - emphasis [ref=f4e64]: Новинка
+              - generic [ref=f4e66]: 1 руб.
+              - 'button "Добавить в корзину: Омлет с томленой говядиной" [ref=f4e68] [cursor=pointer]': +
+            - generic [ref=f4e69]:
+              - paragraph [ref=f4e70]: яйца кур, молоко, томленая говядина, лук зеленый
+              - generic [ref=f4e71]: 200 г
+          - listitem [ref=f4e72]:
+            - generic [ref=f4e73]:
+              - generic [ref=f4e74]: Шакшука с говяжьим фаршем и чиабаттой
+              - generic [ref=f4e76]: 1 руб.
+              - 'button "Добавить в корзину: Шакшука с говяжьим фаршем и чиабаттой" [ref=f4e78] [cursor=pointer]': +
+            - generic [ref=f4e79]:
+              - paragraph [ref=f4e80]: яйцо куриное, фарш говяжий, лук ялтинский, перец болгарский, помидор свежий, соус томатный, перчик халапеньо, кукуруза консерв., зелень
+              - generic [ref=f4e81]: 400 г
+          - listitem [ref=f4e82]:
+            - generic [ref=f4e83]:
+              - generic [ref=f4e84]: Сырники с конфитюром и сметаной
+              - generic [ref=f4e86]: 1 руб.
+              - 'button "Добавить в корзину: Сырники с конфитюром и сметаной" [ref=f4e88] [cursor=pointer]': +
+            - paragraph [ref=f4e90]: 3 шт, в меню до 21:30
+          - listitem [ref=f4e91]:
+            - generic [ref=f4e92]:
+              - generic [ref=f4e93]: Американский завтрак
+              - generic [ref=f4e95]: 1 руб.
+              - 'button "Добавить в корзину: Американский завтрак" [ref=f4e97] [cursor=pointer]': +
+            - generic [ref=f4e98]:
+              - paragraph [ref=f4e99]: глазунья из 2-х яиц, бекон, чиабатта, фри, колбаски говяжьи, кукуруза консерв., огурец маринованный, кетчуп
+              - generic [ref=f4e100]: 430 г
+          - listitem [ref=f4e101]:
+            - generic [ref=f4e102]:
+              - generic [ref=f4e103]:
+                - text: Сырные вафли с креветкой под сливочно-икорным соусом
+                - emphasis [ref=f4e104]: Новинка
+              - generic [ref=f4e106]: 1 руб.
+              - 'button "Добавить в корзину: Сырные вафли с креветкой под сливочно-икорным соусом" [ref=f4e108] [cursor=pointer]': +
+            - generic [ref=f4e109]:
+              - paragraph [ref=f4e110]: сырные вафли, шпинат, кабачок, яйцо кур., сливочно-икорный соус
+              - generic [ref=f4e111]: 320 г
+          - listitem [ref=f4e112]:
+            - generic [ref=f4e113]:
+              - generic [ref=f4e114]: Картофельные вафли со слабосоленым лососем и яйцом пашот
+              - generic [ref=f4e116]: 1 руб.
+              - 'button "Добавить в корзину: Картофельные вафли со слабосоленым лососем и яйцом пашот" [ref=f4e118] [cursor=pointer]': +
+            - generic [ref=f4e119]:
+              - paragraph [ref=f4e120]: картофельные вафли, с/с лосось, огурец свежий, сливочно-сырный соус, яйцо
+              - generic [ref=f4e121]: 320 г
+          - listitem [ref=f4e122]:
+            - generic [ref=f4e123]:
+              - generic [ref=f4e124]:
+                - text: Панкейки с медом и грецкими орехами
+                - emphasis [ref=f4e125]: Новинка
+              - generic [ref=f4e127]: 1 руб.
+              - 'button "Добавить в корзину: Панкейки с медом и грецкими орехами" [ref=f4e129] [cursor=pointer]': +
+            - generic [ref=f4e130]:
+              - paragraph
+              - generic [ref=f4e131]: 190 г
+      - generic [ref=f4e132]:
+        - heading "Блины до 21:30" [level=2] [ref=f4e133]:
+          - text: Блины
+          - generic [ref=f4e134]: до 21:30
+        - list [ref=f4e135]:
+          - listitem [ref=f4e136]:
+            - generic [ref=f4e137]:
+              - generic [ref=f4e138]: С апельсином и мороженым (3 шт.)
+              - generic [ref=f4e140]: 1 руб.
+              - 'button "Добавить в корзину: С апельсином и мороженым (3 шт.)" [ref=f4e142] [cursor=pointer]': +
+            - generic [ref=f4e143]:
+              - paragraph
+              - generic [ref=f4e144]: 320 г
+          - listitem [ref=f4e145]:
+            - generic [ref=f4e146]:
+              - generic [ref=f4e147]: С курицей и грибами (3 шт.)
+              - generic [ref=f4e149]: 1 руб.
+              - 'button "Добавить в корзину: С курицей и грибами (3 шт.)" [ref=f4e151] [cursor=pointer]': +
+            - generic [ref=f4e152]:
+              - paragraph
+              - generic [ref=f4e153]: 300 г
+          - listitem [ref=f4e154]:
+            - generic [ref=f4e155]:
+              - generic [ref=f4e156]: С лососем и шпинатом (3 шт.)
+              - generic [ref=f4e158]: 1 руб.
+              - 'button "Добавить в корзину: С лососем и шпинатом (3 шт.)" [ref=f4e160] [cursor=pointer]': +
+            - generic [ref=f4e161]:
+              - paragraph
+              - generic [ref=f4e162]: 310 г
+          - listitem [ref=f4e163]:
+            - generic [ref=f4e164]:
+              - generic [ref=f4e165]: С карамелизированным яблоком (3 шт.)
+              - generic [ref=f4e167]: 1 руб.
+              - 'button "Добавить в корзину: С карамелизированным яблоком (3 шт.)" [ref=f4e169] [cursor=pointer]': +
+            - generic [ref=f4e170]:
+              - paragraph
+              - generic [ref=f4e171]: 260 г
+          - listitem [ref=f4e172]:
+            - generic [ref=f4e173]:
+              - generic [ref=f4e174]: С бананом, нутеллой и шариком мороженого (2 шт.)
+              - generic [ref=f4e176]: 1 руб.
+              - 'button "Добавить в корзину: С бананом, нутеллой и шариком мороженого (2 шт.)" [ref=f4e178] [cursor=pointer]': +
+            - generic [ref=f4e179]:
+              - paragraph
+              - generic [ref=f4e180]: 270 г
+          - listitem [ref=f4e181]:
+            - generic [ref=f4e182]:
+              - generic [ref=f4e183]: С вишней и творожным сыром (3 шт.)
+              - generic [ref=f4e185]: 1 руб.
+              - 'button "Добавить в корзину: С вишней и творожным сыром (3 шт.)" [ref=f4e187] [cursor=pointer]': +
+            - generic [ref=f4e188]:
+              - paragraph
+              - generic [ref=f4e189]: 350 г
+          - listitem [ref=f4e190]:
+            - generic [ref=f4e191]:
+              - generic [ref=f4e192]: Со слабосоленым лососем и творожным сыром (2 шт.)
+              - generic [ref=f4e194]: 1 руб.
+              - 'button "Добавить в корзину: Со слабосоленым лососем и творожным сыром (2 шт.)" [ref=f4e196] [cursor=pointer]': +
+            - generic [ref=f4e197]:
+              - paragraph
+              - generic [ref=f4e198]: 260 г
+          - listitem [ref=f4e199]:
+            - generic [ref=f4e200]:
+              - generic [ref=f4e201]: Со сметаной и сгущенкой (3 шт.)
+              - generic [ref=f4e203]: 1 руб.
+              - 'button "Добавить в корзину: Со сметаной и сгущенкой (3 шт.)" [ref=f4e205] [cursor=pointer]': +
+            - generic [ref=f4e206]:
+              - paragraph
+              - generic [ref=f4e207]: 260 г
+      - generic [ref=f4e208]:
+        - heading "Первые блюда" [level=2] [ref=f4e209]
+        - list [ref=f4e210]:
+          - listitem [ref=f4e211]:
+            - generic [ref=f4e212]:
+              - generic [ref=f4e213]: Борщик, как у мамы
+              - generic [ref=f4e215]: 1 руб.
+              - 'button "Добавить в корзину: Борщик, как у мамы" [ref=f4e217] [cursor=pointer]': +
+            - generic [ref=f4e218]:
+              - paragraph [ref=f4e219]: подается с салом, бородинским хлебом, сметаной и зеленым луком
+              - generic [ref=f4e220]: 350 г
+          - listitem [ref=f4e221]:
+            - generic [ref=f4e222]:
+              - generic [ref=f4e223]: Солянка
+              - generic [ref=f4e225]: 1 руб.
+              - 'button "Добавить в корзину: Солянка" [ref=f4e227] [cursor=pointer]': +
+            - generic [ref=f4e228]:
+              - paragraph [ref=f4e229]: подается с бородинским хлебом и сметаной
+              - generic [ref=f4e230]: 370/30 г
+          - listitem [ref=f4e231]:
+            - generic [ref=f4e232]:
+              - generic [ref=f4e233]: Куриный супчик
+              - generic [ref=f4e235]: 1 руб.
+              - 'button "Добавить в корзину: Куриный супчик" [ref=f4e237] [cursor=pointer]': +
+            - generic [ref=f4e238]:
+              - paragraph [ref=f4e239]: с лапшой и перепелиным яйцом
+              - generic [ref=f4e240]: 350 г
+          - listitem [ref=f4e241]:
+            - generic [ref=f4e242]:
+              - generic [ref=f4e243]: Авторский «Том-ям» с фунчозой
+              - generic [ref=f4e245]: 1 руб.
+              - 'button "Добавить в корзину: Авторский «Том-ям» с фунчозой" [ref=f4e247] [cursor=pointer]': +
+            - generic [ref=f4e248]:
+              - paragraph
+              - generic [ref=f4e249]: 370 г
+          - listitem [ref=f4e250]:
+            - generic [ref=f4e251]:
+              - generic [ref=f4e252]: Сырный суп с беконом
+              - generic [ref=f4e254]: 1 руб.
+              - 'button "Добавить в корзину: Сырный суп с беконом" [ref=f4e256] [cursor=pointer]': +
+            - generic [ref=f4e257]:
+              - paragraph
+              - generic [ref=f4e258]: 350 г
+          - listitem [ref=f4e259]:
+            - generic [ref=f4e260]:
+              - generic [ref=f4e261]: Рамен с говядиной
+              - generic [ref=f4e263]: 1 руб.
+              - 'button "Добавить в корзину: Рамен с говядиной" [ref=f4e265] [cursor=pointer]': +
+            - generic [ref=f4e266]:
+              - paragraph
+              - generic [ref=f4e267]: 350 г
+      - generic [ref=f4e268]:
+        - heading "Салаты" [level=2] [ref=f4e269]
+        - list [ref=f4e270]:
+          - listitem [ref=f4e271]:
+            - generic [ref=f4e272]:
+              - generic [ref=f4e273]:
+                - text: Овощной салат аля греческий
+                - emphasis [ref=f4e274]: Новинка
+              - generic [ref=f4e276]: 1 руб.
+              - 'button "Добавить в корзину: Овощной салат аля греческий" [ref=f4e278] [cursor=pointer]': +
+            - generic [ref=f4e279]:
+              - paragraph [ref=f4e280]: микс салата, помидоры черри, огурец свежий, двойной сыр, перец болгарский, редис, маслины, соус лимонный
+              - generic [ref=f4e281]: 200 г
+          - listitem [ref=f4e282]:
+            - generic [ref=f4e283]:
+              - generic [ref=f4e284]:
+                - text: Салат с тунцом
+                - emphasis [ref=f4e285]: Новинка
+              - generic [ref=f4e287]: 1 руб.
+              - 'button "Добавить в корзину: Салат с тунцом" [ref=f4e289] [cursor=pointer]': +
+            - generic [ref=f4e290]:
+              - paragraph [ref=f4e291]: микс салата, тунец консерв., помидор черри, лук ялтинский, картофель бэби, маслины, огурец свежий, редис, эспума, соус медово-горчичный
+              - generic [ref=f4e292]: 270 г
+          - listitem [ref=f4e293]:
+            - generic [ref=f4e294]:
+              - generic [ref=f4e295]:
+                - text: Салат с говяжьим языком
+                - emphasis [ref=f4e296]: Новинка
+              - generic [ref=f4e298]: 1 руб.
+              - 'button "Добавить в корзину: Салат с говяжьим языком" [ref=f4e300] [cursor=pointer]': +
+            - generic [ref=f4e301]:
+              - paragraph [ref=f4e302]: микс салата, огурец свежий, помидор черри, перец болгарский, язык говяжий, ореховый соус, соевый соус, кунжут
+              - generic [ref=f4e303]: 215 г
+          - listitem [ref=f4e304]:
+            - generic [ref=f4e305]:
+              - generic [ref=f4e306]: Цезарь с лососем
+              - generic [ref=f4e308]: 1 руб.
+              - 'button "Добавить в корзину: Цезарь с лососем" [ref=f4e310] [cursor=pointer]': +
+            - generic [ref=f4e311]:
+              - paragraph [ref=f4e312]: лосось с/с, айсберг, микс салата, помидор черри, пармезан, перепелиное яйцо, соус «цезарь», эспума, крипсы
+              - generic [ref=f4e313]: 210 г
+          - listitem [ref=f4e314]:
+            - generic [ref=f4e315]:
+              - generic [ref=f4e316]: Цезарь с креветкой
+              - generic [ref=f4e318]: 1 руб.
+              - 'button "Добавить в корзину: Цезарь с креветкой" [ref=f4e320] [cursor=pointer]': +
+            - generic [ref=f4e321]:
+              - paragraph [ref=f4e322]: креветка тигровая, айсберг, микс салата, помидор черри, пармезан, соус «цезарь», эспума, крипсы
+              - generic [ref=f4e323]: 240 г
+          - listitem [ref=f4e324]:
+            - generic [ref=f4e325]:
+              - generic [ref=f4e326]: Цезарь с курицей и беконом
+              - generic [ref=f4e328]: 1 руб.
+              - 'button "Добавить в корзину: Цезарь с курицей и беконом" [ref=f4e330] [cursor=pointer]': +
+            - generic [ref=f4e331]:
+              - paragraph [ref=f4e332]: филе куриное, бекон, айсберг, микс салата, помидор черри, перепелиное яйцо, пармезан, соус «цезарь», эспума, крипсы
+              - generic [ref=f4e333]: 240 г
+          - listitem [ref=f4e334]:
+            - generic [ref=f4e335]:
+              - generic [ref=f4e336]: С томленой телятиной и жареными овощами
+              - generic [ref=f4e338]: 1 руб.
+              - 'button "Добавить в корзину: С томленой телятиной и жареными овощами" [ref=f4e340] [cursor=pointer]': +
+            - generic [ref=f4e341]:
+              - paragraph [ref=f4e342]: микс салата, томленая телятина, баклажан, кабачок, перец болгарский, картофель бэби, помидор черри, соус бальзамик
+              - generic [ref=f4e343]: 230 г
+          - listitem [ref=f4e344]:
+            - generic [ref=f4e345]:
+              - generic [ref=f4e346]: Салат «По-деревенски»
+              - generic [ref=f4e348]: 1 руб.
+              - 'button "Добавить в корзину: Салат «По-деревенски»" [ref=f4e350] [cursor=pointer]': +
+            - generic [ref=f4e351]:
+              - paragraph [ref=f4e352]: охотничьи колбаски, картофель бэби фри, микс салата, помидор черри, яйцо куриное, перепелиное, лук ялтинский, огурцы маринованные, соус медово-горчичный
+              - generic [ref=f4e353]: 350 г
+          - listitem [ref=f4e354]:
+            - generic [ref=f4e355]:
+              - generic [ref=f4e356]: С креветкой, хрустящим баклажаном и двойным сыром
+              - generic [ref=f4e358]: 1 руб.
+              - 'button "Добавить в корзину: С креветкой, хрустящим баклажаном и двойным сыром" [ref=f4e360] [cursor=pointer]': +
+            - generic [ref=f4e361]:
+              - paragraph [ref=f4e362]: микс салата, помидор черри, хрустящий баклажан, тигровые креветки, двойной сыр, соус медово-горчичный, кунжут
+              - generic [ref=f4e363]: 350 г
+          - listitem [ref=f4e364]:
+            - generic [ref=f4e365]:
+              - generic [ref=f4e366]: Салат из морепродуктов
+              - generic [ref=f4e368]: 1 руб.
+              - 'button "Добавить в корзину: Салат из морепродуктов" [ref=f4e370] [cursor=pointer]': +
+            - generic [ref=f4e371]:
+              - paragraph [ref=f4e372]: кальмары, мидии, креветки, свежий огурец, помидор черри, лук ялтинский, соус сливочно-сырный, микс салата
+              - generic [ref=f4e373]: 270 г
+      - generic [ref=f4e374]:
+        - heading "Холодные закуски" [level=2] [ref=f4e375]
+        - list [ref=f4e376]:
+          - listitem [ref=f4e377]:
+            - generic [ref=f4e378]:
+              - generic [ref=f4e379]: Брускетта с телятиной
+              - generic [ref=f4e381]: 1 руб.
+              - 'button "Добавить в корзину: Брускетта с телятиной" [ref=f4e383] [cursor=pointer]': +
+            - generic [ref=f4e384]:
+              - paragraph [ref=f4e385]: чиабатта, томленая телятина, микс салата, соус медово-горчичный, вяленые томаты
+              - generic [ref=f4e386]: 1 шт
+          - listitem [ref=f4e387]:
+            - generic [ref=f4e388]:
+              - generic [ref=f4e389]: Брускетта с лососем и двойным сыром
+              - generic [ref=f4e391]: 1 руб.
+              - 'button "Добавить в корзину: Брускетта с лососем и двойным сыром" [ref=f4e393] [cursor=pointer]': +
+            - generic [ref=f4e394]:
+              - paragraph [ref=f4e395]: чиабатта, лосось с/с, двойной сыр, помидор черри
+              - generic [ref=f4e396]: 1 шт
+          - listitem [ref=f4e397]:
+            - generic [ref=f4e398]:
+              - generic [ref=f4e399]: Брускетта с креветками и помидором конкассе
+              - generic [ref=f4e401]: 1 руб.
+              - 'button "Добавить в корзину: Брускетта с креветками и помидором конкассе" [ref=f4e403] [cursor=pointer]': +
+            - generic [ref=f4e404]:
+              - paragraph [ref=f4e405]: чиабатта, креветка тигровая, томаты конкассе, микс салата, двойной сыр
+              - generic [ref=f4e406]: 1 шт
+          - listitem [ref=f4e407]:
+            - generic [ref=f4e408]:
+              - generic [ref=f4e409]:
+                - text: Мусс из копченого лосося с тартаром из огурца
+                - emphasis [ref=f4e410]: Новинка
+              - generic [ref=f4e412]: 1 руб.
+              - 'button "Добавить в корзину: Мусс из копченого лосося с тартаром из огурца" [ref=f4e414] [cursor=pointer]': +
+            - generic [ref=f4e415]:
+              - paragraph [ref=f4e416]: копченый лосось, сливки, рикотта, свежий огурец, чиабатта
+              - generic [ref=f4e417]: 230 г
+          - listitem [ref=f4e418]:
+            - generic [ref=f4e419]:
+              - generic [ref=f4e420]: Сырный сет
+              - generic [ref=f4e422]: 1 руб.
+              - 'button "Добавить в корзину: Сырный сет" [ref=f4e424] [cursor=pointer]': +
+            - generic [ref=f4e425]:
+              - paragraph [ref=f4e426]: дорблю, чеддер, моцарелла, пармезан, мед, грецкие орехи
+              - generic [ref=f4e427]: 260 г
+      - generic [ref=f4e428]:
+        - heading "Горячие закуски" [level=2] [ref=f4e429]
+        - list [ref=f4e430]:
+          - listitem [ref=f4e431]:
+            - generic [ref=f4e432]:
+              - generic [ref=f4e433]: Чиабатта с курицей и беконом
+              - generic [ref=f4e435]: 1 руб.
+              - 'button "Добавить в корзину: Чиабатта с курицей и беконом" [ref=f4e437] [cursor=pointer]': +
+            - generic [ref=f4e438]:
+              - paragraph [ref=f4e439]: чиабатта, филе куриное, бекон, айсберг, огурец маринованный, помидор свежий, лук ялтинский, соус «цезарь»
+              - generic [ref=f4e440]: 400 г
+          - listitem [ref=f4e441]:
+            - generic [ref=f4e442]:
+              - generic [ref=f4e443]: Чиабатта со слабосол. лососем и двойным сыром
+              - generic [ref=f4e445]: 1 руб.
+              - 'button "Добавить в корзину: Чиабатта со слабосол. лососем и двойным сыром" [ref=f4e447] [cursor=pointer]': +
+            - generic [ref=f4e448]:
+              - paragraph [ref=f4e449]: чиабатта, лосось с/с, двойной сыр, микс салата, огурец свежий, помидор свежий
+              - generic [ref=f4e450]: 400 г
+          - listitem [ref=f4e451]:
+            - generic [ref=f4e452]:
+              - generic [ref=f4e453]: Чиабатта с говядиной
+              - generic [ref=f4e455]: 1 руб.
+              - 'button "Добавить в корзину: Чиабатта с говядиной" [ref=f4e457] [cursor=pointer]': +
+            - generic [ref=f4e458]:
+              - paragraph [ref=f4e459]: чиабатта, фарш говяжий, огурец маринованный, микс салата, лук ялтинский, помидор свежий, сыр чеддер, соус медово-горчичный
+              - generic [ref=f4e460]: 400 г
+          - listitem [ref=f4e461]:
+            - generic [ref=f4e462]:
+              - generic [ref=f4e463]:
+                - text: Сырный пирог с беконом
+                - emphasis [ref=f4e464]: Новинка
+              - generic [ref=f4e466]: 1 руб.
+              - 'button "Добавить в корзину: Сырный пирог с беконом" [ref=f4e468] [cursor=pointer]': +
+            - generic [ref=f4e469]:
+              - paragraph
+              - generic [ref=f4e470]: 530 г
+          - listitem [ref=f4e471]:
+            - generic [ref=f4e472]:
+              - generic [ref=f4e473]:
+                - text: Хрустящие шампиньоны в соусе сладкий чили
+                - emphasis [ref=f4e474]: Новинка
+              - generic [ref=f4e476]: 1 руб.
+              - 'button "Добавить в корзину: Хрустящие шампиньоны в соусе сладкий чили" [ref=f4e478] [cursor=pointer]': +
+            - generic [ref=f4e479]:
+              - paragraph [ref=f4e480]: подается с салатиком из помидоров черри
+              - generic [ref=f4e481]: 270 г
+          - listitem [ref=f4e482]:
+            - generic [ref=f4e483]:
+              - generic [ref=f4e484]: Тосты со слабосоленым лососем
+              - generic [ref=f4e486]: 1 руб.
+              - 'button "Добавить в корзину: Тосты со слабосоленым лососем" [ref=f4e488] [cursor=pointer]': +
+            - generic [ref=f4e489]:
+              - paragraph [ref=f4e490]: хлеб тостерный, лосось с/с, домашний майонез, икра тобико, соус унаги, кунжут
+              - generic [ref=f4e491]: 200 г
+          - listitem [ref=f4e492]:
+            - generic [ref=f4e493]:
+              - generic [ref=f4e494]: Куриные крылья в медово-горчичном соусе
+              - generic [ref=f4e496]: 1 руб.
+              - 'button "Добавить в корзину: Куриные крылья в медово-горчичном соусе" [ref=f4e498] [cursor=pointer]': +
+            - generic [ref=f4e499]:
+              - paragraph [ref=f4e500]: подаются с соусами «цезарь» и «BBQ»
+              - generic [ref=f4e501]: 450 г
+          - listitem [ref=f4e502]:
+            - generic [ref=f4e503]:
+              - generic [ref=f4e504]:
+                - text: Соте из морепродуктов с овощами в сливочном соусе
+                - emphasis [ref=f4e505]: Новинка
+              - generic [ref=f4e507]: 1 руб.
+              - 'button "Добавить в корзину: Соте из морепродуктов с овощами в сливочном соусе" [ref=f4e509] [cursor=pointer]': +
+            - generic [ref=f4e510]:
+              - paragraph [ref=f4e511]: мидии в створке, кальмары, креветка, сливки, перец болгарский, кабачок, картофель бэби, чиабатта
+              - generic [ref=f4e512]: 430 г
+          - listitem [ref=f4e513]:
+            - generic [ref=f4e514]:
+              - generic [ref=f4e515]: Моцарелла фри с ягодным конфитюром
+              - generic [ref=f4e517]: 1 руб.
+              - 'button "Добавить в корзину: Моцарелла фри с ягодным конфитюром" [ref=f4e519] [cursor=pointer]': +
+            - generic [ref=f4e520]:
+              - paragraph
+              - generic [ref=f4e521]: 150/40 г
+      - generic [ref=f4e522]:
+        - heading "Вторые блюда" [level=2] [ref=f4e523]
+        - list [ref=f4e524]:
+          - listitem [ref=f4e525]:
+            - generic [ref=f4e526]:
+              - generic [ref=f4e527]: Стейк из свиного ошейка с картофелем «По-деревенски»
+              - generic [ref=f4e529]: 1 руб.
+              - 'button "Добавить в корзину: Стейк из свиного ошейка с картофелем «По-деревенски»" [ref=f4e531] [cursor=pointer]': +
+            - generic [ref=f4e532]:
+              - paragraph [ref=f4e533]: подается с соусом «BBQ»
+              - generic [ref=f4e534]: 450/40 г
+          - listitem [ref=f4e535]:
+            - generic [ref=f4e536]:
+              - generic [ref=f4e537]: Томленые свиные ребра BBQ
+              - generic [ref=f4e539]: 1 руб.
+              - 'button "Добавить в корзину: Томленые свиные ребра BBQ" [ref=f4e541] [cursor=pointer]': +
+            - generic [ref=f4e542]:
+              - paragraph [ref=f4e543]: подаются с перчиком халапеньо, ялтинским луком и маринованным огурчиком
+              - generic [ref=f4e544]: 400/40 г
+          - listitem [ref=f4e545]:
+            - generic [ref=f4e546]:
+              - generic [ref=f4e547]: Свиные медальоны в беконе
+              - generic [ref=f4e549]: 1 руб.
+              - 'button "Добавить в корзину: Свиные медальоны в беконе" [ref=f4e551] [cursor=pointer]': +
+            - generic [ref=f4e552]:
+              - paragraph [ref=f4e553]: подается с грибным соусом и картофельными дольками
+              - generic [ref=f4e554]: 450/40 г
+          - listitem [ref=f4e555]:
+            - generic [ref=f4e556]:
+              - generic [ref=f4e557]: Куриные рулетики с беконом
+              - generic [ref=f4e559]: 1 руб.
+              - 'button "Добавить в корзину: Куриные рулетики с беконом" [ref=f4e561] [cursor=pointer]': +
+            - generic [ref=f4e562]:
+              - paragraph [ref=f4e563]: подается с запеченными томатами и соусом «BBQ»
+              - generic [ref=f4e564]: 230 г
+          - listitem [ref=f4e565]:
+            - generic [ref=f4e566]:
+              - generic [ref=f4e567]:
+                - text: Жареный картофель с грибами и яйцом пашот
+                - emphasis [ref=f4e568]: Новинка
+              - generic [ref=f4e570]: 1 руб.
+              - 'button "Добавить в корзину: Жареный картофель с грибами и яйцом пашот" [ref=f4e572] [cursor=pointer]': +
+            - generic [ref=f4e573]:
+              - paragraph [ref=f4e574]: картофель, шампиньоны, яйцо, помидоры конкассе и сметано-чесночный соус
+              - generic [ref=f4e575]: 410 г
+          - listitem [ref=f4e576]:
+            - generic [ref=f4e577]:
+              - generic [ref=f4e578]: Баклажан по-сицилийски
+              - generic [ref=f4e580]: 1 руб.
+              - 'button "Добавить в корзину: Баклажан по-сицилийски" [ref=f4e582] [cursor=pointer]': +
+            - generic [ref=f4e583]:
+              - paragraph [ref=f4e584]: баклажан, помидор конкассе, лук репчатый, чеснок, фарш говяжий, сыр моцарелла, соус «песто»
+              - generic [ref=f4e585]: 310 г
+          - listitem [ref=f4e586]:
+            - generic [ref=f4e587]:
+              - generic [ref=f4e588]:
+                - text: Куриное филе в остро-сладком соусе с арахисом
+                - emphasis [ref=f4e589]: Новинка
+              - generic [ref=f4e591]: 1 руб.
+              - 'button "Добавить в корзину: Куриное филе в остро-сладком соусе с арахисом" [ref=f4e593] [cursor=pointer]': +
+            - generic [ref=f4e594]:
+              - paragraph [ref=f4e595]: подается с салатиком из овощей
+              - generic [ref=f4e596]: 370 г
+          - listitem [ref=f4e597]:
+            - generic [ref=f4e598]:
+              - generic [ref=f4e599]:
+                - text: Ризотто с морепродуктами
+                - emphasis [ref=f4e600]: Новинка
+              - generic [ref=f4e602]: 1 руб.
+              - 'button "Добавить в корзину: Ризотто с морепродуктами" [ref=f4e604] [cursor=pointer]': +
+            - generic [ref=f4e605]:
+              - paragraph [ref=f4e606]: рис арборио, лук репчатый, сливки, чеснок, мидии, кальмар, креветка, пармезан
+              - generic [ref=f4e607]: 300 г
+          - listitem [ref=f4e608]:
+            - generic [ref=f4e609]:
+              - generic [ref=f4e610]: Венский шницель с картофельным пюре и грибным жульеном
+              - generic [ref=f4e612]: 1 руб.
+              - 'button "Добавить в корзину: Венский шницель с картофельным пюре и грибным жульеном" [ref=f4e614] [cursor=pointer]': +
+            - generic [ref=f4e615]:
+              - paragraph [ref=f4e616]: куриное филе, сухари «Панко», картофельное пюре, шампиньоны, сливки, лук репчатый
+              - generic [ref=f4e617]: 420 г
+          - listitem [ref=f4e618]:
+            - generic [ref=f4e619]:
+              - generic [ref=f4e620]: Куриная грудка, фаршированная адыгейским сыром и помидорами
+              - generic [ref=f4e622]: 1 руб.
+              - 'button "Добавить в корзину: Куриная грудка, фаршированная адыгейским сыром и помидорами" [ref=f4e624] [cursor=pointer]': +
+            - generic [ref=f4e625]:
+              - paragraph [ref=f4e626]: подается с кускусом и сливочно-сырным соусом
+              - generic [ref=f4e627]: 440/50 г
+          - listitem [ref=f4e628]:
+            - generic [ref=f4e629]:
+              - generic [ref=f4e630]: Запеченный лосось на подушке из стручковой фасоли
+              - generic [ref=f4e632]: 1 руб.
+              - 'button "Добавить в корзину: Запеченный лосось на подушке из стручковой фасоли" [ref=f4e634] [cursor=pointer]': +
+            - generic [ref=f4e635]:
+              - paragraph [ref=f4e636]: под сливочно-сырным соусом
+              - generic [ref=f4e637]: 300 г
+      - generic [ref=f4e638]:
+        - heading "Пасты" [level=2] [ref=f4e639]
+        - list [ref=f4e640]:
+          - listitem [ref=f4e641]:
+            - generic [ref=f4e642]:
+              - generic [ref=f4e643]: Спагетти «Болоньезе»
+              - generic [ref=f4e645]: 1 руб.
+              - 'button "Добавить в корзину: Спагетти «Болоньезе»" [ref=f4e647] [cursor=pointer]': +
+            - generic [ref=f4e648]:
+              - paragraph [ref=f4e649]: говяжий фарш, соус томатный, перец болгарский, помидор черри, лук репчатый, чеснок
+              - generic [ref=f4e650]: 320 г
+          - listitem [ref=f4e651]:
+            - generic [ref=f4e652]:
+              - generic [ref=f4e653]: Спагетти «Карбонара»
+              - generic [ref=f4e655]: 1 руб.
+              - 'button "Добавить в корзину: Спагетти «Карбонара»" [ref=f4e657] [cursor=pointer]': +
+            - generic [ref=f4e658]:
+              - paragraph [ref=f4e659]: сливочный соус, бекон, лук репчатый, чеснок, яичный желток, пармезан
+              - generic [ref=f4e660]: 280 г
+          - listitem [ref=f4e661]:
+            - generic [ref=f4e662]:
+              - generic [ref=f4e663]: Спагетти с морепродуктами
+              - generic [ref=f4e665]: 1 руб.
+              - 'button "Добавить в корзину: Спагетти с морепродуктами" [ref=f4e667] [cursor=pointer]': +
+            - generic [ref=f4e668]:
+              - paragraph [ref=f4e669]: сливочный соус, кальмар, мидии, креветка, укроп, лук репчатый, чеснок, пармезан
+              - generic [ref=f4e670]: 300 г
+          - listitem [ref=f4e671]:
+            - generic [ref=f4e672]:
+              - generic [ref=f4e673]: Фарфалле с курицей и грибами
+              - generic [ref=f4e675]: 1 руб.
+              - 'button "Добавить в корзину: Фарфалле с курицей и грибами" [ref=f4e677] [cursor=pointer]': +
+            - generic [ref=f4e678]:
+              - paragraph [ref=f4e679]: куриное филе, шампиньоны, пармезан, сливочный соус
+              - generic [ref=f4e680]: 320 г
+          - listitem [ref=f4e681]:
+            - generic [ref=f4e682]:
+              - generic [ref=f4e683]:
+                - text: Ризони с говяжьим языком
+                - emphasis [ref=f4e684]: Новинка
+              - generic [ref=f4e686]: 1 руб.
+              - 'button "Добавить в корзину: Ризони с говяжьим языком" [ref=f4e688] [cursor=pointer]': +
+            - generic [ref=f4e689]:
+              - paragraph [ref=f4e690]: говяжий язык, лук репчатый, чеснок, сливочный соус, пармезан, помидор конкассе
+              - generic [ref=f4e691]: 310 г
+      - generic [ref=f4e692]:
+        - heading "Пицца 30 см" [level=2] [ref=f4e693]:
+          - text: Пицца
+          - generic [ref=f4e694]: 30 см
+        - list [ref=f4e695]:
+          - listitem [ref=f4e696]:
+            - generic [ref=f4e697]:
+              - generic [ref=f4e698]: Пицца «Диабло»
+              - generic [ref=f4e700]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Диабло»" [ref=f4e702] [cursor=pointer]': +
+            - paragraph [ref=f4e704]: пепперони, перчик халапеньо, моцарелла, томатный соус
+          - listitem [ref=f4e705]:
+            - generic [ref=f4e706]:
+              - generic [ref=f4e707]: Пицца «BBQ»
+              - generic [ref=f4e709]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «BBQ»" [ref=f4e711] [cursor=pointer]': +
+            - paragraph [ref=f4e713]: куриное филе, охотничьи колбаски, шампиньоны, кукуруза, моцарелла, укроп, соус «BBQ»
+          - listitem [ref=f4e714]:
+            - generic [ref=f4e715]:
+              - generic [ref=f4e716]: Пицца «4 сыра»
+              - generic [ref=f4e718]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «4 сыра»" [ref=f4e720] [cursor=pointer]': +
+            - paragraph [ref=f4e722]: моцарелла, сыр «бри», сыр «дор блю», сыр «пармезан», сливочный соус
+          - listitem [ref=f4e723]:
+            - generic [ref=f4e724]:
+              - generic [ref=f4e725]: Пицца «Гавайская»
+              - generic [ref=f4e727]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Гавайская»" [ref=f4e729] [cursor=pointer]': +
+            - paragraph [ref=f4e731]: куриное филе, маслины, ананас консерв., моцарелла, томатный соус
+          - listitem [ref=f4e732]:
+            - generic [ref=f4e733]:
+              - generic [ref=f4e734]:
+                - text: Пицца «Мясная»
+                - emphasis [ref=f4e735]: Новинка
+              - generic [ref=f4e737]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Мясная»" [ref=f4e739] [cursor=pointer]': +
+            - paragraph [ref=f4e741]: мякоть говядины, свиная вырезка, куриное филе, лук ялтинский маринованный, моцарелла, соус «BBQ», томатный соус
+          - listitem [ref=f4e742]:
+            - generic [ref=f4e743]:
+              - generic [ref=f4e744]: Пицца «Чизбургер»
+              - generic [ref=f4e746]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Чизбургер»" [ref=f4e748] [cursor=pointer]': +
+            - paragraph [ref=f4e750]: фарш говяжий, лук ялтинский, огурец маринованный, помидор черри, сыр чеддер, соус «бургер», томатный соус
+          - listitem [ref=f4e751]:
+            - generic [ref=f4e752]:
+              - generic [ref=f4e753]: Пицца «Фоджа»
+              - generic [ref=f4e755]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Фоджа»" [ref=f4e757] [cursor=pointer]': +
+            - paragraph [ref=f4e759]: соус «цезарь», моцарелла, бекон, пепперони, помидор черри, маслины, соус «песто»
+          - listitem [ref=f4e760]:
+            - generic [ref=f4e761]:
+              - generic [ref=f4e762]: Пицца «Карбонара»
+              - generic [ref=f4e764]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Карбонара»" [ref=f4e766] [cursor=pointer]': +
+            - paragraph [ref=f4e768]: бекон, ветчина, сливочный соус, шампиньоны, пармезан, моцарелла
+          - listitem [ref=f4e769]:
+            - generic [ref=f4e770]:
+              - generic [ref=f4e771]: Пицца «Кассия»
+              - generic [ref=f4e773]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Кассия»" [ref=f4e775] [cursor=pointer]': +
+            - paragraph [ref=f4e777]: охотничьи колбаски, шампиньоны, огурцы маринованные, лук ялтинский маринованный, моцарелла, томатный соус
+          - listitem [ref=f4e778]:
+            - generic [ref=f4e779]:
+              - generic [ref=f4e780]: Пицца «Колорадо»
+              - generic [ref=f4e782]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Колорадо»" [ref=f4e784] [cursor=pointer]': +
+            - paragraph [ref=f4e786]: куриное филе, шампиньоны, моцарелла, сливочный соус
+          - listitem [ref=f4e787]:
+            - generic [ref=f4e788]:
+              - generic [ref=f4e789]: Пицца «Маргарита»
+              - generic [ref=f4e791]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Маргарита»" [ref=f4e793] [cursor=pointer]': +
+            - paragraph [ref=f4e795]: помидоры черри, моцарелла, томатный соус
+          - listitem [ref=f4e796]:
+            - generic [ref=f4e797]:
+              - generic [ref=f4e798]: Пицца «Морская»
+              - generic [ref=f4e800]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Морская»" [ref=f4e802] [cursor=pointer]': +
+            - paragraph [ref=f4e804]: мидии, кальмары, креветка, помидор черри, моцарелла, укроп, томатный соус
+          - listitem [ref=f4e805]:
+            - generic [ref=f4e806]:
+              - generic [ref=f4e807]: Пицца «Норвежская»
+              - generic [ref=f4e809]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Норвежская»" [ref=f4e811] [cursor=pointer]': +
+            - paragraph [ref=f4e813]: лосось с/с, сыр «дор блю», моцарелла, укроп, сливочный соус
+          - listitem [ref=f4e814]:
+            - generic [ref=f4e815]:
+              - generic [ref=f4e816]: Пицца «Римская»
+              - generic [ref=f4e818]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Римская»" [ref=f4e820] [cursor=pointer]': +
+            - paragraph [ref=f4e822]: бекон, куриное филе, помидоры черри, кукуруза консерв., укроп, томатный соус
+          - listitem [ref=f4e823]:
+            - generic [ref=f4e824]:
+              - generic [ref=f4e825]: Пицца «Сицилия»
+              - generic [ref=f4e827]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Сицилия»" [ref=f4e829] [cursor=pointer]': +
+            - paragraph [ref=f4e831]: ветчина, куриное филе, перец болгарский, маслины, томатный соус, соус «цезарь»
+          - listitem [ref=f4e832]:
+            - generic [ref=f4e833]:
+              - generic [ref=f4e834]: Пицца «Цезарь»
+              - generic [ref=f4e836]: 1 руб.
+              - 'button "Добавить в корзину: Пицца «Цезарь»" [ref=f4e838] [cursor=pointer]': +
+            - paragraph [ref=f4e840]: куриное филе, бекон, айсберг, пармезан, соус «цезарь», моцарелла, томатный соус
+      - generic [ref=f4e841]:
+        - heading "Пицца сладкая" [level=2] [ref=f4e842]
+        - list [ref=f4e843]:
+          - listitem [ref=f4e844]:
+            - generic [ref=f4e845]:
+              - generic [ref=f4e846]: Пицца с вишней
+              - generic [ref=f4e848]: 1 руб.
+              - 'button "Добавить в корзину: Пицца с вишней" [ref=f4e850] [cursor=pointer]': +
+            - paragraph [ref=f4e852]: вишня с/м, моцарелла, ананас консерв., сгущенное молоко
+          - listitem [ref=f4e853]:
+            - generic [ref=f4e854]:
+              - generic [ref=f4e855]: Пицца с яблоком
+              - generic [ref=f4e857]: 1 руб.
+              - 'button "Добавить в корзину: Пицца с яблоком" [ref=f4e859] [cursor=pointer]': +
+            - paragraph [ref=f4e861]: яблоко, нутелла, моцарелла, грецкий орех, сливочное мороженое
+          - listitem [ref=f4e862]:
+            - generic [ref=f4e863]:
+              - generic [ref=f4e864]: Пицца с бананом
+              - generic [ref=f4e866]: 1 руб.
+              - 'button "Добавить в корзину: Пицца с бананом" [ref=f4e868] [cursor=pointer]': +
+            - paragraph [ref=f4e870]: банан, нутелла, моцарелла, сливочное мороженое, маршмеллоу
+      - generic [ref=f4e871]:
+        - heading "Гарниры" [level=2] [ref=f4e872]
+        - list [ref=f4e873]:
+          - listitem [ref=f4e874]:
+            - generic [ref=f4e875]:
+              - generic [ref=f4e876]: Картофель фри
+              - generic [ref=f4e878]: 1 руб.
+              - 'button "Добавить в корзину: Картофель фри" [ref=f4e880] [cursor=pointer]': +
+            - generic [ref=f4e881]:
+              - paragraph [ref=f4e882]: подается с кетчупом
+              - generic [ref=f4e883]: 120/40 г
+          - listitem [ref=f4e884]:
+            - generic [ref=f4e885]:
+              - generic [ref=f4e886]: Кус-кус
+              - generic [ref=f4e888]: 1 руб.
+              - 'button "Добавить в корзину: Кус-кус" [ref=f4e890] [cursor=pointer]': +
+            - generic [ref=f4e891]:
+              - paragraph
+              - generic [ref=f4e892]: 200 г
+          - listitem [ref=f4e893]:
+            - generic [ref=f4e894]:
+              - generic [ref=f4e895]: Картофельные дольки
+              - generic [ref=f4e897]: 1 руб.
+              - 'button "Добавить в корзину: Картофельные дольки" [ref=f4e899] [cursor=pointer]': +
+            - generic [ref=f4e900]:
+              - paragraph [ref=f4e901]: подается с чесночным соусом
+              - generic [ref=f4e902]: 120/40 г
+          - listitem [ref=f4e903]:
+            - generic [ref=f4e904]:
+              - generic [ref=f4e905]: Овощи-гриль
+              - generic [ref=f4e907]: 1 руб.
+              - 'button "Добавить в корзину: Овощи-гриль" [ref=f4e909] [cursor=pointer]': +
+            - generic [ref=f4e910]:
+              - paragraph [ref=f4e911]: подается с соусом песто
+              - generic [ref=f4e912]: 250/40 г
+      - generic [ref=f4e913]:
+        - heading "Меню для маленьких гостей" [level=2] [ref=f4e914]
+        - list [ref=f4e915]:
+          - listitem [ref=f4e916]:
+            - generic [ref=f4e917]:
+              - generic [ref=f4e918]: Бантики с курицей в сливочном соусе
+              - generic [ref=f4e920]: 1 руб.
+              - 'button "Добавить в корзину: Бантики с курицей в сливочном соусе" [ref=f4e922] [cursor=pointer]': +
+            - generic [ref=f4e923]:
+              - paragraph
+              - generic [ref=f4e924]: 200 г
+          - listitem [ref=f4e925]:
+            - generic [ref=f4e926]:
+              - generic [ref=f4e927]: Бургер с курочкой
+              - generic [ref=f4e929]: 1 руб.
+              - 'button "Добавить в корзину: Бургер с курочкой" [ref=f4e931] [cursor=pointer]': +
+            - generic [ref=f4e932]:
+              - paragraph
+              - generic [ref=f4e933]: 200 г
+          - listitem [ref=f4e934]:
+            - generic [ref=f4e935]:
+              - generic [ref=f4e936]: Спагетти
+              - generic [ref=f4e938]: 1 руб.
+              - 'button "Добавить в корзину: Спагетти" [ref=f4e940] [cursor=pointer]': +
+            - generic [ref=f4e941]:
+              - paragraph
+              - generic [ref=f4e942]: 100 г
+          - listitem [ref=f4e943]:
+            - generic [ref=f4e944]:
+              - generic [ref=f4e945]: Бантики
+              - generic [ref=f4e947]: 1 руб.
+              - 'button "Добавить в корзину: Бантики" [ref=f4e949] [cursor=pointer]': +
+            - generic [ref=f4e950]:
+              - paragraph
+              - generic [ref=f4e951]: 100 г
+          - listitem [ref=f4e952]:
+            - generic [ref=f4e953]:
+              - generic [ref=f4e954]: Спагетти с сыром
+              - generic [ref=f4e956]: 1 руб.
+              - 'button "Добавить в корзину: Спагетти с сыром" [ref=f4e958] [cursor=pointer]': +
+            - generic [ref=f4e959]:
+              - paragraph
+              - generic [ref=f4e960]: 130 г
+          - listitem [ref=f4e961]:
+            - generic [ref=f4e962]:
+              - generic [ref=f4e963]: Бантики с сыром
+              - generic [ref=f4e965]: 1 руб.
+              - 'button "Добавить в корзину: Бантики с сыром" [ref=f4e967] [cursor=pointer]': +
+            - generic [ref=f4e968]:
+              - paragraph
+              - generic [ref=f4e969]: 130 г
+          - listitem [ref=f4e970]:
+            - generic [ref=f4e971]:
+              - generic [ref=f4e972]: Картофельное пюре
+              - generic [ref=f4e974]: 1 руб.
+              - 'button "Добавить в корзину: Картофельное пюре" [ref=f4e976] [cursor=pointer]': +
+            - generic [ref=f4e977]:
+              - paragraph
+              - generic [ref=f4e978]: 150 г
+          - listitem [ref=f4e979]:
+            - generic [ref=f4e980]:
+              - generic [ref=f4e981]: Картофельный алфавит фри
+              - generic [ref=f4e983]: 1 руб.
+              - 'button "Добавить в корзину: Картофельный алфавит фри" [ref=f4e985] [cursor=pointer]': +
+            - generic [ref=f4e986]:
+              - paragraph [ref=f4e987]: подается с кетчупом
+              - generic [ref=f4e988]: 120 г
+          - listitem [ref=f4e989]:
+            - generic [ref=f4e990]:
+              - generic [ref=f4e991]: Куриная котлетка
+              - generic [ref=f4e993]: 1 руб.
+              - 'button "Добавить в корзину: Куриная котлетка" [ref=f4e995] [cursor=pointer]': +
+            - generic [ref=f4e996]:
+              - paragraph
+              - generic [ref=f4e997]: 70 г
+          - listitem [ref=f4e998]:
+            - generic [ref=f4e999]:
+              - generic [ref=f4e1000]: Котлетка из трески
+              - generic [ref=f4e1002]: 1 руб.
+              - 'button "Добавить в корзину: Котлетка из трески" [ref=f4e1004] [cursor=pointer]': +
+            - generic [ref=f4e1005]:
+              - paragraph
+              - generic [ref=f4e1006]: 90 г
+          - listitem [ref=f4e1007]:
+            - generic [ref=f4e1008]:
+              - generic [ref=f4e1009]: Венская сосиска
+              - generic [ref=f4e1011]: 1 руб.
+              - 'button "Добавить в корзину: Венская сосиска" [ref=f4e1013] [cursor=pointer]': +
+            - generic [ref=f4e1014]:
+              - paragraph
+              - generic [ref=f4e1015]: 70 г
+          - listitem [ref=f4e1016]:
+            - generic [ref=f4e1017]:
+              - generic [ref=f4e1018]: Наггетсы
+              - generic [ref=f4e1020]: 1 руб.
+              - 'button "Добавить в корзину: Наггетсы" [ref=f4e1022] [cursor=pointer]': +
+            - generic [ref=f4e1023]:
+              - paragraph [ref=f4e1024]: подаются с кетчупом
+              - generic [ref=f4e1025]: 160/40 г
+      - paragraph [ref=f4e1026]:
+        - text: Полное меню, состав и вес блюд могут уточняться — актуальную информацию сообщит официант в зале. Бронь и предзаказ по телефону
+        - link "+7 978 523-01-45" [ref=f4e1027] [cursor=pointer]:
+          - /url: tel:+79785230145
+        - text: .
+  - contentinfo [ref=f4e1028]:
+    - generic [ref=f4e1029]:
+      - generic [ref=f4e1030]: Здрасьте,гости
+      - generic [ref=f4e1031]:
+        - generic [ref=f4e1032]:
+          - heading "Контакты" [level=3] [ref=f4e1033]
+          - paragraph [ref=f4e1034]:
+            - link "+7 978 523-01-45" [ref=f4e1035] [cursor=pointer]:
+              - /url: tel:+79785230145
+          - paragraph [ref=f4e1036]: ул. Калинина, 11, Джанкой,1 этаж, Республика Крым
+        - generic [ref=f4e1037]:
+          - heading "Часы" [level=3] [ref=f4e1038]
+          - paragraph [ref=f4e1039]: Ежедневно 8:00–21:00
+          - paragraph [ref=f4e1040]: "Завтраки: 9:00–12:00"
+        - generic [ref=f4e1041]:
+          - heading "На карте" [level=3] [ref=f4e1042]
+          - paragraph [ref=f4e1043]:
+            - link "Яндекс.Карты →" [ref=f4e1044] [cursor=pointer]:
+              - /url: https://yandex.ru/maps/org/zdraste_gosti/145250516033/
+    - generic [ref=f4e1045]:
+      - generic [ref=f4e1046]: © 2026 «Здрасьте, гости»
+      - generic [ref=f4e1047]: Хорошее место 2026
+  - paragraph [ref=f4e1048]
+  - 'button "Корзина: 1 шт. на 1 ₽" [ref=f4e1049] [cursor=pointer]':
+    - generic [ref=f4e1050]: "1"
+    - generic [ref=f4e1051]: Корзина
+    - generic [ref=f4e1052]: 1 ₽
+    - generic [aria-hidden] [ref=f4e1053]: →

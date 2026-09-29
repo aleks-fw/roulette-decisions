@@ -1,0 +1,41 @@
+[   25538ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   25865ms] [ERROR] The final argument passed to %s changed size between renders. The order and size of this array must remain constant.
+
+Previous: %s
+Incoming: %s useEffect [5] [5, (target)=>{
+            const { slide } = __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$deck$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["deck"].get();
+            const next = Math.max(0, Math.min(total - 1, target));
+            if (next === slide || performance.now() < lockedUntil.current) return;
+            lockedUntil.current = performance.now() + LOCK_MS;
+            __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$deck$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["deck"].set({
+                slide: next,
+                prev: slide,
+                dir: next > slide ? 1 : -1,
+                changedAt: (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$deck$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["now"])(),
+                hover: null
+            });
+            history.replaceState(null, "", `#${next + 1}`);
+        }] @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:1052
+[   26273ms] [LOG] THREE.WebGLRenderer: Context Lost. @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   26874ms] [LOG] [Fast Refresh] done in 418ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   34196ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   34348ms] [LOG] [HMR] connected @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   34976ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   71159ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   71305ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   93257ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   93608ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   93771ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   93882ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   93972ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[   98265ms] [LOG] [Fast Refresh] done in 74ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[  104810ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[  104848ms] [LOG] [HMR] connected @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[  105901ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[  108599ms] [WARNING] THREE.WebGLProgram: Program Info Log: (210,81-129): warning X4122: sum of 0.996094 and -2.98545e-017 cannot be represented accurately in double precision
+(209,37-61): warning X4122: sum of 1 and -1.49272e-017 cannot be represented accurately in double precision
+(210,82-106): warning X4122: sum of 1 and -1.49272e-017 cannot be represented accurately in double precision
+(209,37-61): warning X4122: sum of 1 and -1.66644e-018 cannot be represented accurately in double precision
+(210,82-106): warning X4122: sum of 1 and -1.66644e-018 cannot be represented accurately in double precision @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[  190932ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776
+[  191072ms] [LOG] [Fast Refresh] done in 244ms @ http://localhost:3131/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js:776

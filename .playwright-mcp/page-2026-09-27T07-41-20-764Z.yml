@@ -1,0 +1,43 @@
+- generic [active] [ref=f21e1]:
+  - link "Перейти к содержанию" [ref=f21e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f21e3]:
+    - generic [ref=f21e4]:
+      - link "Здрасьте, гости — на главную" [ref=f21e5] [cursor=pointer]:
+        - /url: index.html#top
+        - img "Здрасьте, гости — семейное кафе" [ref=f21e6]
+      - 'link "Позвонить: +7 978 523-01-45" [ref=f21e8] [cursor=pointer]':
+        - /url: tel:+79785230145
+      - button "Открыть меню" [ref=f21e11] [cursor=pointer]
+  - main [ref=f21e15]:
+    - generic [ref=f21e16]:
+      - generic [aria-hidden] [ref=f21e17]: "!"
+      - heading "Оплата не прошла" [level=1] [ref=f21e18]: Оплатане прошла
+      - paragraph [ref=f21e19]: Деньги не списаны, корзина сохранена. Попробуйте ещё раз или закажите по телефону.
+      - generic [ref=f21e20]:
+        - link "Вернуться к корзине" [ref=f21e21] [cursor=pointer]:
+          - /url: menu.html#cart
+        - link "Позвонить" [ref=f21e22] [cursor=pointer]:
+          - /url: tel:+79785230145
+  - contentinfo [ref=f21e23]:
+    - generic [ref=f21e24]:
+      - generic [ref=f21e25]: Здрасьте,гости
+      - generic [ref=f21e26]:
+        - generic [ref=f21e27]:
+          - heading "Контакты" [level=3] [ref=f21e28]
+          - paragraph [ref=f21e29]:
+            - link "+7 978 523-01-45" [ref=f21e30] [cursor=pointer]:
+              - /url: tel:+79785230145
+          - paragraph [ref=f21e31]: ул. Калинина, 11, Джанкой,1 этаж, Республика Крым
+        - generic [ref=f21e32]:
+          - heading "Часы" [level=3] [ref=f21e33]
+          - paragraph [ref=f21e34]: Ежедневно 8:00–21:00
+          - paragraph [ref=f21e35]: "Завтраки: 9:00–12:00"
+        - generic [ref=f21e36]:
+          - heading "На карте" [level=3] [ref=f21e37]
+          - paragraph [ref=f21e38]:
+            - link "Яндекс.Карты →" [ref=f21e39] [cursor=pointer]:
+              - /url: https://yandex.ru/maps/org/zdraste_gosti/145250516033/
+    - generic [ref=f21e40]:
+      - generic [ref=f21e41]: © 2026 «Здрасьте, гости»
+      - generic [ref=f21e42]: Хорошее место 2026

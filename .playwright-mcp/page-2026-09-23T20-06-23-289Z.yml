@@ -1,0 +1,36 @@
+- main [ref=e2]:
+  - 'region "1 из 5: Титул" [ref=e4]':
+    - generic [ref=e5]:
+      - generic [ref=e6]: Мобильные технологии · 2026
+      - heading "Обеспечение мобильных устройств" [level=1] [ref=e10]:
+        - generic [ref=e11]: Обеспечение
+        - generic [ref=e12]: мобильных устройств
+      - paragraph [ref=e14]: Технологии, безопасность и удобство
+      - generic [ref=e15]:
+        - generic [ref=e16]: ←
+        - generic [ref=e17]: →
+        - generic [ref=e18]: навигация
+        - generic [ref=e19]: ·
+        - generic [ref=e20]: F
+        - generic [ref=e21]: полный экран
+  - generic:
+    - generic: Обеспечение мобильных устройств
+    - generic:
+      - generic: Титул
+      - generic: 01 / 05
+  - navigation "Навигация по слайдам" [ref=e22]:
+    - generic [ref=e24]:
+      - button "Предыдущий слайд" [disabled]
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - 'button "Слайд 1: Титул" [ref=e27]'
+        - listitem [ref=e30]:
+          - 'button "Слайд 2: Что это" [ref=e31]'
+        - listitem [ref=e33]:
+          - 'button "Слайд 3: Компоненты" [ref=e34]'
+        - listitem [ref=e36]:
+          - 'button "Слайд 4: Безопасность" [ref=e37]'
+        - listitem [ref=e39]:
+          - 'button "Слайд 5: Итог" [ref=e40]'
+      - button "Следующий слайд" [ref=e42]
+  - paragraph [ref=e45]: "Слайд 1 из 5: Титул"

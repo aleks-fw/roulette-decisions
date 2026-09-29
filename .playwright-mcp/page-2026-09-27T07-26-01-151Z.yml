@@ -1,0 +1,41 @@
+- generic [active] [ref=f17e1]:
+  - link "Перейти к содержанию" [ref=f17e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f17e3]:
+    - generic [ref=f17e4]:
+      - link "Здрасьте, гости — на главную" [ref=f17e5] [cursor=pointer]:
+        - /url: index.html#top
+        - img "Здрасьте, гости — семейное кафе" [ref=f17e6]
+      - 'link "Позвонить: +7 978 523-01-45" [ref=f17e8] [cursor=pointer]':
+        - /url: tel:+79785230145
+      - button "Открыть меню" [ref=f17e11] [cursor=pointer]
+  - main [ref=f17e15]:
+    - generic [ref=f17e16]:
+      - generic [aria-hidden] [ref=f17e17]: ✓
+      - heading "Спасибо, заказ оплачен!" [level=1] [ref=f17e18]: Спасибо,заказ оплачен!
+      - paragraph [ref=f17e19]: Заказ № ZG-ABC123
+      - paragraph [ref=f17e20]: Мы уже готовим. Если нужно что-то уточнить — позвоним по указанному номеру.
+      - link "Вернуться в меню" [ref=f17e21] [cursor=pointer]:
+        - /url: menu.html
+  - contentinfo [ref=f17e22]:
+    - generic [ref=f17e23]:
+      - generic [ref=f17e24]: Здрасьте,гости
+      - generic [ref=f17e25]:
+        - generic [ref=f17e26]:
+          - heading "Контакты" [level=3] [ref=f17e27]
+          - paragraph [ref=f17e28]:
+            - link "+7 978 523-01-45" [ref=f17e29] [cursor=pointer]:
+              - /url: tel:+79785230145
+          - paragraph [ref=f17e30]: ул. Калинина, 11, Джанкой,1 этаж, Республика Крым
+        - generic [ref=f17e31]:
+          - heading "Часы" [level=3] [ref=f17e32]
+          - paragraph [ref=f17e33]: Ежедневно 8:00–21:00
+          - paragraph [ref=f17e34]: "Завтраки: 9:00–12:00"
+        - generic [ref=f17e35]:
+          - heading "На карте" [level=3] [ref=f17e36]
+          - paragraph [ref=f17e37]:
+            - link "Яндекс.Карты →" [ref=f17e38] [cursor=pointer]:
+              - /url: https://yandex.ru/maps/org/zdraste_gosti/145250516033/
+    - generic [ref=f17e39]:
+      - generic [ref=f17e40]: © 2026 «Здрасьте, гости»
+      - generic [ref=f17e41]: Хорошее место 2026

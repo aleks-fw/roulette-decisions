@@ -1,0 +1,55 @@
+- generic [active] [ref=f14e1]:
+  - link "Перейти к содержанию" [ref=f14e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f14e3]:
+    - generic [ref=f14e4]:
+      - link "Здрасьте, гости — на главную" [ref=f14e5] [cursor=pointer]:
+        - /url: index.html#top
+        - img "Здрасьте, гости — семейное кафе" [ref=f14e6]
+      - navigation "Основная навигация" [ref=f14e7]:
+        - link "Меню" [ref=f14e8] [cursor=pointer]:
+          - /url: menu.html
+        - link "Отзывы" [ref=f14e9] [cursor=pointer]:
+          - /url: index.html#trust
+        - link "Удобства" [ref=f14e10] [cursor=pointer]:
+          - /url: index.html#amenities
+        - link "Контакты" [ref=f14e11] [cursor=pointer]:
+          - /url: index.html#contact
+      - generic [ref=f14e12]:
+        - link "На карте" [ref=f14e13] [cursor=pointer]:
+          - /url: index.html#contact
+        - 'link "Позвонить: +7 978 523-01-45" [ref=f14e14] [cursor=pointer]':
+          - /url: tel:+79785230145
+          - generic [aria-hidden] [ref=f14e17]: +7 978 523-01-45
+  - main [ref=f14e18]:
+    - generic [ref=f14e19]:
+      - generic [aria-hidden] [ref=f14e20]: "!"
+      - heading "Оплата не прошла" [level=1] [ref=f14e21]: Оплатане прошла
+      - paragraph [ref=f14e22]: Деньги не списаны, корзина сохранена. Попробуйте ещё раз или закажите по телефону.
+      - generic [ref=f14e23]:
+        - link "Вернуться к корзине" [ref=f14e24] [cursor=pointer]:
+          - /url: menu.html#cart
+        - link "Позвонить" [ref=f14e25] [cursor=pointer]:
+          - /url: tel:+79785230145
+  - contentinfo [ref=f14e26]:
+    - generic [ref=f14e27]:
+      - generic [ref=f14e28]: Здрасьте,гости
+      - generic [ref=f14e29]:
+        - generic [ref=f14e30]:
+          - heading "Контакты" [level=3] [ref=f14e31]
+          - paragraph [ref=f14e32]:
+            - link "+7 978 523-01-45" [ref=f14e33] [cursor=pointer]:
+              - /url: tel:+79785230145
+          - paragraph [ref=f14e34]: ул. Калинина, 11, Джанкой,1 этаж, Республика Крым
+        - generic [ref=f14e35]:
+          - heading "Часы" [level=3] [ref=f14e36]
+          - paragraph [ref=f14e37]: Ежедневно 8:00–21:00
+          - paragraph [ref=f14e38]: "Завтраки: 9:00–12:00"
+        - generic [ref=f14e39]:
+          - heading "На карте" [level=3] [ref=f14e40]
+          - paragraph [ref=f14e41]:
+            - link "Яндекс.Карты →" [ref=f14e42] [cursor=pointer]:
+              - /url: https://yandex.ru/maps/org/zdraste_gosti/145250516033/
+    - generic [ref=f14e43]:
+      - generic [ref=f14e44]: © 2026 «Здрасьте, гости»
+      - generic [ref=f14e45]: Хорошее место 2026
